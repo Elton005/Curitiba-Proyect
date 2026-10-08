@@ -39,6 +39,10 @@ h1{font-size:clamp(40px,8vw,88px);max-width:980px;letter-spacing:-.03em}h1 em{fo
 .tk{display:flex;align-items:center;gap:56px;width:max-content;animation:m 28s linear infinite}.tk span{flex:none;white-space:nowrap}@keyframes m{to{transform:translateX(-50%)}}
 @media(prefers-reduced-motion:reduce){.tk{animation:none}html{scroll-behavior:auto}}
 section{padding:84px 0}h2{font-size:clamp(30px,5vw,54px);letter-spacing:-.02em;margin-bottom:16px;max-width:760px}.sub{color:var(--mut);max-width:620px;margin:0 0 40px}
+.dark-section{--bg:#060b1a;--fg:#eef2fb;--mut:#9aa8c7;--card:#0e1730;--line:#1c2845;--ac:#19e3a0;background:var(--dk);color:var(--fg)}
+.dark-section.alt{background:var(--dk)}
+.dark-section .ey{color:var(--g)}
+.dark-section .card,.dark-section .col{background:var(--card)}
 .st{display:grid;grid-template-columns:minmax(0,1.1fr) minmax(280px,.9fr);gap:18px;align-items:stretch}
 .stats-options{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
 .stats-option{min-width:0;text-align:left;border:1px solid var(--line);border-radius:18px;padding:18px;background:var(--card);color:var(--fg);font:inherit;cursor:pointer;transition:border-color .2s,background .2s,transform .2s}
@@ -59,8 +63,17 @@ section{padding:84px 0}h2{font-size:clamp(30px,5vw,54px);letter-spacing:-.02em;m
 .src{font-size:12px;color:var(--mut);margin-top:14px}
 @media(max-width:800px){.st{grid-template-columns:1fr}}
 @media(max-width:420px){.stats-options{gap:8px}.stats-option{padding:14px}.stats-option-head{display:grid;grid-template-columns:28px minmax(0,1fr);grid-template-rows:auto auto;gap:2px 8px}.stats-option-logo{grid-column:1;grid-row:1/3;width:28px;height:28px;font-size:20px}.stats-option-label{grid-column:2;grid-row:1;overflow-wrap:normal;font-size:12px}.stats-option-value{grid-column:2;grid-row:2;margin:0;font-size:18px}}
-.cols{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:0;border-top:1px solid var(--line)}
-.col{padding:32px 28px 32px 0;border-bottom:1px solid var(--line)}.col i{font:800 14px inherit;color:var(--ac);font-style:normal}.col h3{font-size:28px;margin:10px 0}.col p{color:var(--mut);margin:0}
+.cols{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:16px}
+.col{padding:24px;border:1px solid var(--line);border-radius:20px;background:var(--bg);transition:border-color .2s,transform .2s}
+.col:hover{border-color:var(--ac);transform:translateY(-3px)}
+.col-top{display:flex;align-items:center;justify-content:space-between;margin-bottom:24px}
+.col-icon{width:46px;height:46px;display:grid;place-items:center;border-radius:14px;background:rgba(25,227,160,.12);color:var(--ac);font-size:20px}
+.col-step{color:var(--mut);font-size:13px;font-weight:800;letter-spacing:.12em}
+.col h3{font-size:23px;margin:0 0 12px}
+.col p{color:var(--mut);margin:0 0 20px}
+.col-benefit{display:flex;align-items:flex-start;gap:9px;padding-top:16px;border-top:1px solid var(--line);font-size:13px;line-height:1.5}
+.col-benefit i{flex:none;margin-top:3px;color:var(--ac)}
+@media(prefers-reduced-motion:reduce){.col{transition:none}}
 .alt{background:var(--card)}.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:16px}
 .card{background:var(--bg);border:1px solid var(--line);border-radius:20px;padding:26px;transition:border-color .25s,transform .2s;transform:perspective(700px) rotateX(var(--rx,0deg)) rotateY(var(--ry,0deg))}.card:hover{border-color:var(--ac)}
 .card h3{font-size:20px;margin-bottom:8px}.card p{margin:0;color:var(--mut);font-size:15px}
@@ -160,28 +173,28 @@ footer .footer-logo{display:flex;align-items:center;gap:8px;color:#fff;font-size
 <div class="src" data-t="Fuente: Sebrae, Pulso dos Pequenos Negócios, 12ª edición (feb–mar 2026). Verificar antes de publicar.¦Fonte: Sebrae, Pulso dos Pequenos Negócios, 12ª edição (fev–mar 2026). Verificar antes de publicar."></div>
 </div></section>
 
-<section class="alt"><div class="w">
-<div class="ey" data-t="Cómo trabajamos¦Como trabalhamos"></div><h2 data-t="Un recorrido claro, de la publicación al pedido.¦Um caminho claro, da publicação ao pedido."></h2>
+<section class="alt dark-section"><div class="w">
+<div class="ey" data-t="Cómo trabajamos¦Como trabalhamos"></div><h2 data-t="De que te encuentren a que te contacten.¦De ser encontrado a receber contatos."></h2><p class="sub" data-t="Conectamos tu presencia digital para que tus clientes entiendan qué ofreces y sepan cómo dar el siguiente paso.¦Conectamos sua presença digital para que seus clientes entendam o que você oferece e saibam qual é o próximo passo."></p>
 <div class="cols">
-<div class="col"><i>01</i><h3 data-t="Presencia¦Presença"></h3><p data-t="Página móvil, WhatsApp Business y perfil de Google, todo conectado.¦Página mobile, WhatsApp Business e Perfil do Google, tudo conectado."></p></div>
-<div class="col"><i>02</i><h3 data-t="Contenido¦Conteúdo"></h3><p data-t="Piezas y videos con calendario y aprobación tuya antes de publicar.¦Peças e vídeos com calendário e aprovação sua antes de publicar."></p></div>
-<div class="col"><i>03</i><h3 data-t="Tienda y medición¦Loja e mensuração"></h3><p data-t="Pago en línea, pruebas de compra e informe mensual para decidir qué repetir.¦Pagamento online, testes de compra e relatório mensal para decidir o que repetir."></p></div>
+<article class="col"><div class="col-top"><span class="col-icon" aria-hidden="true"><i class="fa-solid fa-location-dot"></i></span><span class="col-step">01</span></div><h3 data-t="Te encuentran y entienden tu oferta¦Encontram você e entendem sua oferta"></h3><p data-t="Conectamos una página fácil de usar desde el celular, tu perfil de Google y un catálogo claro con WhatsApp.¦Conectamos uma página fácil de usar no celular, seu Perfil da Empresa no Google e um catálogo claro ao WhatsApp."></p><strong class="col-benefit"><i class="fa-solid fa-check" aria-hidden="true"></i><span data-t="El cliente encuentra lo que necesita sin dar vueltas.¦O cliente encontra o que precisa sem complicação."></span></strong></article>
+<article class="col"><div class="col-top"><span class="col-icon" aria-hidden="true"><i class="fa-solid fa-wand-magic-sparkles"></i></span><span class="col-step">02</span></div><h3 data-t="Tu contenido genera confianza¦Seu conteúdo gera confiança"></h3><p data-t="Creamos publicaciones y videos con un calendario, y te los mostramos para aprobar antes de publicar.¦Criamos publicações e vídeos com um calendário e enviamos tudo para sua aprovação antes de publicar."></p><strong class="col-benefit"><i class="fa-solid fa-check" aria-hidden="true"></i><span data-t="Tu negocio comunica con claridad y mantiene una presencia constante.¦Sua empresa se comunica com clareza e mantém uma presença constante."></span></strong></article>
+<article class="col"><div class="col-top"><span class="col-icon" aria-hidden="true"><i class="fa-solid fa-arrow-trend-up"></i></span><span class="col-step">03</span></div><h3 data-t="Cada consulta tiene un camino claro¦Cada contato tem um caminho claro"></h3><p data-t="Facilitamos el contacto, probamos los pasos de compra acordados y revisamos qué contenido genera más interés.¦Facilitamos o contato, testamos as etapas de compra combinadas e analisamos quais conteúdos geram mais interesse."></p><strong class="col-benefit"><i class="fa-solid fa-check" aria-hidden="true"></i><span data-t="Entiendes qué está funcionando y qué conviene mejorar.¦Você entende o que está funcionando e o que pode melhorar."></span></strong></article>
 </div></div></section>
 
-<section id="sectores"><div class="w">
+<section id="sectores" class="dark-section"><div class="w">
 <div class="ey" data-t="Por sector¦Por setor"></div><h2 data-t="Cada rubro atrae consultas de otra forma.¦Cada segmento atrai contatos de um jeito."></h2>
 <div class="grid" id="sec"></div>
 </div></section>
 
-<section id="servicios" class="alt"><div class="w">
+<section id="servicios" class="alt dark-section"><div class="w">
 <div class="ey" data-t="Servicios¦Serviços"></div><h2 data-t="Alcance escrito, precios iniciales visibles.¦Escopo escrito, valores iniciais visíveis."></h2>
 <p class="sub" data-t="Cada servicio se contrata por separado. Valores sujetos a diagnóstico.¦Cada serviço é contratado separadamente. Valores sujeitos a diagnóstico."></p>
 <div class="flt" id="flt"></div><div class="grid" id="svc"></div>
 </div></section>
 
-<section id="redes"><div class="w"><div class="ey" data-t="Tecnología aplicada a redes¦Tecnologia aplicada às redes"></div><div class="network-intro"><div><h2 data-t="De publicar por publicar a generar consultas.¦Mais do que publicar: gerar contatos."></h2><p class="sub" data-t="Contenido, herramientas y medición: una etapa o un plan mensual. El presupuesto de anuncios se paga a las plataformas y todo se aprueba contigo antes de salir.¦Conteúdo, ferramentas e mensuração: uma etapa ou um plano mensal. O investimento em anúncios é pago às plataformas e tudo é aprovado por você antes de sair."></p></div><div class="network-mockups" aria-hidden="true"><div class="missing" data-image="feed-redes.jpg" data-missing="feed-redes.jpg"></div><div class="missing" data-image="redes-reel.jpg" data-missing="redes-reel.jpg"></div></div></div><div class="grid" id="soc"></div></div></section>
-<section id="portafolio" class="alt"><div class="w"><div class="ey" data-t="Calidad a la vista¦Qualidade à vista"></div><h2 data-t="Así se ve nuestro trabajo.¦Veja como é o nosso trabalho."></h2><p class="sub" data-t="Tres demostraciones ficticias: publicación, catálogo y contacto.¦Três demonstrações fictícias: publicação, catálogo e contato."></p><p class="projects-note" data-t="Las imágenes de los casos son demostraciones ficticias.¦As imagens dos cases são demonstrações fictícias."></p><div class="grid" id="demos"></div></div></section>
-<section id="cotizador"><div class="w">
+<section id="redes" class="dark-section"><div class="w"><div class="ey" data-t="Tecnología aplicada a redes¦Tecnologia aplicada às redes"></div><div class="network-intro"><div><h2 data-t="De publicar por publicar a generar consultas.¦Mais do que publicar: gerar contatos."></h2><p class="sub" data-t="Contenido, herramientas y medición: una etapa o un plan mensual. El presupuesto de anuncios se paga a las plataformas y todo se aprueba contigo antes de salir.¦Conteúdo, ferramentas e mensuração: uma etapa ou um plano mensal. O investimento em anúncios é pago às plataformas e tudo é aprovado por você antes de sair."></p></div><div class="network-mockups" aria-hidden="true"><div class="missing" data-image="feed-redes.jpg" data-missing="feed-redes.jpg"></div><div class="missing" data-image="redes-reel.jpg" data-missing="redes-reel.jpg"></div></div></div><div class="grid" id="soc"></div></div></section>
+<section id="portafolio" class="alt dark-section"><div class="w"><div class="ey" data-t="Calidad a la vista¦Qualidade à vista"></div><h2 data-t="Así se ve nuestro trabajo.¦Veja como é o nosso trabalho."></h2><p class="sub" data-t="Tres demostraciones ficticias: publicación, catálogo y contacto.¦Três demonstrações fictícias: publicação, catálogo e contato."></p><p class="projects-note" data-t="Las imágenes de los casos son demostraciones ficticias.¦As imagens dos cases são demonstrações fictícias."></p><div class="grid" id="demos"></div></div></section>
+<section id="cotizador" class="dark-section"><div class="w">
 <div class="ey" data-t="Cotizador¦Simulador"></div><h2 data-t="Arma tu presupuesto.¦Monte seu orçamento."></h2>
 <p class="sub" data-t="Elige servicios y envía la simulación por WhatsApp. Valores de referencia, sin compromiso.¦Escolha os serviços e envie a simulação pelo WhatsApp. Valores de referência, sem compromisso."></p>
 <div class="q"><div class="card" id="opts"></div>
