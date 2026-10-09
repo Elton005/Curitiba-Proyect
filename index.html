@@ -3,169 +3,35 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>Loop Growth — Agencia digital en Curitiba</title>
-<meta name="description" content="Marketing, tecnología y contenido para comercios locales en Curitiba.">
-<meta property="og:title" content="Loop Growth — Agencia digital en Curitiba">
-<meta property="og:description" content="Presencia local, catálogo, contenido y WhatsApp en una estrategia clara.">
+<meta name="theme-color" media="(prefers-color-scheme: light)" content="#fffaf1">
+<meta name="theme-color" media="(prefers-color-scheme: dark)" content="#10172d">
+<title>Loop Avante — Soluciones digitales para comercios locales</title>
+<meta name="description" content="Conectamos comercios locales con el mundo digital: sitios web, tiendas online, aplicaciones, redes sociales y video.">
+<meta property="og:title" content="Loop Avante — Soluciones digitales para comercios locales">
+<meta property="og:description" content="Tu negocio local, con posibilidades sin límites. Conectamos tu tienda con el mundo digital.">
 <meta property="og:type" content="website">
 <meta property="og:image" content="assets/img/og-image.jpg">
 <link rel="icon" href="assets/img/favicon.jpg" type="image/jpeg">
 <link rel="apple-touch-icon" href="assets/img/icon-512.jpg">
 <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;700;800&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
-<style>
-:root{--bg:#fff;--fg:#0a1228;--mut:#5a6785;--card:#f3f6fb;--line:#dde4f0;--ac:#0a8f66;--dk:#060b1a;--g:#19e3a0;--y:#ffc857;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
-@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#060b1a;--fg:#eef2fb;--mut:#9aa8c7;--card:#0e1730;--line:#1c2845;--ac:#19e3a0}}
-:root[data-theme="dark"]{--bg:#060b1a;--fg:#eef2fb;--mut:#9aa8c7;--card:#0e1730;--line:#1c2845;--ac:#19e3a0}
-*{box-sizing:border-box}html{scroll-behavior:smooth;scroll-padding-top:calc(env(safe-area-inset-top,0px) + 64px)}
-body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.6 "Plus Jakarta Sans",system-ui,sans-serif}
-.w{max-width:1160px;margin:auto;padding:0 20px}a{color:inherit}
-header{position:sticky;top:env(safe-area-inset-top,0px);z-index:9;background:rgba(6,11,26,.88);backdrop-filter:blur(12px);color:#fff;border-bottom:1px solid rgba(255,255,255,.1)}
-nav{display:flex;align-items:center;gap:18px;height:64px}
-.logo{font-weight:800;font-size:20px;text-decoration:none;margin-right:auto}.logo b{color:var(--g)}
-nav a.l{font-size:13px;font-weight:500;text-decoration:none;color:#b9c4de}nav a.l:hover{color:#fff}
-@media(max-width:860px){nav a.l{display:none}}
-.lg{display:flex;border:1px solid rgba(255,255,255,.25);border-radius:99px;overflow:hidden}
-.lg button{border:0;background:none;color:#b9c4de;padding:6px 12px;font:700 12px inherit;font-family:inherit;cursor:pointer}.lg button.on{background:var(--g);color:#06101f}
-.btn{display:inline-block;background:var(--g);color:#06101f;padding:13px 26px;border-radius:99px;font:700 15px inherit;font-family:inherit;text-decoration:none;border:0;cursor:pointer;transition:transform .2s}
-.btn:hover{transform:translateY(-2px)}.btn.o{background:none;color:#fff;border:1.5px solid rgba(255,255,255,.4)}
-.hero{min-height:calc(100vh - 123px);min-height:calc(100svh - 123px);display:flex;align-items:center;background:radial-gradient(circle at 80% 0,#12805f66,transparent 45%),var(--dk);color:#fff;padding:48px 0}
-.hero>.w{width:100%}
-.ey{color:var(--ac);font-weight:700;font-size:12px;letter-spacing:.14em;text-transform:uppercase;margin-bottom:14px}.hero .ey{color:var(--g)}
-h1,h2,h3{line-height:1.05;margin:0;font-weight:800}
-h1{font-size:clamp(40px,8vw,88px);max-width:980px;letter-spacing:-.03em}h1 em{font-style:normal;color:var(--g)}
-.hero p{font-size:19px;color:#b9c4de;max-width:600px;margin:24px 0 32px}.row{display:flex;gap:12px;flex-wrap:wrap}
-.tick{height:58px;display:flex;align-items:center;background:var(--dk);border-top:1px solid rgba(255,255,255,.1);overflow:hidden;padding:0;color:#7d8bad;font-weight:700;letter-spacing:.08em;text-transform:uppercase;font-size:13px}
-.tk{display:flex;align-items:center;gap:56px;width:max-content;animation:m 28s linear infinite}.tk span{flex:none;white-space:nowrap}@keyframes m{to{transform:translateX(-50%)}}
-@media(prefers-reduced-motion:reduce){.tk{animation:none}html{scroll-behavior:auto}}
-section{padding:84px 0}h2{font-size:clamp(30px,5vw,54px);letter-spacing:-.02em;margin-bottom:16px;max-width:760px}.sub{color:var(--mut);max-width:620px;margin:0 0 40px}
-.dark-section{--bg:#060b1a;--fg:#eef2fb;--mut:#9aa8c7;--card:#0e1730;--line:#1c2845;--ac:#19e3a0;background:var(--dk);color:var(--fg)}
-.dark-section.alt{background:var(--dk)}
-.dark-section .ey{color:var(--g)}
-.dark-section .card,.dark-section .col{background:var(--card)}
-.st{display:grid;grid-template-columns:minmax(0,1.1fr) minmax(280px,.9fr);gap:18px;align-items:stretch}
-.stats-options{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
-.stats-option{min-width:0;text-align:left;border:1px solid var(--line);border-radius:18px;padding:18px;background:var(--card);color:var(--fg);font:inherit;cursor:pointer;transition:border-color .2s,background .2s,transform .2s}
-.stats-option:hover{border-color:var(--ac);transform:translateY(-2px)}
-.stats-option.on{border-color:var(--g);background:color-mix(in srgb,var(--g) 8%,var(--card));box-shadow:inset 0 0 0 1px var(--g)}
-.stats-option-head{display:flex;align-items:center;gap:10px;min-height:38px}
-.stats-option-logo{display:grid;place-items:center;width:34px;height:34px;flex:none;font-size:22px}
-.stats-option-logo.whatsapp{color:#25d366}.stats-option-logo.instagram{color:#e1306c}.stats-option-logo.digital{color:var(--ac)}.stats-option-logo.store{color:#7aa8ff}
-.stats-option-label{flex:1;min-width:0;overflow-wrap:anywhere;font-size:14px;font-weight:700}.stats-option-value{flex:none;margin-left:auto;font-size:23px;font-weight:800;letter-spacing:-.04em}
-.big{position:relative;overflow:hidden;background:var(--dk);color:#fff;border-radius:24px;padding:clamp(24px,4vw,36px);min-height:280px;display:flex;flex-direction:column;justify-content:center}
-.big:before{content:"";position:absolute;inset:0;background:radial-gradient(circle at 85% 5%,rgba(25,227,160,.14),transparent 48%);pointer-events:none}
-.stats-feature-head,.stats-feature-value,.stats-feature-copy,.big a{position:relative}
-.stats-feature-head{display:flex;align-items:center;justify-content:space-between;gap:12px;color:#b9c4de;font-size:12px;font-weight:700;letter-spacing:.1em;text-transform:uppercase}
-.stats-index{padding:6px 9px;border:1px solid rgba(255,255,255,.16);border-radius:99px}
-.stats-feature-value{display:block;margin:20px 0 8px;font-size:clamp(76px,11vw,120px);font-weight:800;line-height:.85;color:var(--g);letter-spacing:-.06em}
-.stats-feature-copy{min-height:54px;color:#d4dbea;font-size:16px;line-height:1.5;margin:10px 0 22px}
-.big a{align-self:flex-start;color:var(--g);font-weight:700;text-decoration:none}
-.src{font-size:12px;color:var(--mut);margin-top:14px}
-@media(max-width:800px){.st{grid-template-columns:1fr}}
-@media(max-width:420px){.stats-options{gap:8px}.stats-option{padding:14px}.stats-option-head{display:grid;grid-template-columns:28px minmax(0,1fr);grid-template-rows:auto auto;gap:2px 8px}.stats-option-logo{grid-column:1;grid-row:1/3;width:28px;height:28px;font-size:20px}.stats-option-label{grid-column:2;grid-row:1;overflow-wrap:normal;font-size:12px}.stats-option-value{grid-column:2;grid-row:2;margin:0;font-size:18px}}
-.cols{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:16px}
-.col{padding:24px;border:1px solid var(--line);border-radius:20px;background:var(--bg);transition:border-color .2s,transform .2s}
-.col:hover{border-color:var(--ac);transform:translateY(-3px)}
-.col-top{display:flex;align-items:center;justify-content:space-between;margin-bottom:24px}
-.col-icon{width:46px;height:46px;display:grid;place-items:center;border-radius:14px;background:rgba(25,227,160,.12);color:var(--ac);font-size:20px}
-.col-step{color:var(--mut);font-size:13px;font-weight:800;letter-spacing:.12em}
-.col h3{font-size:23px;margin:0 0 12px}
-.col p{color:var(--mut);margin:0 0 20px}
-.col-benefit{display:flex;align-items:flex-start;gap:9px;padding-top:16px;border-top:1px solid var(--line);font-size:13px;line-height:1.5}
-.col-benefit i{flex:none;margin-top:3px;color:var(--ac)}
-@media(prefers-reduced-motion:reduce){.col{transition:none}}
-.alt{background:var(--card)}.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:16px}
-.card{background:var(--bg);border:1px solid var(--line);border-radius:20px;padding:26px;transition:border-color .25s,transform .2s;transform:perspective(700px) rotateX(var(--rx,0deg)) rotateY(var(--ry,0deg))}.card:hover{border-color:var(--ac)}
-.card h3{font-size:20px;margin-bottom:8px}.card p{margin:0;color:var(--mut);font-size:15px}
-.pr{font-size:28px;font-weight:800;color:var(--ac);margin:12px 0 4px}.pr small{font-size:13px;color:var(--mut);font-weight:500}
-.q{display:grid;grid-template-columns:1.3fr 1fr;gap:20px}@media(max-width:800px){.q{grid-template-columns:1fr}}
-.opt{display:flex;gap:12px;align-items:center;padding:14px 0;border-bottom:1px solid var(--line);cursor:pointer}.opt:last-child{border:0}
-.opt input{width:20px;height:20px;accent-color:#19e3a0;flex:none}.opt div{flex:1}.opt small{display:block;color:var(--mut)}.opt b{white-space:nowrap}
-.tot{background:var(--dk);color:#fff;border-radius:24px;padding:30px;align-self:start}.tot .n{font-size:40px;font-weight:800;color:var(--g)}.tot p{color:#b9c4de;font-size:14px}.tot .btn{width:100%;text-align:center;margin-top:8px}
-.av{width:64px;height:64px;border-radius:50%;display:grid;place-items:center;font-weight:800;font-size:26px;color:#06101f;margin-bottom:14px}.role{color:var(--ac);font-weight:700;font-size:13px;margin-bottom:8px}
-.cta{background:var(--dk);color:#fff}form{display:grid;gap:12px;max-width:560px}
-input,textarea{width:100%;padding:14px;border:1px solid rgba(255,255,255,.2);border-radius:12px;background:rgba(255,255,255,.06);color:#fff;font:inherit}
-footer{background:var(--dk);color:#7d8bad;font-size:13px;padding:28px 0;border-top:1px solid rgba(255,255,255,.1)}
-#pg{position:fixed;top:0;left:0;height:3px;width:100%;background:var(--g);transform:scaleX(0);transform-origin:0 0;z-index:20}
-.lk{display:flex;gap:18px;align-items:center}.lk a{font-size:13px;font-weight:500;text-decoration:none;color:#b9c4de}.lk a:hover{color:#fff}
-#mb{display:none;background:none;border:1px solid rgba(255,255,255,.3);color:#fff;border-radius:10px;width:42px;height:38px;font-size:18px;cursor:pointer}
-@media(max-width:980px){#mb{display:block}.lk{display:none;position:fixed;left:0;right:0;top:calc(env(safe-area-inset-top,0px) + 64px);background:var(--dk);flex-direction:column;align-items:flex-start;padding:20px;gap:16px}.lk.open{display:flex}.lk a{font-size:17px}}
-.hero{background:radial-gradient(500px circle at var(--mx,80%) var(--my,10%),#19e3a040,transparent 60%),radial-gradient(circle at 80% 0,#12805f66,transparent 45%),var(--dk)}
-.rv{opacity:0;transform:translateY(28px);transition:opacity .7s,transform .7s}.rv.in{opacity:1;transform:none}
-.flt{display:flex;gap:8px;flex-wrap:wrap;margin:0 0 22px}.flt button{border:1.5px solid var(--line);background:var(--bg);color:var(--fg);padding:8px 16px;border-radius:99px;font:600 13px inherit;font-family:inherit;cursor:pointer}.flt button.on{background:var(--g);color:#06101f;border-color:var(--g)}
-.ic{font-size:26px;margin-bottom:10px}
-.ph{margin:0 auto 18px;width:190px;height:300px;border-radius:26px;border:6px solid #1c2a45;background:#fff;color:#222;overflow:hidden;position:relative;animation:fl 6s ease-in-out infinite}@keyframes fl{50%{transform:translateY(-8px)}}
-.ph .tp{padding:10px 12px;font-weight:800;font-size:13px;color:#fff}.ph .hd{padding:6px 12px;font-size:11px;color:#555}.ph .pg{display:grid;grid-template-columns:1fr 1fr;gap:8px;padding:8px 10px}.ph .it{border-radius:10px;height:72px;position:relative}.ph .it em{position:absolute;bottom:4px;left:6px;font:700 10px inherit;font-family:inherit;color:#fff;font-style:normal}.ph .wa{position:absolute;bottom:10px;left:10px;right:10px;background:#25d366;color:#fff;text-align:center;border-radius:99px;padding:8px;font-weight:800;font-size:12px}
-.bd{font-size:11px;color:var(--mut);border:1px dashed var(--line);border-radius:99px;padding:2px 10px;display:inline-block;margin-top:10px}
-.ts{margin-top:28px;background:var(--dk);color:#fff;border-radius:24px;padding:30px}.ts h3{font-size:24px;margin-bottom:8px}.ts p{color:#b9c4de;margin:0 0 16px}.ts ul{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:8px 24px;margin:0;padding-left:18px}
-@media(prefers-reduced-motion:reduce){.rv{opacity:1;transform:none;transition:none}.ph{animation:none}.stats-option{transition:none}}
-.logo{display:flex;align-items:center}
-.hero{position:relative;isolation:isolate;overflow:hidden;background:linear-gradient(110deg,rgba(6,11,26,.92),rgba(6,11,26,.72)),radial-gradient(circle at 80% 0,#12805f66,transparent 45%),var(--dk)}
-.hero:before{content:"";position:absolute;inset:-30px;z-index:1;background:radial-gradient(ellipse at 68% 55%,rgba(25,227,160,.18),transparent 48%);transform:translate3d(0,var(--hero-parallax,0px),0) scale(var(--hero-scale,1));transform-origin:center;animation:hero-ken 24s ease-in-out infinite alternate}
-.hero-art{position:absolute;inset:-30px;width:calc(100% + 60px);height:calc(100% + 60px);object-fit:cover;opacity:0;z-index:0;transform:translate3d(0,var(--hero-parallax,0px),0) scale(1);transform-origin:center;animation:hero-ken 24s ease-in-out infinite alternate}
-.hero-art-wrap .asset-picture img{transform:translate3d(0,var(--hero-parallax,0px),0) scale(1);transform-origin:center;animation:hero-ken 24s ease-in-out infinite alternate}
-.hero:after{content:"";position:absolute;inset:0;z-index:2;background:radial-gradient(500px circle at var(--mx,80%) var(--my,10%),#19e3a040,transparent 60%),linear-gradient(110deg,rgba(6,11,26,.85),rgba(6,11,26,.4));pointer-events:none}
-.hero>.w{position:relative;z-index:3}
-@keyframes hero-ken{to{transform:translate3d(0,var(--hero-parallax,0px),0) scale(1.06)}}
-.missing{background:linear-gradient(145deg,#14213b,#0c513f);position:relative;overflow:hidden}
-.missing:after{content:"";position:absolute;inset:0;background:linear-gradient(135deg,transparent 38%,rgba(25,227,160,.08));pointer-events:none}
-.missing[data-missing]{min-height:80px}
-.asset-picture{position:absolute;inset:0;display:block;overflow:hidden}
-.asset-picture img{display:block;width:100%;height:100%;object-fit:cover;opacity:0;transition:opacity .5s}
-.asset-picture img.loaded{opacity:1}
-.icon-placeholder.missing,.team-photo .missing,.ph .it .missing{min-height:0}
-.hero-art-wrap{position:absolute;inset:0;z-index:0;overflow:hidden;pointer-events:none}
-.banner-slot .asset-picture{inset:-30px}
-.banner-slot .asset-picture img{transform:translate3d(0,var(--banner-parallax,0px),0) scale(1.08)}
-.photo-slot{overflow:hidden;border-radius:16px;background:#14213b;position:relative;isolation:isolate}
-.photo-slot:after{content:"";position:absolute;inset:0;background:rgba(25,227,160,.12);opacity:0;transition:opacity .5s;pointer-events:none}
-.sector-photo{aspect-ratio:4/3;margin:-26px -26px 18px}
-.sector-photo .missing{height:100%}
-.sector-photo .missing{transition:transform .5s}
-.sector-photo:hover .missing{transform:scale(1.06)}
-.sector-photo:hover:after{opacity:1}
-.photo-slot .missing{height:100%;min-height:inherit}
-.image-reveal>.missing{clip-path:inset(100% 0 0);transform:scale(1.08);transition:clip-path .9s ease,transform .9s ease,opacity .5s}
-.image-reveal.in>.missing{clip-path:inset(0);transform:scale(1);opacity:1}
-.icon-placeholder{width:42px;height:42px;border-radius:12px;margin-bottom:12px;min-height:42px}
-.demo-photo{aspect-ratio:4/5;border-radius:14px;margin-bottom:20px}
-.demo-photo .missing{height:100%}
-.demo-card{text-align:left}
-.demo-card .description{text-align:left}
-.bd{margin-bottom:0}
-.banner-slot{height:clamp(180px,30vw,360px);overflow:hidden;position:relative;background:#101b31}
-.banner-slot .missing{height:100%;background:linear-gradient(180deg,#122039,#0b3a33)}
-.banner-slot:after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(6,11,26,.05),var(--dk));pointer-events:none}
-.banner-slot .missing{display:grid;place-items:center;color:#b9c4de;font-weight:700}
-footer .footer-logo{display:flex;align-items:center;gap:8px;color:#fff;font-size:18px;font-weight:800;margin-bottom:12px}
-.team-photo{width:64px;height:64px;border-radius:50%;margin-bottom:14px;display:grid;place-items:center;overflow:hidden}
-.team-photo .missing{height:100%;width:100%;display:grid;place-items:center;font-weight:800;font-size:26px;color:#06101f}
-.network-intro{display:grid;grid-template-columns:minmax(0,1fr) 220px;gap:22px;align-items:center}
-.network-mockups{display:flex;gap:10px;align-items:center;justify-content:center}
-.network-mockups .missing{width:96px;height:122px;border-radius:14px;transform:rotate(-5deg)}
-.network-mockups .missing:last-child{height:146px;transform:rotate(5deg)}
-.network-mockups .missing:before{content:"";position:absolute;inset:10px;border:1px solid rgba(255,255,255,.18);border-radius:8px}
-.projects-note{margin:-20px 0 28px;color:var(--mut);font-size:13px}
-@media(max-width:767px){.network-intro{grid-template-columns:1fr}.network-mockups{display:none}.ph .pg{overflow-x:auto;grid-template-columns:repeat(4,110px);scroll-snap-type:x mandatory}.ph .it{scroll-snap-align:start}.dialog-gallery{display:flex;overflow-x:auto;scroll-snap-type:x mandatory}.dialog-photo{flex:0 0 85%;aspect-ratio:4/3}}
-@media(prefers-reduced-motion:reduce){.hero:before{animation:none;transform:none}.image-reveal>.missing{clip-path:none;transform:none;opacity:1;transition:none}.sector-photo:hover .missing{transform:none}}
-@media(max-width:767px),(prefers-reduced-motion:reduce){.hero:before{--hero-parallax:0px}.banner-slot .missing{--banner-parallax:0px}}
-</style>
+<link rel="stylesheet" href="assets/css/site.css">
 </head>
 <body>
 <div id="pg"></div>
 <header><div class="w"><nav>
-<a class="logo" href="#top" aria-label="Loop Growth">Loop <b>Growth</b></a>
+<a class="logo" href="#top" aria-label="Loop Avante"><i class="fa-solid fa-infinity" aria-hidden="true"></i><span>Loop <b>Avante</b></span></a>
 <div class="lk" id="lk"><a href="#datos" data-t="Datos¦Dados"></a><a href="#sectores" data-t="Sectores¦Setores"></a><a href="#servicios" data-t="Servicios¦Serviços"></a><a href="#redes" data-t="Redes¦Redes"></a><a href="#portafolio" data-t="Portafolio¦Portfólio"></a><a href="#cotizador" data-t="Cotizador¦Simulador"></a><a href="#equipo" data-t="Equipo¦Equipe"></a><a href="#contacto" data-t="Contacto¦Contato"></a></div>
 <div class="lg"><button id="bes">ES</button><button id="bpt">PT</button></div><button id="mb" aria-label="Menu">☰</button>
 </nav></div></header>
 <main id="top">
-<section class="hero"><div class="hero-art-wrap" data-image="hero-bg.jpg" data-mobile-image="hero-bg-mobile.jpg" data-missing="hero-bg.jpg"></div><div class="w">
-<div class="ey" data-t="Curitiba · Marketing, tecnología y contenido¦Curitiba · Marketing, tecnologia e conteúdo"></div>
-<h1 data-t="En el comercio local, todo empieza <em>en una conversación.</em>¦No comércio local, tudo começa <em>em uma conversa.</em>"></h1>
-<p data-t="Presencia local, catálogo, contenido y WhatsApp en una estrategia clara, con un responsable para cada etapa.¦Presença local, catálogo, conteúdo e WhatsApp em uma estratégia clara, com um responsável por etapa."></p>
-<div class="row"><a class="btn" href="#cotizador" data-t="Arma tu presupuesto¦Monte seu orçamento"></a><a class="btn o" href="#contacto" data-t="Charla de 15 min¦Conversa de 15 min"></a></div>
+<section class="hero"><div class="hero-art-wrap" data-image="team-claro.jpg" data-dark-image="team-oscuro.jpg" data-missing="team-claro.jpg"></div><div class="w">
+<div class="ey" data-t="Soluciones digitales para negocios locales · Curitiba¦Soluções digitais para negócios locais · Curitiba"></div>
+<h1 data-t="Tu negocio local, con posibilidades <em>sin límites.</em>¦Seu negócio local, com possibilidades <em>sem limites.</em>"></h1>
+<p data-t="Conectamos tu tienda con el mundo digital: sitios web, tiendas online, aplicaciones, redes sociales y video.¦Conectamos sua loja ao mundo digital: sites, lojas online, aplicativos, redes sociais e vídeo."></p>
+<div class="row"><a class="btn" href="#cotizador" data-t="Hagamos crecer tu idea →¦Vamos fazer sua ideia crescer →"></a><a class="btn o" href="#contacto" data-t="Hablemos de tu negocio¦Vamos conversar sobre seu negócio"></a></div>
 </div></section>
-<div class="tick"><div class="tk" aria-hidden="true"><span>WhatsApp Business</span><span>Instagram</span><span>Google Perfil da Empresa</span><span>Facebook</span><span>Catálogo</span><span>Reservas</span><span>Loja online</span><span>WhatsApp Business</span><span>Instagram</span><span>Google Perfil da Empresa</span><span>Facebook</span><span>Catálogo</span><span>Reservas</span><span>Loja online</span></div></div>
+<div class="tick"><div class="tk" aria-hidden="true"><span>WhatsApp Business</span><span>Instagram</span><span data-t="Google Perfil de Empresa¦Perfil da Empresa no Google"></span><span>Facebook</span><span data-t="Catálogo¦Catálogo"></span><span data-t="Reservas¦Agendamentos"></span><span data-t="Tienda online¦Loja online"></span><span>WhatsApp Business</span><span>Instagram</span><span data-t="Google Perfil de Empresa¦Perfil da Empresa no Google"></span><span>Facebook</span><span data-t="Catálogo¦Catálogo"></span><span data-t="Reservas¦Agendamentos"></span><span data-t="Tienda online¦Loja online"></span></div></div>
 
 <section id="datos"><div class="w">
 <div class="ey" data-t="Datos¦Dados"></div><h2 data-t="Tus clientes ya están en el celular. ¿Tu negocio también?¦Seus clientes já estão no celular. E o seu negócio?"></h2>
@@ -198,7 +64,7 @@ footer .footer-logo{display:flex;align-items:center;gap:8px;color:#fff;font-size
 <div class="ey" data-t="Cotizador¦Simulador"></div><h2 data-t="Arma tu presupuesto.¦Monte seu orçamento."></h2>
 <p class="sub" data-t="Elige servicios y envía la simulación por WhatsApp. Valores de referencia, sin compromiso.¦Escolha os serviços e envie a simulação pelo WhatsApp. Valores de referência, sem compromisso."></p>
 <div class="q"><div class="card" id="opts"></div>
-<div class="tot"><div class="icon-placeholder missing" data-image="icono-08.jpg" data-missing="icono-08.jpg" aria-hidden="true"></div><p data-t="Inversión inicial (única)¦Investimento inicial (único)"></p><div class="n" id="t1"></div><p data-t="Mensualidad¦Mensalidade"></p><div class="n" id="t2"></div>
+<div class="tot"><div class="icon-placeholder missing" data-image="icono-07.jpg" data-missing="icono-07.jpg" aria-hidden="true"></div><p data-t="Inversión inicial (única)¦Investimento inicial (único)"></p><div class="n" id="t1"></div><p data-t="Mensualidad¦Mensalidade"></p><div class="n" id="t2"></div>
 <p data-t="Dominio, alojamiento, anuncios y tarifas de plataforma los paga el cliente.¦Domínio, hospedagem, anúncios e tarifas de plataforma ficam por conta do cliente."></p><a class="btn" id="wa" href="#" target="_blank" rel="noopener" data-t="Enviar por WhatsApp¦Enviar pelo WhatsApp"></a></div></div>
 </div></section>
 
@@ -215,75 +81,7 @@ footer .footer-logo{display:flex;align-items:center;gap:8px;color:#fff;font-size
 </div></section>
 </main>
 <div class="banner-slot"><div class="missing" data-image="curitiba-banner.jpg" data-mobile-image="curitiba-banner-mobile.jpg" data-missing="curitiba-banner.jpg" role="img" data-alt-es="Imagen ilustrativa panorámica de Curitiba" data-alt-pt="Imagem ilustrativa panorâmica de Curitiba"></div></div>
-<footer><div class="w"><div class="footer-logo">Loop Growth</div><div data-t="© 2026 Loop Growth · Curitiba. No prometemos ventas, seguidores ni posicionamiento: entregamos alcance, plazos y pruebas acordados.¦© 2026 Loop Growth · Curitiba. Não prometemos vendas, seguidores ou posicionamento: entregamos escopo, prazos e testes combinados."></div><div data-t="Imágenes ilustrativas¦Imagens ilustrativas"></div></div></footer>
-<script>
-const NUM="5541999999999"; // CAMBIAR / TROCAR por el WhatsApp real
-let L=0,M=0;const sel=new Set(),$=id=>document.getElementById(id),R=v=>"R$ "+v.toLocaleString("pt-BR"),p=s=>{const a=s.split("¦");return a[L]||a[0]};
-const ST=[["WhatsApp","82%","de los pequeños negocios que venden en línea usan WhatsApp como canal de venta.¦dos pequenos negócios que vendem online usam o WhatsApp como canal de vendas."],["Instagram","57%","de los pequeños negocios usan Instagram para vender.¦dos pequenos negócios usam o Instagram para vender."],["Venta digital¦Venda digital","73%","de los pequeños negocios venden por canales digitales.¦dos pequenos negócios vendem por canais digitais."],["Tienda propia¦Loja própria","10%","de los pequeños negocios tienen una tienda online propia.¦dos pequenos negócios têm uma loja virtual própria."]];
-const STAT_ICONS=[["fa-brands","fa-whatsapp","whatsapp"],["fa-brands","fa-instagram","instagram"],["fa-solid","fa-chart-line","digital"],["fa-solid","fa-store","store"]];
-const SEC=[["Gastronomía¦Gastronomia","Menú digital, combos de temporada y pedidos por WhatsApp.¦Cardápio digital, combos sazonais e pedidos pelo WhatsApp."],["Moda y regalos¦Moda e presentes","Catálogo visual, novedades y fechas comerciales.¦Catálogo visual, novidades e datas comerciais."],["Belleza y bienestar¦Beleza e bem-estar","Paquetes, agenda de turnos y contenido que muestra el trabajo.¦Pacotes, agenda de horários e conteúdo que mostra o trabalho."],["Hogar y servicios¦Casa e serviços","Portafolio, ficha de Google y formulario de presupuestos.¦Portfólio, Perfil do Google e formulário de orçamentos."]];
-const S=[["Presencia local¦Presença local",1500,0,"Página móvil, catálogo de 25 productos, WhatsApp Business y perfil de Google.¦Página mobile, catálogo de 25 produtos, WhatsApp Business e Perfil do Google."],["Promoción y contenido¦Divulgação e conteúdo",0,1500,"6 piezas + 2 videos al mes, calendario e informe mensual.¦6 peças + 2 vídeos por mês, calendário e relatório mensal."],["Tienda online inicial¦Loja online inicial",4200,0,"20 productos, pago en línea y pruebas de compra completas.¦20 produtos, pagamento online e testes de compra completos."],["Cuidado de web¦Cuidado de site",0,350,"Revisión, actualizaciones, respaldo y cambios pequeños.¦Revisão, atualizações, backup e pequenas alterações."],["Cuidado de tienda¦Cuidado de loja",0,550,"Soporte y pruebas de compra, hasta 3 h mensuales.¦Suporte e testes de compra, até 3 h mensais."],["Diagnóstico de aplicación¦Diagnóstico de aplicativo",700,0,"Problema, funciones mínimas y presupuesto por fases.¦Problema, funções mínimas e orçamento por fases."]];
-const TM=[["E","#19e3a0","Ernesto","Estrategia comercial y administración¦Estratégia comercial e administração","Diagnóstico, propuestas, precios y finanzas. Tu contacto principal.¦Diagnóstico, propostas, preços e finanças. Seu contato principal."],["A","#7aa8ff","Ali","Tecnología y operaciones¦Tecnologia e operações","Webs, tiendas, integraciones, pruebas y respaldos.¦Sites, lojas, integrações, testes e backups."],["Y","#ffc857","Yoisielis","Diseño y comunicación¦Design e comunicação","Identidad visual, videos, contenido y calendario.¦Identidade visual, vídeos, conteúdo e calendário."]];
-["pm","me","p","p","p","p"].forEach((c,j)=>S[j][4]=c);
-S.push(["Google y descubrimiento local¦Google e descoberta local",0,0,"Perfil de Empresa, categorías, horarios y enlaces coherentes.¦Perfil da Empresa, categorias, horários e links consistentes.","mp",1],["Landing page para campañas¦Landing page para campanhas",0,0,"Una página por producto, servicio o evento, con WhatsApp o formulario.¦Uma página por produto, serviço ou evento, com WhatsApp ou formulário.","pm",1],["Reservas y solicitudes¦Reservas e solicitações",0,0,"Formulario para citas, eventos o presupuestos con confirmación.¦Formulário para agendamentos, eventos ou orçamentos com confirmação.","p",1],["CRM y organización de consultas¦CRM e organização de contatos",0,0,"Etapas del primer contacto al cierre y próximo seguimiento.¦Etapas do primeiro contato ao fechamento e próximo acompanhamento.","pm",1],["Campaña de temporada¦Campanha sazonal",0,0,"Objetivo, calendario, mensajes y piezas, con revisión de resultados.¦Objetivo, calendário, mensagens e peças, com análise de resultados.","me",1],["4 videos cortos¦4 vídeos curtos",600,0,"Edición por lote con tu material.¦Edição em lote com seu material.","e"]);
-const CT=[["all","Todos¦Todos"],["m","Marketing"],["p","Programación¦Programação"],["e","Edición y video¦Edição e vídeo"]];let F="all";
-const PR=s=>s[5]?p("A cotizar¦Sob consulta"):R(s[1]||s[2]);
-const SOC=[["icono-01.jpg","Diagnóstico y objetivos¦Diagnóstico e objetivos","Canales, oferta y público; una meta útil: consultas, reservas o visitas.¦Canais, oferta e público; uma meta útil: contatos, reservas ou visitas."],["icono-02.jpg","Calendario y campañas¦Calendário e campanhas","Temas y fechas comerciales con frecuencia sostenible.¦Temas e datas comerciais com frequência sustentável."],["icono-03.jpg","Diseño y publicaciones¦Design e publicações","Piezas para feed e historias con identidad y un siguiente paso claro.¦Peças para feed e stories com identidade e próximo passo claro."],["icono-04.jpg","Reels y videos cortos¦Reels e vídeos curtos","Guion breve, edición y subtítulos en formato vertical.¦Roteiro curto, edição e legendas em formato vertical."],["icono-05.jpg","Perfil, enlaces y WhatsApp¦Perfil, links e WhatsApp","Del post a la consulta: bio, enlace, catálogo y mensajes de bienvenida.¦Do post ao contato: bio, link, catálogo e mensagens de boas-vindas."],["icono-06.jpg","Campañas pagadas¦Anúncios pagos","Objetivo, público geográfico y piezas; lectura de clics y consultas.¦Objetivo, público geográfico e peças; análise de cliques e contatos."],["icono-07.jpg","Medición y mejora¦Mensuração e melhoria","Qué repetir, ajustar o dejar de hacer, según el informe.¦O que repetir, ajustar ou parar, segundo o relatório."]];
-const D=[["Tienda de ropa¦Loja de roupas","De la publicación al catálogo con precios y botón de pedido.¦Da publicação ao catálogo com preços e botão de pedido.","Foto editorial de una colección de ropa de una tienda local ficticia¦Foto editorial de uma coleção de roupas de uma loja local fictícia"],["Barbería¦Barbearia","Servicios claros y reserva directa por WhatsApp.¦Serviços claros e reserva direta pelo WhatsApp.","Barbero atendiendo a un cliente en una barbería local ficticia¦Barbeiro atendendo um cliente em uma barbearia local fictícia"],["Comercio de regalos¦Loja de presentes","Colecciones por ocasión y pedidos personalizados.¦Coleções por ocasião e pedidos personalizados.","Selección de regalos cuidadosamente empaquetados en una tienda ficticia¦Seleção de presentes cuidadosamente embalados em uma loja fictícia"]];
-const TS=["Una forma clara de trabajar juntos¦Uma forma clara de trabalhar em equipe","Todos se apoyan, pero cada compromiso tiene un responsable y una fecha visible.¦Todos se ajudam, mas cada tarefa tem um responsável e um prazo visível.",["Cada tarea con responsable y fecha¦Cada tarefa com responsável e prazo","Estados: pendiente, en curso, esperando al cliente, terminado¦Status: pendente, em andamento, aguardando o cliente, concluído","Archivos, accesos y decisiones en un espacio del equipo¦Arquivos, acessos e decisões em um espaço da equipe","Revisión semanal: oportunidades, ingresos y gastos, bloqueos y entregas¦Revisão semanal: oportunidades, receitas e despesas, bloqueios e entregas"]];
-const ASSETS={
-  sectors:["sector-gastronomia.jpg","sector-moda.jpg","sector-beleza.jpg","sector-casa.jpg"],
-  demos:["demo-ropa.jpg","demo-barberia.jpg","demo-regalos.jpg"],
-  team:["team-ernesto.jpg","team-ali.jpg","team-yoisielis.jpg"]
-};
-const ALT=[
-  ["Plato preparado de gastronomía local","Prato preparado de gastronomia local"],
-  ["Prenda de moda en una tienda local","Peça de moda em uma loja local"],
-  ["Espacio de belleza y bienestar","Espaço de beleza e bem-estar"],
-  ["Interior de una casa o servicio para el hogar","Interior de uma casa ou serviço para o lar"]
-];
-const IMG_DIR="assets/img/";
-function mountJpg(el,filename,{mobile="",alt="",width=800,height=800,priority=false,sizes="(min-width:1024px) 280px, 90vw"}={}){
-  const picture=document.createElement("picture");picture.className="asset-picture";
-  if(mobile){const source=document.createElement("source");source.media="(max-width: 767px)";source.srcset=IMG_DIR+mobile;picture.append(source)}
-  const img=document.createElement("img");img.src=IMG_DIR+filename;img.alt=alt;img.width=width;img.height=height;img.loading=priority?"eager":"lazy";img.decoding="async";img.sizes=sizes;
-  if(filename==="pattern-loop.jpg"){picture.style.backgroundImage=`url("${IMG_DIR+filename}")`;picture.style.backgroundRepeat="repeat";picture.style.backgroundSize="180px 180px";img.style.display="none"}
-  if(priority)img.fetchPriority="high";
-  img.addEventListener("load",()=>{img.classList.add("loaded");el.classList.add("has-image")},{once:true});
-  img.addEventListener("error",()=>{const source=picture.querySelector("source");if(source){source.remove();img.src=IMG_DIR+filename;return}el.dataset.missing=filename;el.classList.remove("has-image");picture.remove()});
-  picture.append(img);el.prepend(picture);
-}
-function hydrateImages(root=document){root.querySelectorAll("[data-image]").forEach(el=>{if(el.dataset.hydrated)return;el.dataset.hydrated="true";const name=el.dataset.image,mobile=el.dataset.mobileImage||"",alt=el.dataset.altEs?(L?el.dataset.altPt:el.dataset.altEs):"";let width=800,height=800;if(name==="hero-bg.jpg"){width=1920;height=1080}else if(name==="hero-bg-mobile.jpg"||name==="curitiba-banner-mobile.jpg"){width=900;height=1200}else if(name==="curitiba-banner.jpg"){width=2000;height=600}else if(name==="redes-feed.jpg"){width=1080;height=1350}else if(name==="redes-reel.jpg"){width=1080;height=1920}else if(name==="pattern-loop.jpg"||name==="logo-symbol.jpg"||name.startsWith("icono-")){width=512;height=512}else if(name.startsWith("sector-")){width=1200;height=900}mountJpg(el,name,{mobile,alt,width,height,priority:name==="hero-bg.jpg",sizes:name.startsWith("hero-bg")?"100vw":name.startsWith("curitiba-banner")?"100vw":name.startsWith("demo-")?"(min-width:1024px) 400px, 85vw":"(min-width:1024px) 280px, 90vw"})})}
-function setStats(){$("mt").setAttribute("aria-label",p("Selecciona un indicador¦Selecione um indicador"));$("mt").innerHTML=ST.map((s,j)=>`<button type="button" class="stats-option${j===M?" on":""}" data-m="${j}" aria-pressed="${j===M}"><span class="stats-option-head"><span class="stats-option-logo ${STAT_ICONS[j][2]}" aria-hidden="true"><i class="${STAT_ICONS[j][0]} ${STAT_ICONS[j][1]}"></i></span><span class="stats-option-label">${p(s[0])}</span><span class="stats-option-value">${s[1]}</span></span></button>`).join("");$("bn").textContent=ST[M][1];$("bd").textContent=p(ST[M][2]);$("statsIndex").textContent=String(M+1).padStart(2,"0")+" / "+String(ST.length).padStart(2,"0")}
-function calc(){let a=0,b=0,m=[];sel.forEach(j=>{a+=S[j][1];b+=S[j][2];m.push("• "+p(S[j][0])+(S[j][5]?" ("+p("a cotizar¦sob consulta")+")":""))});$("t1").textContent=R(a);$("t2").textContent=R(b);
-$("wa").href="https://wa.me/"+NUM+"?text="+encodeURIComponent((L?"Olá! Fiz uma simulação no site da Loop Growth:":"¡Hola! Hice una simulación en la web de Loop Growth:")+"\n"+m.join("\n")+"\n"+R(a)+" + "+R(b)+(L?"/mês":"/mes"))}
-function render(){document.documentElement.lang=L?"pt":"es";$("bes").className=L?"":"on";$("bpt").className=L?"on":"";
-document.querySelectorAll("[data-t]").forEach(e=>e.innerHTML=p(e.dataset.t));document.querySelectorAll("[data-p]").forEach(e=>e.placeholder=p(e.dataset.p));document.querySelectorAll("[data-alt-es]").forEach(e=>e.setAttribute("aria-label",L?e.dataset.altPt:e.dataset.altEs));
-setStats();
-$("sec").innerHTML=SEC.map((s,j)=>`<div class="card"><div class="photo-slot sector-photo image-reveal"><div class="missing" data-image="${ASSETS.sectors[j]}" data-missing="${ASSETS.sectors[j]}" data-alt-es="${ALT[j][0]}" data-alt-pt="${ALT[j][1]}" role="img"></div></div><h3>${p(s[0])}</h3><p>${p(s[1])}</p></div>`).join("");
-$("flt").innerHTML=CT.map(c=>`<button class="${F===c[0]?"on":""}" data-f="${c[0]}">${p(c[1])}</button>`).join("");
-$("svc").innerHTML=S.filter(s=>F==="all"||s[4].includes(F)).map(s=>`<div class="card"><h3>${p(s[0])}</h3><div class="pr">${PR(s)} <small>${s[5]?"":s[1]?(L?"uma vez":"única vez"):(L?"/mês":"/mes")}</small></div><p>${p(s[3])}</p></div>`).join("");
-$("opts").innerHTML=S.map((s,j)=>`<label class="opt"><input type="checkbox" data-j="${j}" ${sel.has(j)?"checked":""}><div>${p(s[0])}<small>${p(s[3])}</small></div><b>${PR(s)}${s[5]||s[1]?"":(L?"/mês":"/mes")}</b></label>`).join("");
-$("soc").innerHTML=SOC.map(x=>`<div class="card"><div class="icon-placeholder missing" data-image="${x[0]}" data-missing="${x[0]}" aria-hidden="true"></div><h3>${p(x[1])}</h3><p>${p(x[2])}</p></div>`).join("");
-$("demos").innerHTML=D.map((d,k)=>`<article class="card demo-card"><div class="photo-slot demo-photo"><div class="missing" data-image="${ASSETS.demos[k]}" data-missing="${ASSETS.demos[k]}" data-alt-es="${d[2].split("¦")[0]}" data-alt-pt="${d[2].split("¦")[1]}" role="img"></div></div><h3>${p(d[0])}</h3><p class="description">${p(d[1])}</p><span class="bd">${L?"Projeto fictício":"Proyecto ficticio"}</span></article>`).join("");
-$("tst").textContent=p(TS[0]);$("tsp").textContent=p(TS[1]);$("tsl").innerHTML=TS[2].map(x=>`<li>${p(x)}</li>`).join("");
-$("team").innerHTML=TM.map((m,j)=>`<div class="card"><div class="team-photo"><div class="missing" data-image="${ASSETS.team[j]}" data-missing="${ASSETS.team[j]}" data-alt-es="Foto de ${m[2]}" data-alt-pt="Foto de ${m[2]}" role="img">${m[0]}</div></div><h3>${m[2]}</h3><div class="role">${p(m[3])}</div><p>${p(m[4])}</p></div>`).join("");calc();observeImages();hydrateImages()}
-$("bes").onclick=()=>{L=0;render()};$("bpt").onclick=()=>{L=1;render()};
-$("mt").addEventListener("click",e=>{const button=e.target.closest("button[data-m]");if(button){M=+button.dataset.m;setStats()}});
-$("flt").addEventListener("click",e=>{if(e.target.dataset.f){F=e.target.dataset.f;render()}});
-$("mb").onclick=()=>$("lk").classList.toggle("open");$("lk").onclick=e=>{if(e.target.tagName==="A")$("lk").classList.remove("open")};
-let scrollFrame=0;function updateParallax(){scrollFrame=0;const reduced=matchMedia("(prefers-reduced-motion:reduce)").matches;if(innerWidth<768||reduced){hr.style.setProperty("--hero-parallax","0px");document.querySelector(".banner-slot .missing").style.setProperty("--banner-parallax","0px");return}const heroTop=hr.getBoundingClientRect().top,banner=document.querySelector(".banner-slot .missing"),bannerTop=banner.parentElement.getBoundingClientRect().top;hr.style.setProperty("--hero-parallax",Math.max(-30,Math.min(30,-heroTop*.035))+"px");banner.style.setProperty("--banner-parallax",Math.max(-30,Math.min(30,-bannerTop*.035))+"px")}
-addEventListener("scroll",()=>{$("pg").style.transform="scaleX("+scrollY/Math.max(1,document.documentElement.scrollHeight-innerHeight)+")";if(!scrollFrame)scrollFrame=requestAnimationFrame(updateParallax)},{passive:true});
-addEventListener("resize",()=>{if(!scrollFrame)scrollFrame=requestAnimationFrame(updateParallax)},{passive:true});
-const hr=document.querySelector(".hero");hr.addEventListener("pointermove",e=>{const r=hr.getBoundingClientRect();hr.style.setProperty("--mx",e.clientX-r.left+"px");hr.style.setProperty("--my",e.clientY-r.top+"px")});
-document.addEventListener("pointermove",e=>{const c=e.target.closest&&e.target.closest(".card:not(#opts)");document.querySelectorAll(".card.t").forEach(x=>{if(x!==c){x.classList.remove("t");x.style.removeProperty("--rx");x.style.removeProperty("--ry")}});if(!c||e.pointerType!=="mouse"||matchMedia("(prefers-reduced-motion:reduce)").matches)return;const r=c.getBoundingClientRect();c.classList.add("t");c.style.setProperty("--rx",(.5-(e.clientY-r.top)/r.height)*6+"deg");c.style.setProperty("--ry",((e.clientX-r.left)/r.width-.5)*6+"deg")});
-const io=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting){e.target.classList.add("in");io.unobserve(e.target)}}),{threshold:.15});
-function observeImages(){document.querySelectorAll(".image-reveal:not(.in)").forEach(e=>io.observe(e))}
-document.querySelectorAll("section h2,section .ey,section .sub,.grid,.cols,.q,.st,.ts,.flt,.big").forEach(e=>{e.classList.add("rv");io.observe(e)});
-$("opts").addEventListener("change",e=>{const j=+e.target.dataset.j;e.target.checked?sel.add(j):sel.delete(j);calc()});
-$("f").addEventListener("submit",e=>{e.preventDefault();const m=(L?"Olá! Sou ":"¡Hola! Soy ")+$("nm").value+" — "+$("lj").value+"\n"+$("ms").value;window.open("https://wa.me/"+NUM+"?text="+encodeURIComponent(m),"_blank")});
-render();
-updateParallax();
-</script>
+<footer><div class="w"><div class="footer-logo"><i class="fa-solid fa-infinity" aria-hidden="true"></i>Loop Avante</div><div data-t="© 2026 Loop Avante · Curitiba. No prometemos ventas, seguidores ni posicionamiento: entregamos alcance, plazos y pruebas acordados.¦© 2026 Loop Avante · Curitiba. Não prometemos vendas, seguidores ou posicionamento: entregamos escopo, prazos e testes combinados."></div><div data-t="Imágenes ilustrativas¦Imagens ilustrativas"></div></div></footer>
+<script src="assets/js/site.js" defer></script>
 </body>
 </html>
