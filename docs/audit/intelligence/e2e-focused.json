@@ -1,0 +1,1 @@
+{"command":"npx playwright test tests/intelligence-e2e.spec.js --grep 'visitor journey|Accessibility productivity' --reporter=list","exitCode":0,"passed":2,"failed":0,"durationSeconds":34.2,"reason":"Focused regression after the final annual-cost caption correction. Covers real CSV/productivity/investment/report/quote/history and four locale/theme axe checks of productivity."}

@@ -1,0 +1,54 @@
+[
+  {
+    "url": "https://www.lahuellaescrita.com/autor.html",
+    "status": 200,
+    "title": "Sobre el Autor | Junior Osmany Coronel - La Huella Escrita",
+    "headings": [
+      "Junior Osmany Coronel Durán",
+      "La mirada detrás de los libros",
+      "Identidad",
+      "Confianza",
+      "Tiempo",
+      "Un camino que continúa",
+      "La Huella Escrita",
+      "Accede a contenido exclusivo",
+      "Tu Perfil"
+    ]
+  },
+  {
+    "url": "https://www.lahuellaescrita.com/blog.html",
+    "status": 200,
+    "title": "Blog | La Huella Escrita - Artículos y Reflexiones",
+    "headings": [
+      "Entre Libros y Café",
+      "Bienvenido a nuestros blogs mensuales",
+      "Ediciones Destacadas",
+      "Todos los artículos",
+      "Si todavía no conoces mis libros...",
+      "Accede a contenido exclusivo",
+      "Tu Perfil"
+    ]
+  },
+  {
+    "url": "https://www.yoeldiscastillo.com/sobre-mi.html",
+    "status": 200,
+    "title": "Sobre Mí | Yoeldis Castillo Quiala - Psicólogo y Escritor",
+    "headings": [
+      "Rigor académico, visión humana.",
+      "Bienvenido de vuelta",
+      "Crea tu cuenta",
+      "ELTON OLIVARES"
+    ]
+  },
+  {
+    "url": "https://www.yoeldiscastillo.com/contacto.html",
+    "status": 200,
+    "title": "Contacto | Yoeldis Castillo Quiala - Psicólogo y Escritor",
+    "headings": [
+      "Contáctanos",
+      "Bienvenido de vuelta",
+      "Crea tu cuenta",
+      "ELTON OLIVARES"
+    ]
+  }
+]

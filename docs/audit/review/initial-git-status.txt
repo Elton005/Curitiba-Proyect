@@ -1,0 +1,20 @@
+﻿ M 404.html
+ M README.md
+ M assets/css/site.css
+ M index.html
+?? .env.example
+?? .gitignore
+?? IMPLEMENTATION-PLAN.md
+?? IMPLEMENTATION-STATUS.md
+?? PROMPT-MIGRACION-REACT-VISUAL.md
+?? docs/
+?? es/
+?? mobile/
+?? package-lock.json
+?? package.json
+?? playwright.config.js
+?? public/
+?? scripts/
+?? src/
+?? tests/
+?? vite.config.js

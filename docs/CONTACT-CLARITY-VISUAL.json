@@ -1,0 +1,3030 @@
+{
+  "results": [
+    {
+      "key": "solutions",
+      "width": 360,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "huellaCase",
+      "width": 360,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "yoeldisCase",
+      "width": 360,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "intelligence",
+      "width": 360,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "market",
+      "width": 360,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "productivity",
+      "width": 360,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "investment",
+      "width": 360,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "sectors",
+      "width": 360,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "report",
+      "width": 360,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "home",
+      "width": 360,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "projects",
+      "width": 360,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "diagnostic",
+      "width": 360,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "simulator",
+      "width": 360,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "quote",
+      "width": 360,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "solutions",
+      "width": 360,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "huellaCase",
+      "width": 360,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "yoeldisCase",
+      "width": 360,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "intelligence",
+      "width": 360,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "market",
+      "width": 360,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "productivity",
+      "width": 360,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "investment",
+      "width": 360,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "sectors",
+      "width": 360,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "report",
+      "width": 360,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "home",
+      "width": 360,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "projects",
+      "width": 360,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "diagnostic",
+      "width": 360,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "simulator",
+      "width": 360,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "quote",
+      "width": 360,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "solutions",
+      "width": 360,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "huellaCase",
+      "width": 360,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "yoeldisCase",
+      "width": 360,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "intelligence",
+      "width": 360,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "market",
+      "width": 360,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "productivity",
+      "width": 360,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "investment",
+      "width": 360,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "sectors",
+      "width": 360,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "report",
+      "width": 360,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "home",
+      "width": 360,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "projects",
+      "width": 360,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "diagnostic",
+      "width": 360,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "simulator",
+      "width": 360,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "quote",
+      "width": 360,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "solutions",
+      "width": 360,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "huellaCase",
+      "width": 360,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "yoeldisCase",
+      "width": 360,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "intelligence",
+      "width": 360,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "market",
+      "width": 360,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "productivity",
+      "width": 360,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "investment",
+      "width": 360,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "sectors",
+      "width": 360,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "report",
+      "width": 360,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "home",
+      "width": 360,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "projects",
+      "width": 360,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "diagnostic",
+      "width": 360,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "simulator",
+      "width": 360,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "quote",
+      "width": 360,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "solutions",
+      "width": 390,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "huellaCase",
+      "width": 390,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "yoeldisCase",
+      "width": 390,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "intelligence",
+      "width": 390,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "market",
+      "width": 390,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "productivity",
+      "width": 390,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "investment",
+      "width": 390,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "sectors",
+      "width": 390,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "report",
+      "width": 390,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "home",
+      "width": 390,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "projects",
+      "width": 390,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "diagnostic",
+      "width": 390,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "simulator",
+      "width": 390,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "quote",
+      "width": 390,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "solutions",
+      "width": 390,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "huellaCase",
+      "width": 390,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "yoeldisCase",
+      "width": 390,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "intelligence",
+      "width": 390,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "market",
+      "width": 390,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "productivity",
+      "width": 390,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "investment",
+      "width": 390,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "sectors",
+      "width": 390,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "report",
+      "width": 390,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "home",
+      "width": 390,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "projects",
+      "width": 390,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "diagnostic",
+      "width": 390,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "simulator",
+      "width": 390,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "quote",
+      "width": 390,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "solutions",
+      "width": 390,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "huellaCase",
+      "width": 390,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "yoeldisCase",
+      "width": 390,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "intelligence",
+      "width": 390,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "market",
+      "width": 390,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "productivity",
+      "width": 390,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "investment",
+      "width": 390,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "sectors",
+      "width": 390,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "report",
+      "width": 390,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "home",
+      "width": 390,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "projects",
+      "width": 390,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "diagnostic",
+      "width": 390,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "simulator",
+      "width": 390,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "quote",
+      "width": 390,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "solutions",
+      "width": 390,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "huellaCase",
+      "width": 390,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "yoeldisCase",
+      "width": 390,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "intelligence",
+      "width": 390,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "market",
+      "width": 390,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "productivity",
+      "width": 390,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "investment",
+      "width": 390,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "sectors",
+      "width": 390,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "report",
+      "width": 390,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "home",
+      "width": 390,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "projects",
+      "width": 390,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "diagnostic",
+      "width": 390,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "simulator",
+      "width": 390,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "quote",
+      "width": 390,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "solutions",
+      "width": 430,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "huellaCase",
+      "width": 430,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "yoeldisCase",
+      "width": 430,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "intelligence",
+      "width": 430,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "market",
+      "width": 430,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "productivity",
+      "width": 430,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "investment",
+      "width": 430,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "sectors",
+      "width": 430,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "report",
+      "width": 430,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "home",
+      "width": 430,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "projects",
+      "width": 430,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "diagnostic",
+      "width": 430,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "simulator",
+      "width": 430,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "quote",
+      "width": 430,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "solutions",
+      "width": 430,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "huellaCase",
+      "width": 430,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "yoeldisCase",
+      "width": 430,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "intelligence",
+      "width": 430,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "market",
+      "width": 430,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "productivity",
+      "width": 430,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "investment",
+      "width": 430,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "sectors",
+      "width": 430,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "report",
+      "width": 430,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "home",
+      "width": 430,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "projects",
+      "width": 430,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "diagnostic",
+      "width": 430,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "simulator",
+      "width": 430,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "quote",
+      "width": 430,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "solutions",
+      "width": 430,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "huellaCase",
+      "width": 430,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "yoeldisCase",
+      "width": 430,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "intelligence",
+      "width": 430,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "market",
+      "width": 430,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "productivity",
+      "width": 430,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "investment",
+      "width": 430,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "sectors",
+      "width": 430,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "report",
+      "width": 430,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "home",
+      "width": 430,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "projects",
+      "width": 430,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "diagnostic",
+      "width": 430,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "simulator",
+      "width": 430,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "quote",
+      "width": 430,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "solutions",
+      "width": 430,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "huellaCase",
+      "width": 430,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "yoeldisCase",
+      "width": 430,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "intelligence",
+      "width": 430,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "market",
+      "width": 430,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "productivity",
+      "width": 430,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "investment",
+      "width": 430,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "sectors",
+      "width": 430,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "report",
+      "width": 430,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "home",
+      "width": 430,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "projects",
+      "width": 430,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "diagnostic",
+      "width": 430,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "simulator",
+      "width": 430,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "quote",
+      "width": 430,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "solutions",
+      "width": 768,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "huellaCase",
+      "width": 768,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "yoeldisCase",
+      "width": 768,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "intelligence",
+      "width": 768,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "market",
+      "width": 768,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "productivity",
+      "width": 768,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "investment",
+      "width": 768,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "sectors",
+      "width": 768,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "report",
+      "width": 768,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "home",
+      "width": 768,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "projects",
+      "width": 768,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "diagnostic",
+      "width": 768,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "simulator",
+      "width": 768,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "quote",
+      "width": 768,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "solutions",
+      "width": 768,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "huellaCase",
+      "width": 768,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "yoeldisCase",
+      "width": 768,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "intelligence",
+      "width": 768,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "market",
+      "width": 768,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "productivity",
+      "width": 768,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "investment",
+      "width": 768,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "sectors",
+      "width": 768,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "report",
+      "width": 768,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "home",
+      "width": 768,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "projects",
+      "width": 768,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "diagnostic",
+      "width": 768,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "simulator",
+      "width": 768,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "quote",
+      "width": 768,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "solutions",
+      "width": 768,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "huellaCase",
+      "width": 768,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "yoeldisCase",
+      "width": 768,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "intelligence",
+      "width": 768,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "market",
+      "width": 768,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "productivity",
+      "width": 768,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "investment",
+      "width": 768,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "sectors",
+      "width": 768,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "report",
+      "width": 768,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "home",
+      "width": 768,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "projects",
+      "width": 768,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "diagnostic",
+      "width": 768,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "simulator",
+      "width": 768,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "quote",
+      "width": 768,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "solutions",
+      "width": 768,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "huellaCase",
+      "width": 768,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "yoeldisCase",
+      "width": 768,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "intelligence",
+      "width": 768,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "market",
+      "width": 768,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "productivity",
+      "width": 768,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "investment",
+      "width": 768,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "sectors",
+      "width": 768,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "report",
+      "width": 768,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "home",
+      "width": 768,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "projects",
+      "width": 768,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "diagnostic",
+      "width": 768,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "simulator",
+      "width": 768,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "quote",
+      "width": 768,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "solutions",
+      "width": 1024,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "huellaCase",
+      "width": 1024,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "yoeldisCase",
+      "width": 1024,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "intelligence",
+      "width": 1024,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "market",
+      "width": 1024,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "productivity",
+      "width": 1024,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "investment",
+      "width": 1024,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "sectors",
+      "width": 1024,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "report",
+      "width": 1024,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "home",
+      "width": 1024,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "projects",
+      "width": 1024,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "diagnostic",
+      "width": 1024,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "simulator",
+      "width": 1024,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "quote",
+      "width": 1024,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "solutions",
+      "width": 1024,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "huellaCase",
+      "width": 1024,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "yoeldisCase",
+      "width": 1024,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "intelligence",
+      "width": 1024,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "market",
+      "width": 1024,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "productivity",
+      "width": 1024,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "investment",
+      "width": 1024,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "sectors",
+      "width": 1024,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "report",
+      "width": 1024,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "home",
+      "width": 1024,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "projects",
+      "width": 1024,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "diagnostic",
+      "width": 1024,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "simulator",
+      "width": 1024,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "quote",
+      "width": 1024,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "solutions",
+      "width": 1024,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "huellaCase",
+      "width": 1024,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "yoeldisCase",
+      "width": 1024,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "intelligence",
+      "width": 1024,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "market",
+      "width": 1024,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "productivity",
+      "width": 1024,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "investment",
+      "width": 1024,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "sectors",
+      "width": 1024,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "report",
+      "width": 1024,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "home",
+      "width": 1024,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "projects",
+      "width": 1024,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "diagnostic",
+      "width": 1024,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "simulator",
+      "width": 1024,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "quote",
+      "width": 1024,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "solutions",
+      "width": 1024,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "huellaCase",
+      "width": 1024,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "yoeldisCase",
+      "width": 1024,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "intelligence",
+      "width": 1024,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "market",
+      "width": 1024,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "productivity",
+      "width": 1024,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "investment",
+      "width": 1024,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "sectors",
+      "width": 1024,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "report",
+      "width": 1024,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "home",
+      "width": 1024,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "projects",
+      "width": 1024,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "diagnostic",
+      "width": 1024,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "simulator",
+      "width": 1024,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "quote",
+      "width": 1024,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "solutions",
+      "width": 1440,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "huellaCase",
+      "width": 1440,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "yoeldisCase",
+      "width": 1440,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "intelligence",
+      "width": 1440,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "market",
+      "width": 1440,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "productivity",
+      "width": 1440,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "investment",
+      "width": 1440,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "sectors",
+      "width": 1440,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "report",
+      "width": 1440,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "home",
+      "width": 1440,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "projects",
+      "width": 1440,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "diagnostic",
+      "width": 1440,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "simulator",
+      "width": 1440,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "quote",
+      "width": 1440,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "solutions",
+      "width": 1440,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "huellaCase",
+      "width": 1440,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "yoeldisCase",
+      "width": 1440,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "intelligence",
+      "width": 1440,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "market",
+      "width": 1440,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "productivity",
+      "width": 1440,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "investment",
+      "width": 1440,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "sectors",
+      "width": 1440,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "report",
+      "width": 1440,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "home",
+      "width": 1440,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "projects",
+      "width": 1440,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "diagnostic",
+      "width": 1440,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "simulator",
+      "width": 1440,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "quote",
+      "width": 1440,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "solutions",
+      "width": 1440,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "huellaCase",
+      "width": 1440,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "yoeldisCase",
+      "width": 1440,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "intelligence",
+      "width": 1440,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "market",
+      "width": 1440,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "productivity",
+      "width": 1440,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "investment",
+      "width": 1440,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "sectors",
+      "width": 1440,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "report",
+      "width": 1440,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "home",
+      "width": 1440,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "projects",
+      "width": 1440,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "diagnostic",
+      "width": 1440,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "simulator",
+      "width": 1440,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "quote",
+      "width": 1440,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "solutions",
+      "width": 1440,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "huellaCase",
+      "width": 1440,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "yoeldisCase",
+      "width": 1440,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "intelligence",
+      "width": 1440,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "market",
+      "width": 1440,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "productivity",
+      "width": 1440,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "investment",
+      "width": 1440,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "sectors",
+      "width": 1440,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "report",
+      "width": 1440,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "home",
+      "width": 1440,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "projects",
+      "width": 1440,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "diagnostic",
+      "width": 1440,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "simulator",
+      "width": 1440,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "quote",
+      "width": 1440,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    }
+  ],
+  "errors": [],
+  "violations": []
+}

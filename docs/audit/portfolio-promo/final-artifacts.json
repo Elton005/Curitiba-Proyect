@@ -1,0 +1,11 @@
+{
+  "responsiveCaptures": 20,
+  "androidBundle": {
+    "file": "entry-07731582b33e7c9a87225ab09c3212bd.hbc",
+    "bytes": 3166402,
+    "hermesMagic": "c61fbc03c103191f",
+    "canonicalName": true,
+    "previousName": false,
+    "projectMedia": true
+  }
+}

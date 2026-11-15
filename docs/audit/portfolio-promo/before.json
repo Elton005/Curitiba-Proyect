@@ -1,0 +1,40 @@
+[
+  {
+    "width": 390,
+    "language": "pt",
+    "theme": "dark",
+    "errors": [],
+    "viewport": 390,
+    "document": 390,
+    "section": {
+      "x": 0,
+      "y": -89.453125,
+      "width": 390,
+      "height": 1274.40625,
+      "top": -89.453125,
+      "right": 390,
+      "bottom": 1184.953125,
+      "left": 0
+    },
+    "downloadLinks": []
+  },
+  {
+    "width": 1440,
+    "language": "pt",
+    "theme": "dark",
+    "errors": [],
+    "viewport": 1440,
+    "document": 1440,
+    "section": {
+      "x": 0,
+      "y": 131.65625,
+      "width": 1440,
+      "height": 844.1875,
+      "top": 131.65625,
+      "right": 1440,
+      "bottom": 975.84375,
+      "left": 0
+    },
+    "downloadLinks": []
+  }
+]

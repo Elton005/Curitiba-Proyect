@@ -1,0 +1,182 @@
+[
+  {
+    "path": "public/media/projects/huella-hero-1280.webp",
+    "bytes": 53948,
+    "width": 1280
+  },
+  {
+    "path": "public/media/projects/huella-hero-960.webp",
+    "bytes": 36112,
+    "width": 960
+  },
+  {
+    "path": "public/media/projects/huella-hero-480.webp",
+    "bytes": 12506,
+    "width": 480
+  },
+  {
+    "path": "public/media/projects/huella-hero-192.webp",
+    "bytes": 2588,
+    "width": 192
+  },
+  {
+    "path": "mobile/assets/projects/gallery/huella-hero-720.webp",
+    "bytes": 22918,
+    "width": 720
+  },
+  {
+    "path": "mobile/assets/projects/gallery/huella-hero-192.webp",
+    "bytes": 2588,
+    "width": 192
+  },
+  {
+    "path": "public/media/projects/huella-books-1280.webp",
+    "bytes": 112770,
+    "width": 1280
+  },
+  {
+    "path": "public/media/projects/huella-books-960.webp",
+    "bytes": 72050,
+    "width": 960
+  },
+  {
+    "path": "public/media/projects/huella-books-480.webp",
+    "bytes": 20844,
+    "width": 480
+  },
+  {
+    "path": "public/media/projects/huella-books-192.webp",
+    "bytes": 3432,
+    "width": 192
+  },
+  {
+    "path": "mobile/assets/projects/gallery/huella-books-720.webp",
+    "bytes": 42134,
+    "width": 720
+  },
+  {
+    "path": "mobile/assets/projects/gallery/huella-books-192.webp",
+    "bytes": 3432,
+    "width": 192
+  },
+  {
+    "path": "public/media/projects/huella-resources-1280.webp",
+    "bytes": 74326,
+    "width": 1280
+  },
+  {
+    "path": "public/media/projects/huella-resources-960.webp",
+    "bytes": 47940,
+    "width": 960
+  },
+  {
+    "path": "public/media/projects/huella-resources-480.webp",
+    "bytes": 14564,
+    "width": 480
+  },
+  {
+    "path": "public/media/projects/huella-resources-192.webp",
+    "bytes": 2716,
+    "width": 192
+  },
+  {
+    "path": "mobile/assets/projects/gallery/huella-resources-720.webp",
+    "bytes": 28216,
+    "width": 720
+  },
+  {
+    "path": "mobile/assets/projects/gallery/huella-resources-192.webp",
+    "bytes": 2716,
+    "width": 192
+  },
+  {
+    "path": "public/media/projects/yoeldis-hero-1280.webp",
+    "bytes": 65864,
+    "width": 1280
+  },
+  {
+    "path": "public/media/projects/yoeldis-hero-960.webp",
+    "bytes": 46160,
+    "width": 960
+  },
+  {
+    "path": "public/media/projects/yoeldis-hero-480.webp",
+    "bytes": 16766,
+    "width": 480
+  },
+  {
+    "path": "public/media/projects/yoeldis-hero-192.webp",
+    "bytes": 3752,
+    "width": 192
+  },
+  {
+    "path": "mobile/assets/projects/gallery/yoeldis-hero-720.webp",
+    "bytes": 29618,
+    "width": 720
+  },
+  {
+    "path": "mobile/assets/projects/gallery/yoeldis-hero-192.webp",
+    "bytes": 3752,
+    "width": 192
+  },
+  {
+    "path": "public/media/projects/yoeldis-books-1280.webp",
+    "bytes": 52344,
+    "width": 1280
+  },
+  {
+    "path": "public/media/projects/yoeldis-books-960.webp",
+    "bytes": 36496,
+    "width": 960
+  },
+  {
+    "path": "public/media/projects/yoeldis-books-480.webp",
+    "bytes": 11770,
+    "width": 480
+  },
+  {
+    "path": "public/media/projects/yoeldis-books-192.webp",
+    "bytes": 1886,
+    "width": 192
+  },
+  {
+    "path": "mobile/assets/projects/gallery/yoeldis-books-720.webp",
+    "bytes": 21986,
+    "width": 720
+  },
+  {
+    "path": "mobile/assets/projects/gallery/yoeldis-books-192.webp",
+    "bytes": 1886,
+    "width": 192
+  },
+  {
+    "path": "public/media/projects/yoeldis-articles-1280.webp",
+    "bytes": 47504,
+    "width": 1280
+  },
+  {
+    "path": "public/media/projects/yoeldis-articles-960.webp",
+    "bytes": 34286,
+    "width": 960
+  },
+  {
+    "path": "public/media/projects/yoeldis-articles-480.webp",
+    "bytes": 12752,
+    "width": 480
+  },
+  {
+    "path": "public/media/projects/yoeldis-articles-192.webp",
+    "bytes": 2330,
+    "width": 192
+  },
+  {
+    "path": "mobile/assets/projects/gallery/yoeldis-articles-720.webp",
+    "bytes": 21936,
+    "width": 720
+  },
+  {
+    "path": "mobile/assets/projects/gallery/yoeldis-articles-192.webp",
+    "bytes": 2330,
+    "width": 192
+  }
+]

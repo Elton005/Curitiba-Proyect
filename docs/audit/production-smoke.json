@@ -1,0 +1,84 @@
+{
+  "date": "2026-11-14",
+  "environment": "Local Edge headless; lab only, no network/CPU throttling; not field Core Web Vitals.",
+  "pages": [
+    {
+      "path": "/",
+      "status": 200,
+      "errors": [],
+      "title": "Loop Avante — Sites, sistemas e aplicativos para negócios",
+      "lang": "pt-BR",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "fcp": 704,
+      "lcp": 704,
+      "cls": 0
+    },
+    {
+      "path": "/es/",
+      "status": 200,
+      "errors": [],
+      "title": "Loop Avante — Sitios, sistemas y aplicaciones para negocios",
+      "lang": "es",
+      "width": 390,
+      "scrollWidth": 390,
+      "fcp": 300,
+      "lcp": 300,
+      "cls": 0
+    },
+    {
+      "path": "/404.html",
+      "status": 200,
+      "errors": [],
+      "title": "404 — Loop Avante",
+      "lang": "pt-BR",
+      "width": 390,
+      "scrollWidth": 390,
+      "fcp": 132,
+      "lcp": 132,
+      "cls": 0
+    }
+  ],
+  "assets": [
+    {
+      "path": "/",
+      "status": 200
+    },
+    {
+      "path": "/es/",
+      "status": 200
+    },
+    {
+      "path": "/404.html",
+      "status": 200
+    },
+    {
+      "path": "/robots.txt",
+      "status": 200
+    },
+    {
+      "path": "/favicon.svg",
+      "status": 200
+    },
+    {
+      "path": "/media/og-loop-pt.png",
+      "status": 200
+    },
+    {
+      "path": "/media/og-loop-es.png",
+      "status": 200
+    },
+    {
+      "path": "/media/apple-touch-icon.png",
+      "status": 200
+    },
+    {
+      "path": "/fonts/plus-jakarta-sans-latin.woff2",
+      "status": 200
+    },
+    {
+      "path": "/promo/",
+      "status": 200
+    }
+  ]
+}

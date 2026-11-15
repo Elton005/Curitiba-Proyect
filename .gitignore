@@ -1,0 +1,25 @@
+# Android/Expo app stays local; this GitHub repository publishes the web only.
+/mobile/
+*.apk
+*.aab
+*.apks
+*.xapk
+*.ipa
+*.keystore
+*.jks
+*.p12
+*.pfx
+
+# Dependencies, generated output and local toolchains.
+node_modules/
+dist/
+.local/
+.vercel/
+test-results/
+playwright-report/
+*.log
+
+# Keep only the public configuration template.
+.env
+.env.*
+!.env.example

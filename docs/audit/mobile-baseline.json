@@ -1,0 +1,142 @@
+﻿[
+    {
+        "path":  "mobile/src/theme.js",
+        "hash":  "D50F293516BFF091202E5229C6294A8A7A091E51653DE8AE942818AC03365EA2"
+    },
+    {
+        "path":  "mobile/metro.config.js",
+        "hash":  "5D3E106E0ACB9CA18D24B18B302409B6A6DB6ECB2F422D441C3F59C9B00186F8"
+    },
+    {
+        "path":  "mobile/LICENSE",
+        "hash":  "FB3CA4A837F5779E83CEF89B78253A8949CFB9429C340309F62D0465EC6610B4"
+    },
+    {
+        "path":  "mobile/index.js",
+        "hash":  "5C157F4D44972D9C84415E1E4BDA595B3ABCD8CF733F8A9CD20935BEC3ECCC42"
+    },
+    {
+        "path":  "mobile/src/sections/StatsSection.js",
+        "hash":  "A688D8C1BFE440BBF76CEE15D9297BA4B15140EDF3297D4E2D8FAEA991E44A34"
+    },
+    {
+        "path":  "mobile/src/sections/ServicesSection.js",
+        "hash":  "08BD6FE1F41D30FD35247431294B4F8B5503F68BB306B1E86848B39051789D1E"
+    },
+    {
+        "path":  "mobile/src/sections/SectorsSection.js",
+        "hash":  "C130203B6741A5148AD43924940DB8BA91E63E801A481F18C0694848461BC6F7"
+    },
+    {
+        "path":  "mobile/src/sections/QuoteBuilderSection.js",
+        "hash":  "0222A0508A7EC656A3EAA134BF36BDA462B84EAE51F2F0D301A801B9233ECCF8"
+    },
+    {
+        "path":  "mobile/src/sections/ProcessSection.js",
+        "hash":  "F16616165EFE08C6069C46F126AF4FF501B66D730246582D82BA68B7B2FC1ACF"
+    },
+    {
+        "path":  "mobile/src/sections/HeroSection.js",
+        "hash":  "FFB008D99778CB8828F7B69EC431C3E3D3C734F4C4BAD6217F6A69CCA81C419D"
+    },
+    {
+        "path":  "mobile/src/sections/CapabilityTicker.js",
+        "hash":  "603CB4478C820F0FAD79BF1A544CF408F583DBB4BC8E51CE07F2CD2C5D7AA718"
+    },
+    {
+        "path":  "mobile/src/i18n.js",
+        "hash":  "60996BAF06FDF6E483EA65DC3E7B961C7321A0AB22B0C59A1DB597AEBC3E3A2E"
+    },
+    {
+        "path":  "mobile/src/content.js",
+        "hash":  "E0C90BB89094A1310B139FBC3950A7E157037A468FF676B527C443734772B170"
+    },
+    {
+        "path":  "mobile/assets/splash-screen.png",
+        "hash":  "A3A3BDC2591A57D92B9C780B1CC51F735E40D3C7E2FA18D1120AA019523CB052"
+    },
+    {
+        "path":  "mobile/assets/splash-icon.png",
+        "hash":  "5F4C0A732B6325BF4071D9124D2AE67E037CB24FCC9C482EF82BEA742109A3B8"
+    },
+    {
+        "path":  "mobile/src/components/BrandHeader.js",
+        "hash":  "1122B495D7FAFB143FB071B5B671B506A9966EFCB44490F7BD38A92B59235EB4"
+    },
+    {
+        "path":  "mobile/README.md",
+        "hash":  "81B85B7A1B12A75C6AC8B52C34AA84F2129DAB3C54B94572D40B7D9CB6B23290"
+    },
+    {
+        "path":  "mobile/package.json",
+        "hash":  "9D570446D6389ADC5BC8868646C4BDC0F4E319CE9035F85CCB3F16BA714418D1"
+    },
+    {
+        "path":  "mobile/package-lock.json",
+        "hash":  "841C390D39B71E3BB18C41483F358F806A943E443D35626CEF265220D148C760"
+    },
+    {
+        "path":  "mobile/assets/android-icon-monochrome.png",
+        "hash":  "6371FC2C12E33AD2215A86C281DB3D682A81BEBE7C957A842C13B8BF00CCEB83"
+    },
+    {
+        "path":  "mobile/assets/android-icon-foreground.png",
+        "hash":  "9E3D0315A33C6799DE601DD34CD8BF8CC3A8D16F3BF75592BAEC2CEB7240B391"
+    },
+    {
+        "path":  "mobile/assets/android-icon-background.png",
+        "hash":  "FB139C2DEE362EBF2070E23B96DA6FC0D43F8492DE38B8AF1FD7223E19B5861D"
+    },
+    {
+        "path":  "mobile/app.json",
+        "hash":  "70416A9E758227421272F66C0AE075EFB8F02B2F47C29E4FA9AFE85E3B283A9F"
+    },
+    {
+        "path":  "mobile/App.js",
+        "hash":  "3723486A680C30B0F9E660E2EAF36DC8152E85B79ADB73C1E976A89447C4862E"
+    },
+    {
+        "path":  "mobile/AGENTS.md",
+        "hash":  "B7D381DD55800D242252E8BF89A40B026586D254E34908210931BC35582396A3"
+    },
+    {
+        "path":  "mobile/assets/brand-icon.png",
+        "hash":  "0CC4C06A9AAAEFEED31EAE4B968BCD7945595B15EF36AD35C81BDD2BA36CA1A3"
+    },
+    {
+        "path":  "mobile/assets/brand-icon-monochrome.png",
+        "hash":  "8ADD4FE9998223CB5789073949C845098776027D1A05888019346E8D25A51805"
+    },
+    {
+        "path":  "mobile/assets/brand-icon-foreground.png",
+        "hash":  "7B84E1865163C2BB8E4A9C2CC5764C1B26F7A83380E360C33E0E051AC6C0C3DF"
+    },
+    {
+        "path":  "mobile/assets/icon.png",
+        "hash":  "119462BB78EB240A65C869FC067EE599639B3CB5A41953F25C07B17D2A8C7E0F"
+    },
+    {
+        "path":  "mobile/assets/favicon.png",
+        "hash":  "A4E030697A7571B3E95D31860E4DA55D2F98E5E861E2B55E414F45A8556828BA"
+    },
+    {
+        "path":  "mobile/assets/sectors/sector-moda.jpg",
+        "hash":  "E00CD5A1BBD6C1CD893F3AF7482EA8ADF929B798C9873E4B7851572DC4F26794"
+    },
+    {
+        "path":  "mobile/assets/sectors/sector-gastronomia.jpg",
+        "hash":  "3282C16A76A77B38E2FF535DD58467893C32CCA0DA614CCD9EF00DE2DD1A29A4"
+    },
+    {
+        "path":  "mobile/assets/sectors/sector-casa.jpg",
+        "hash":  "5B06C03BF4FEF2096B8EC9A88C4DC263FD77A0F4CC796B5D3443DD794FFE5AE2"
+    },
+    {
+        "path":  "mobile/assets/sectors/sector-beleza.jpg",
+        "hash":  "8B400BC99D84A3C5D70E586D4031D240E921DF7138EBB108BB191764435D4BB1"
+    },
+    {
+        "path":  "mobile/assets/img/team-oscuro.jpg",
+        "hash":  "6FDDBCE1CD4F8098871AEEF0A534CBCFBFAE12D9D6BA9BA6052F35A9695D504C"
+    }
+]

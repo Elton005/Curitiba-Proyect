@@ -1,6 +1,8 @@
 # Loop Avante
 
-Entrega actual del portafolio: [galerías premium, Cuentos Mágicos y nueva Release Android](docs/PORTFOLIO-PREMIUM-ANDROID-RELEASE.md). Incluye seis capturas públicas optimizadas, mini previews, galerías paginadas PT/ES y APK universal ARM actualizada. Trabajo local, sin push ni despliegue.
+Este repositorio publica la web de Loop Avante. La aplicación Android permanece local: `mobile/`, APK, dependencias, herramientas y claves están excluidos mediante `.gitignore`.
+
+Entrega actual del portafolio: [galerías premium y Cuentos Mágicos](docs/PORTFOLIO-PREMIUM-ANDROID-RELEASE.md). Incluye seis capturas públicas optimizadas, mini previews y galerías paginadas PT/ES.
 
 Frontend corporativo React + Vite: sitios web, sistemas, aplicaciones y automatizaciones para negocios. Arquitectura híbrida con portada corporativa y páginas independientes. Tema oscuro predeterminado para nuevas visitas y claro como alternativa; idioma determinado por la ruta PT/ES.
 
@@ -18,7 +20,7 @@ Frontend corporativo React + Vite: sitios web, sistemas, aplicaciones y automati
 | Sectores | `/inteligencia/setores/` | `/es/inteligencia/setores/` |
 | Informe | `/inteligencia/relatorio/` | `/es/inteligencia/relatorio/` |
 
-El desarrollo es local, sin push ni despliegue. La aplicación Android Expo SDK 58 está en `mobile/`. Las correcciones conjuntas de identidad, portafolio nativo y promoción de Loop Ação se documentan en [el informe web y Android](docs/WEB-ANDROID-CORRECTIONS-2026-11-15.md). Se conservan los registros históricos de las misiones anteriores; el nuevo control protege navegación, almacenamiento y calculadoras actuales.
+La aplicación Android Expo SDK 58 se conserva en `mobile/` únicamente en el entorno local; no se incluye al clonar este repositorio. Las correcciones conjuntas de identidad, portafolio nativo y promoción de Loop Ação se documentan en [el informe web y Android](docs/WEB-ANDROID-CORRECTIONS-2026-11-15.md). Se conservan los registros históricos de las misiones anteriores; el nuevo control protege navegación, almacenamiento y calculadoras actuales.
 
 ## Ejecutar la web
 

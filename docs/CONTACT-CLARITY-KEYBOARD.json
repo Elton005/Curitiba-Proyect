@@ -1,0 +1,46 @@
+[
+  {
+    "language": "pt",
+    "theme": "dark",
+    "guideKeyboard": true,
+    "briefingKeyboard": true,
+    "focus": {
+      "visible": true,
+      "width": "3px",
+      "style": "solid"
+    }
+  },
+  {
+    "language": "pt",
+    "theme": "light",
+    "guideKeyboard": true,
+    "briefingKeyboard": true,
+    "focus": {
+      "visible": true,
+      "width": "3px",
+      "style": "solid"
+    }
+  },
+  {
+    "language": "es",
+    "theme": "dark",
+    "guideKeyboard": true,
+    "briefingKeyboard": true,
+    "focus": {
+      "visible": true,
+      "width": "3px",
+      "style": "solid"
+    }
+  },
+  {
+    "language": "es",
+    "theme": "light",
+    "guideKeyboard": true,
+    "briefingKeyboard": true,
+    "focus": {
+      "visible": true,
+      "width": "3px",
+      "style": "solid"
+    }
+  }
+]

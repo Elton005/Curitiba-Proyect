@@ -1,0 +1,23 @@
+[
+  {
+    "id": "huella",
+    "url": "https://www.lahuellaescrita.com/",
+    "status": 200,
+    "title": "La Huella Escrita | Libros y Reflexiones de Junior Osmany Coronel",
+    "headings": [
+      "\n                        Historias que dejan huella.\n                        Lectores que la hacen eterna.\n                    "
+    ],
+    "capturedAt": "2026-11-14T17:23:04.822Z"
+  },
+  {
+    "id": "yoeldis",
+    "url": "https://www.yoeldiscastillo.com/",
+    "status": 200,
+    "title": "Yoeldis Castillo Quiala | Psicólogo y Escritor - Desarrollo Personal",
+    "headings": [
+      "\n            Comprende tu mente,\n            transforma tu vida.\n          ",
+      "\n          \n          Explora y Descubre\n          \n        "
+    ],
+    "capturedAt": "2026-11-14T17:23:06.846Z"
+  }
+]

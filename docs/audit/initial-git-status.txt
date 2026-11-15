@@ -1,0 +1,11 @@
+﻿ M 404.html
+ M README.md
+ M assets/css/site.css
+ M index.html
+?? .gitignore
+?? PROMPT-MIGRACION-REACT-VISUAL.md
+?? mobile/
+?? package-lock.json
+?? package.json
+?? src/
+?? vite.config.js

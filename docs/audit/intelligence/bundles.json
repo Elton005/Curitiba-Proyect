@@ -1,0 +1,77 @@
+[
+  {
+    "file": "AnalyticsUI-CEfZjWjU.js",
+    "bytes": 7124,
+    "gzipBytes": 2341
+  },
+  {
+    "file": "DigitalDiagnostic-DnjhSmUm.js",
+    "bytes": 4718,
+    "gzipBytes": 1617
+  },
+  {
+    "file": "IntelligenceHome-CwxHyXV7.js",
+    "bytes": 3021,
+    "gzipBytes": 1168
+  },
+  {
+    "file": "intelligenceReport-BL5IYEek.js",
+    "bytes": 4830,
+    "gzipBytes": 2021
+  },
+  {
+    "file": "InvestmentPage-Bl8CBIHs.js",
+    "bytes": 3844,
+    "gzipBytes": 1463
+  },
+  {
+    "file": "main-B22JXT9P.css",
+    "bytes": 90817,
+    "gzipBytes": 18099
+  },
+  {
+    "file": "main-Bji8B6DS.js",
+    "bytes": 327640,
+    "gzipBytes": 102991
+  },
+  {
+    "file": "market-CKCpMV7u.js",
+    "bytes": 12206,
+    "gzipBytes": 4470
+  },
+  {
+    "file": "MarketExplorer-EE0mV6DU.js",
+    "bytes": 4506,
+    "gzipBytes": 1668
+  },
+  {
+    "file": "PotentialSimulator-DFxKrY5s.js",
+    "bytes": 9064,
+    "gzipBytes": 2722
+  },
+  {
+    "file": "ProductivityPage-YHv42D9C.js",
+    "bytes": 2934,
+    "gzipBytes": 1257
+  },
+  {
+    "file": "QuoteBuilder-MrFMN0do.js",
+    "bytes": 9413,
+    "gzipBytes": 3160
+  },
+  {
+    "file": "ReportPage-D4z71IZr.js",
+    "bytes": 9264,
+    "gzipBytes": 2653
+  },
+  {
+    "file": "SectorsPage-B9pAHy-q.js",
+    "bytes": 2402,
+    "gzipBytes": 989
+  },
+  {
+    "file": "useAnalytics-ChVVgVxI.js",
+    "bytes": 31621,
+    "gzipBytes": 10156
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "language": "pt",
+    "width": 360,
+    "theme": "dark",
+    "caption": "Valor teórico da capacidade: R$ 7.200,00 · Custos considerados por ano: R$ 1.200,00",
+    "overflow": false
+  },
+  {
+    "language": "pt",
+    "width": 390,
+    "theme": "dark",
+    "caption": "Valor teórico da capacidade: R$ 7.200,00 · Custos considerados por ano: R$ 1.200,00",
+    "overflow": false
+  },
+  {
+    "language": "pt",
+    "width": 430,
+    "theme": "dark",
+    "caption": "Valor teórico da capacidade: R$ 7.200,00 · Custos considerados por ano: R$ 1.200,00",
+    "overflow": false
+  },
+  {
+    "language": "pt",
+    "width": 768,
+    "theme": "dark",
+    "caption": "Valor teórico da capacidade: R$ 7.200,00 · Custos considerados por ano: R$ 1.200,00",
+    "overflow": false
+  },
+  {
+    "language": "pt",
+    "width": 1024,
+    "theme": "dark",
+    "caption": "Valor teórico da capacidade: R$ 7.200,00 · Custos considerados por ano: R$ 1.200,00",
+    "overflow": false
+  },
+  {
+    "language": "pt",
+    "width": 1440,
+    "theme": "dark",
+    "caption": "Valor teórico da capacidade: R$ 7.200,00 · Custos considerados por ano: R$ 1.200,00",
+    "overflow": false
+  },
+  {
+    "language": "pt",
+    "width": 1920,
+    "theme": "dark",
+    "caption": "Valor teórico da capacidade: R$ 7.200,00 · Custos considerados por ano: R$ 1.200,00",
+    "overflow": false
+  },
+  {
+    "language": "es",
+    "width": 360,
+    "theme": "light",
+    "caption": "Valor teórico de la capacidad: 7200,00 BRL · Costes considerados por año: 1200,00 BRL",
+    "overflow": false
+  },
+  {
+    "language": "es",
+    "width": 390,
+    "theme": "light",
+    "caption": "Valor teórico de la capacidad: 7200,00 BRL · Costes considerados por año: 1200,00 BRL",
+    "overflow": false
+  },
+  {
+    "language": "es",
+    "width": 430,
+    "theme": "light",
+    "caption": "Valor teórico de la capacidad: 7200,00 BRL · Costes considerados por año: 1200,00 BRL",
+    "overflow": false
+  },
+  {
+    "language": "es",
+    "width": 768,
+    "theme": "light",
+    "caption": "Valor teórico de la capacidad: 7200,00 BRL · Costes considerados por año: 1200,00 BRL",
+    "overflow": false
+  },
+  {
+    "language": "es",
+    "width": 1024,
+    "theme": "light",
+    "caption": "Valor teórico de la capacidad: 7200,00 BRL · Costes considerados por año: 1200,00 BRL",
+    "overflow": false
+  },
+  {
+    "language": "es",
+    "width": 1440,
+    "theme": "light",
+    "caption": "Valor teórico de la capacidad: 7200,00 BRL · Costes considerados por año: 1200,00 BRL",
+    "overflow": false
+  },
+  {
+    "language": "es",
+    "width": 1920,
+    "theme": "light",
+    "caption": "Valor teórico de la capacidad: 7200,00 BRL · Costes considerados por año: 1200,00 BRL",
+    "overflow": false
+  }
+]

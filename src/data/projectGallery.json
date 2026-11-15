@@ -1,0 +1,130 @@
+{
+  "capturedOn": "2026-11-15",
+  "projects": {
+    "huella": [
+      {
+        "id": "hero",
+        "title": {
+          "pt": "Identidade editorial",
+          "es": "Identidad editorial"
+        },
+        "description": {
+          "pt": "A apresentação pública combina tipografia editorial, tons claros e a identidade de La Huella Escrita.",
+          "es": "La presentación pública combina tipografía editorial, tonos claros y la identidad de La Huella Escrita."
+        },
+        "sourceUrl": "https://www.lahuellaescrita.com/",
+        "image": "/media/projects/huella-hero-960.webp",
+        "small": "/media/projects/huella-hero-480.webp",
+        "large": "/media/projects/huella-hero-1280.webp",
+        "thumbnail": "/media/projects/huella-hero-192.webp",
+        "width": 1280,
+        "height": 800
+      },
+      {
+        "id": "books",
+        "title": {
+          "pt": "Biblioteca e livros",
+          "es": "Biblioteca y libros"
+        },
+        "description": {
+          "pt": "A biblioteca apresenta capas, descrições de obras e caminhos para explorar os livros.",
+          "es": "La biblioteca presenta portadas, descripciones de obras y caminos para explorar los libros."
+        },
+        "sourceUrl": "https://www.lahuellaescrita.com/biblioteca.html",
+        "image": "/media/projects/huella-books-960.webp",
+        "small": "/media/projects/huella-books-480.webp",
+        "large": "/media/projects/huella-books-1280.webp",
+        "thumbnail": "/media/projects/huella-books-192.webp",
+        "width": 1280,
+        "height": 800
+      },
+      {
+        "id": "resources",
+        "title": {
+          "pt": "Recursos para escritores",
+          "es": "Recursos para escritores"
+        },
+        "description": {
+          "pt": "Uma seleção pública de técnicas, ferramentas e ideias para a escrita, com organização em cartões.",
+          "es": "Una selección pública de técnicas, herramientas e ideas para la escritura, organizada en tarjetas."
+        },
+        "sourceUrl": "https://www.lahuellaescrita.com/recursos.html",
+        "image": "/media/projects/huella-resources-960.webp",
+        "small": "/media/projects/huella-resources-480.webp",
+        "large": "/media/projects/huella-resources-1280.webp",
+        "thumbnail": "/media/projects/huella-resources-192.webp",
+        "width": 1280,
+        "height": 800
+      }
+    ],
+    "yoeldis": [
+      {
+        "id": "hero",
+        "title": {
+          "pt": "Marca pessoal",
+          "es": "Marca personal"
+        },
+        "description": {
+          "pt": "A identidade profissional reúne psicologia, escrita e desenvolvimento pessoal em uma apresentação própria.",
+          "es": "La identidad profesional reúne psicología, escritura y desarrollo personal en una presentación propia."
+        },
+        "sourceUrl": "https://www.yoeldiscastillo.com/",
+        "image": "/media/projects/yoeldis-hero-960.webp",
+        "small": "/media/projects/yoeldis-hero-480.webp",
+        "large": "/media/projects/yoeldis-hero-1280.webp",
+        "thumbnail": "/media/projects/yoeldis-hero-192.webp",
+        "width": 1280,
+        "height": 800
+      },
+      {
+        "id": "books",
+        "title": {
+          "pt": "Livros e conteúdo",
+          "es": "Libros y contenido"
+        },
+        "description": {
+          "pt": "A página de livros destaca capas, descrições e uma prévia do conteúdo das obras.",
+          "es": "La página de libros destaca portadas, descripciones y una vista previa del contenido de las obras."
+        },
+        "sourceUrl": "https://www.yoeldiscastillo.com/libros.html",
+        "image": "/media/projects/yoeldis-books-960.webp",
+        "small": "/media/projects/yoeldis-books-480.webp",
+        "large": "/media/projects/yoeldis-books-1280.webp",
+        "thumbnail": "/media/projects/yoeldis-books-192.webp",
+        "width": 1280,
+        "height": 800
+      },
+      {
+        "id": "articles",
+        "title": {
+          "pt": "Artigos e reflexões",
+          "es": "Artículos y reflexiones"
+        },
+        "description": {
+          "pt": "Artigos públicos abordam autoconhecimento, psicologia e desenvolvimento pessoal.",
+          "es": "Los artículos públicos abordan autoconocimiento, psicología y desarrollo personal."
+        },
+        "sourceUrl": "https://www.yoeldiscastillo.com/articulos.html",
+        "image": "/media/projects/yoeldis-articles-960.webp",
+        "small": "/media/projects/yoeldis-articles-480.webp",
+        "large": "/media/projects/yoeldis-articles-1280.webp",
+        "thumbnail": "/media/projects/yoeldis-articles-192.webp",
+        "width": 1280,
+        "height": 800
+      }
+    ]
+  },
+  "upcoming": {
+    "id": "cuentos-magicos",
+    "name": "Cuentos Mágicos",
+    "status": "upcoming",
+    "category": {
+      "pt": "PRODUTO NARRATIVO",
+      "es": "PRODUCTO NARRATIVO"
+    },
+    "copy": {
+      "pt": "Uma nova proposta narrativa em preparação. A próxima história do ecossistema Loop Avante começa aqui.",
+      "es": "Una nueva propuesta narrativa en preparación. La próxima historia del ecosistema Loop Avante comienza aquí."
+    }
+  }
+}

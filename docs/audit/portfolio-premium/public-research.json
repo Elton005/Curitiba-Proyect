@@ -1,0 +1,176 @@
+[
+  {
+    "id": "huella",
+    "url": "https://www.lahuellaescrita.com/",
+    "status": 200,
+    "capturedAt": "2026-11-15T04:53:56.837Z",
+    "title": "La Huella Escrita | Libros y Reflexiones de Junior Osmany Coronel",
+    "links": [
+      {
+        "text": "LA HUELLA ESCRITA",
+        "href": "https://www.lahuellaescrita.com/index.html"
+      },
+      {
+        "text": "INICIO",
+        "href": "https://www.lahuellaescrita.com/index.html"
+      },
+      {
+        "text": "AUTOR",
+        "href": "https://www.lahuellaescrita.com/autor.html"
+      },
+      {
+        "text": "BIBLIOTECA",
+        "href": "https://www.lahuellaescrita.com/biblioteca.html"
+      },
+      {
+        "text": "BLOG",
+        "href": "https://www.lahuellaescrita.com/blog.html"
+      },
+      {
+        "text": "RECURSOS",
+        "href": "https://www.lahuellaescrita.com/recursos.html"
+      },
+      {
+        "text": "EXPLORAR BIBLIOTECA",
+        "href": "https://www.lahuellaescrita.com/biblioteca.html"
+      },
+      {
+        "text": "CONOCE AL AUTOR",
+        "href": "https://www.lahuellaescrita.com/autor.html"
+      },
+      {
+        "text": "IR A LA BIBLIOTECA →",
+        "href": "https://www.lahuellaescrita.com/biblioteca.html"
+      },
+      {
+        "text": "VER RECURSOS →",
+        "href": "https://www.lahuellaescrita.com/recursos.html"
+      },
+      {
+        "text": "CONOCE AL AUTOR →",
+        "href": "https://www.lahuellaescrita.com/autor.html"
+      },
+      {
+        "text": "LEER EL BLOG →",
+        "href": "https://www.lahuellaescrita.com/blog.html"
+      },
+      {
+        "text": "ENVIAR MENSAJE",
+        "href": "mailto:tuemail@ejemplo.com"
+      }
+    ],
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "Historias que dejan huella.\n\nLectores que la hacen eterna."
+      },
+      {
+        "tag": "H3",
+        "text": "BIBLIOTECA"
+      },
+      {
+        "tag": "H3",
+        "text": "RECURSOS"
+      },
+      {
+        "tag": "H3",
+        "text": "AUTOR"
+      },
+      {
+        "tag": "H3",
+        "text": "BLOG"
+      },
+      {
+        "tag": "H3",
+        "text": "Accede a contenido exclusivo"
+      },
+      {
+        "tag": "H3",
+        "text": "Tu Perfil"
+      }
+    ]
+  },
+  {
+    "id": "yoeldis",
+    "url": "https://www.yoeldiscastillo.com/",
+    "status": 200,
+    "capturedAt": "2026-11-15T04:54:00.818Z",
+    "title": "Yoeldis Castillo Quiala | Psicólogo y Escritor - Desarrollo Personal",
+    "links": [
+      {
+        "text": "YC\nYoeldis Castillo Quiala\nESCRITOR",
+        "href": "https://www.yoeldiscastillo.com/index.html"
+      },
+      {
+        "text": "INICIO",
+        "href": "https://www.yoeldiscastillo.com/index.html"
+      },
+      {
+        "text": "SOBRE MÍ",
+        "href": "https://www.yoeldiscastillo.com/sobre-mi.html"
+      },
+      {
+        "text": "LIBROS",
+        "href": "https://www.yoeldiscastillo.com/libros.html"
+      },
+      {
+        "text": "ARTÍCULOS",
+        "href": "https://www.yoeldiscastillo.com/articulos.html"
+      },
+      {
+        "text": "CONTACTO",
+        "href": "https://www.yoeldiscastillo.com/contacto.html"
+      },
+      {
+        "text": "Explorar Libros",
+        "href": "https://www.yoeldiscastillo.com/libros.html"
+      },
+      {
+        "text": "Conoce mi trayectoria",
+        "href": "https://www.yoeldiscastillo.com/sobre-mi.html"
+      },
+      {
+        "text": "Leer artículo",
+        "href": "https://www.yoeldiscastillo.com/articulos.html"
+      },
+      {
+        "text": "Enviar mensaje",
+        "href": "https://www.yoeldiscastillo.com/contacto.html"
+      }
+    ],
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "Comprende tu mente,\n\ntransforma tu vida."
+      },
+      {
+        "tag": "H2",
+        "text": "Explora y Descubre"
+      },
+      {
+        "tag": "H3",
+        "text": "¿Por qué soy así?"
+      },
+      {
+        "tag": "H3",
+        "text": "Las 8 Dimensiones del Ser Humano"
+      },
+      {
+        "tag": "H3",
+        "text": "ELTON OLIVARES"
+      },
+      {
+        "tag": "H3",
+        "text": "Bienvenido de vuelta"
+      },
+      {
+        "tag": "H3",
+        "text": "Crea tu cuenta"
+      },
+      {
+        "tag": "H3",
+        "text": "Tu Perfil"
+      }
+    ]
+  }
+]

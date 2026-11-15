@@ -1,0 +1,16 @@
+{
+  "date": "2026-11-14",
+  "installation": "npm ci: exit 0 after releasing the verified workspace Vite/esbuild lock",
+  "unitTests": 21,
+  "domainScenarios": 6561,
+  "browserTests": 29,
+  "browserFailures": 0,
+  "fullPageCaptures": 30,
+  "viewportCaptures": 30,
+  "productionRoutes": 10,
+  "productionErrors": [],
+  "maximumLabCls": 0,
+  "minimumLabLcp": 140,
+  "maximumLabLcp": 756,
+  "mobileFilesVerified": 35
+}

@@ -1,0 +1,1023 @@
+{
+  "config": {
+    "argv": [
+      "C:\\Program Files\\nodejs\\node.exe",
+      "D:\\Work\\Curitiba-Proyect\\node_modules\\@playwright\\test\\cli.js",
+      "test",
+      "--max-failures=3"
+    ],
+    "configFile": "D:\\Work\\Curitiba-Proyect\\playwright.config.js",
+    "rootDir": "D:/Work/Curitiba-Proyect/tests",
+    "failOnFlakyTests": false,
+    "forbidOnly": false,
+    "fullyParallel": false,
+    "globalSetup": null,
+    "globalTeardown": null,
+    "globalTimeout": 0,
+    "grep": {},
+    "grepInvert": null,
+    "maxFailures": 3,
+    "metadata": {
+      "actualWorkers": 1
+    },
+    "preserveOutput": "always",
+    "projects": [
+      {
+        "outputDir": "D:/Work/Curitiba-Proyect/test-results",
+        "repeatEach": 1,
+        "retries": 0,
+        "metadata": {
+          "actualWorkers": 1
+        },
+        "id": "",
+        "name": "",
+        "testDir": "D:/Work/Curitiba-Proyect/tests",
+        "testIgnore": [],
+        "testMatch": [
+          "**/e2e.spec.js"
+        ],
+        "timeout": 45000
+      }
+    ],
+    "filteredProjects": [
+      {
+        "grep": {},
+        "grepInvert": null,
+        "outputDir": "D:\\Work\\Curitiba-Proyect\\test-results",
+        "repeatEach": 1,
+        "retries": 0,
+        "metadata": {
+          "actualWorkers": 1
+        },
+        "name": "",
+        "testDir": "D:\\Work\\Curitiba-Proyect\\tests",
+        "snapshotDir": "D:\\Work\\Curitiba-Proyect\\tests",
+        "testIgnore": [],
+        "testMatch": "**/e2e.spec.js",
+        "timeout": 45000,
+        "use": {
+          "baseURL": "http://127.0.0.1:5173",
+          "channel": "msedge",
+          "headless": true,
+          "viewport": {
+            "width": 1440,
+            "height": 1000
+          },
+          "screenshot": "only-on-failure",
+          "trace": "retain-on-failure",
+          "reducedMotion": "reduce"
+        },
+        "dependencies": [],
+        "ignoreSnapshots": false,
+        "__projectId": ""
+      }
+    ],
+    "quiet": false,
+    "reporter": [
+      [
+        "list",
+        null
+      ],
+      [
+        "json",
+        {
+          "outputFile": "docs/audit/playwright-results.json"
+        }
+      ]
+    ],
+    "reportSlowTests": {
+      "max": 5,
+      "threshold": 300000
+    },
+    "shard": null,
+    "tags": [],
+    "updateSnapshots": "default",
+    "updateSourceMethod": "patch",
+    "version": "1.65.1",
+    "workers": 1,
+    "webServer": {
+      "command": "npm run dev -- --host 127.0.0.1 --port 5173 --strictPort",
+      "url": "http://127.0.0.1:5173",
+      "reuseExistingServer": true,
+      "timeout": 30000
+    }
+  },
+  "suites": [
+    {
+      "title": "e2e.spec.js",
+      "file": "e2e.spec.js",
+      "column": 0,
+      "line": 0,
+      "specs": [
+        {
+          "title": "Direct /: independent document, locale, metadata, dark default and local assets",
+          "ok": false,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 45000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "failed",
+                  "duration": 9385,
+                  "error": {
+                    "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mpage\u001b[39m\u001b[2m).\u001b[22mtoHaveTitle\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m)\u001b[22m failed\n\nExpected pattern: \u001b[32m/Tecnologia/\u001b[39m\nReceived string:  \u001b[31m\"Loop Avante — Sites, sistemas e aplicativos para negócios\"\u001b[39m\nTimeout: 7000ms\n\nCall log:\n\u001b[2m  - Expect \"toHaveTitle\" with timeout 7000ms\u001b[22m\n\u001b[2m    17 × locator resolved to <html lang=\"pt-BR\" data-theme=\"dark\">…</html>\u001b[22m\n\u001b[2m       - unexpected value \"Loop Avante — Sites, sistemas e aplicativos para negócios\"\u001b[22m\n",
+                    "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mpage\u001b[39m\u001b[2m).\u001b[22mtoHaveTitle\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m)\u001b[22m failed\n\nExpected pattern: \u001b[32m/Tecnologia/\u001b[39m\nReceived string:  \u001b[31m\"Loop Avante — Sites, sistemas e aplicativos para negócios\"\u001b[39m\nTimeout: 7000ms\n\nCall log:\n\u001b[2m  - Expect \"toHaveTitle\" with timeout 7000ms\u001b[22m\n\u001b[2m    17 × locator resolved to <html lang=\"pt-BR\" data-theme=\"dark\">…</html>\u001b[22m\n\u001b[2m       - unexpected value \"Loop Avante — Sites, sistemas e aplicativos para negócios\"\u001b[22m\n\n    at D:\\Work\\Curitiba-Proyect\\tests\\e2e.spec.js:14:255",
+                    "location": {
+                      "file": "D:\\Work\\Curitiba-Proyect\\tests\\e2e.spec.js",
+                      "column": 255,
+                      "line": 14
+                    },
+                    "snippet": " \u001b[90m 12 |\u001b[39m   \u001b[36mconst\u001b[39m errors\u001b[33m=\u001b[39m[]\u001b[33m,\u001b[39mexternal\u001b[33m=\u001b[39m[]\u001b[33m;\u001b[39mpage\u001b[33m.\u001b[39mon(\u001b[32m'pageerror'\u001b[39m\u001b[33m,\u001b[39merror\u001b[33m=>\u001b[39merrors\u001b[33m.\u001b[39mpush(error\u001b[33m.\u001b[39mmessage))\u001b[33m;\u001b[39mpage\u001b[33m.\u001b[39mon(\u001b[32m'console'\u001b[39m\u001b[33m,\u001b[39mmessage\u001b[33m=>\u001b[39m{\u001b[36mif\u001b[39m(message\u001b[33m.\u001b[39mtype()\u001b[33m===\u001b[39m\u001b[32m'error'\u001b[39m)errors\u001b[33m.\u001b[39mpush(message\u001b[33m.\u001b[39mtext())\u001b[33m;\u001b[39m})\u001b[33m;\u001b[39mpage\u001b[33m.\u001b[39mon(\u001b[32m'request'\u001b[39m\u001b[33m,\u001b[39mreq\u001b[33m=>\u001b[39m{\u001b[36mif\u001b[39m(\u001b[33m!\u001b[39m[\u001b[32m'127.0.0.1'\u001b[39m\u001b[33m,\u001b[39m\u001b[32m'localhost'\u001b[39m]\u001b[33m.\u001b[39mincludes(\u001b[36mnew\u001b[39m \u001b[33mURL\u001b[39m(req\u001b[33m.\u001b[39murl())\u001b[33m.\u001b[39mhostname))external\u001b[33m.\u001b[39mpush(req\u001b[33m.\u001b[39murl())\u001b[33m;\u001b[39m})\u001b[33m;\u001b[39m\n \u001b[90m 13 |\u001b[39m   \u001b[36mconst\u001b[39m htmlResponse\u001b[33m=\u001b[39m\u001b[36mawait\u001b[39m request\u001b[33m.\u001b[39mget(path)\u001b[33m;\u001b[39mexpect(htmlResponse\u001b[33m.\u001b[39mstatus())\u001b[33m.\u001b[39mtoBe(\u001b[35m200\u001b[39m)\u001b[33m;\u001b[39m\u001b[36mconst\u001b[39m html\u001b[33m=\u001b[39m\u001b[36mawait\u001b[39m htmlResponse\u001b[33m.\u001b[39mtext()\u001b[33m;\u001b[39mexpect(html)\u001b[33m.\u001b[39mtoContain(\u001b[32m`lang=\"${language==='pt'?'pt-BR':'es'}\"`\u001b[39m)\u001b[33m;\u001b[39mexpect(html)\u001b[33m.\u001b[39mtoContain(\u001b[32m'data-theme=\"dark\"'\u001b[39m)\u001b[33m;\u001b[39mexpect(html)\u001b[33m.\u001b[39mtoContain(title)\u001b[33m;\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 14 |\u001b[39m   \u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39mgoto(path)\u001b[33m;\u001b[39m\u001b[36mawait\u001b[39m expect(page)\u001b[33m.\u001b[39mtoHaveURL(\u001b[36mnew\u001b[39m \u001b[33mRegExp\u001b[39m(path\u001b[33m+\u001b[39m\u001b[32m'$'\u001b[39m))\u001b[33m;\u001b[39m\u001b[36mawait\u001b[39m expect(page\u001b[33m.\u001b[39mlocator(\u001b[32m'html'\u001b[39m))\u001b[33m.\u001b[39mtoHaveAttribute(\u001b[32m'lang'\u001b[39m\u001b[33m,\u001b[39mlanguage\u001b[33m===\u001b[39m\u001b[32m'pt'\u001b[39m\u001b[33m?\u001b[39m\u001b[32m'pt-BR'\u001b[39m\u001b[33m:\u001b[39m\u001b[32m'es'\u001b[39m)\u001b[33m;\u001b[39m\u001b[36mawait\u001b[39m expect(page\u001b[33m.\u001b[39mlocator(\u001b[32m'html'\u001b[39m))\u001b[33m.\u001b[39mtoHaveAttribute(\u001b[32m'data-theme'\u001b[39m\u001b[33m,\u001b[39m\u001b[32m'dark'\u001b[39m)\u001b[33m;\u001b[39m\u001b[36mawait\u001b[39m expect(page)\u001b[33m.\u001b[39mtoHaveTitle(\u001b[36mnew\u001b[39m \u001b[33mRegExp\u001b[39m(title))\u001b[33m;\u001b[39m\u001b[36mawait\u001b[39m expect(page\u001b[33m.\u001b[39mlocator(\u001b[32m'h1'\u001b[39m))\u001b[33m.\u001b[39mtoHaveCount(\u001b[35m1\u001b[39m)\u001b[33m;\u001b[39m\u001b[36mawait\u001b[39m expect(page\u001b[33m.\u001b[39mlocator(\u001b[32m'h1'\u001b[39m))\u001b[33m.\u001b[39mtoBeVisible()\u001b[33m;\u001b[39m\u001b[36mawait\u001b[39m expect(page\u001b[33m.\u001b[39mlocator(\u001b[32m'meta[property=\"og:locale\"]'\u001b[39m))\u001b[33m.\u001b[39mtoHaveAttribute(\u001b[32m'content'\u001b[39m\u001b[33m,\u001b[39mlanguage\u001b[33m===\u001b[39m\u001b[32m'pt'\u001b[39m\u001b[33m?\u001b[39m\u001b[32m'pt_BR'\u001b[39m\u001b[33m:\u001b[39m\u001b[32m'es_ES'\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m    |\u001b[39m                                                                                                                                                                                                                                                               \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 15 |\u001b[39m   \u001b[36mif\u001b[39m(key\u001b[33m!==\u001b[39m\u001b[32m'home'\u001b[39m){\u001b[36mawait\u001b[39m expect(page\u001b[33m.\u001b[39mlocator(\u001b[32m'.breadcrumbs'\u001b[39m))\u001b[33m.\u001b[39mtoBeVisible()\u001b[33m;\u001b[39m\u001b[36mawait\u001b[39m expect(page\u001b[33m.\u001b[39mlocator(\u001b[32m'.hero'\u001b[39m))\u001b[33m.\u001b[39mtoHaveCount(\u001b[35m0\u001b[39m)\u001b[33m;\u001b[39m}\u001b[36melse\u001b[39m{\u001b[36mawait\u001b[39m expect(page\u001b[33m.\u001b[39mlocator(\u001b[32m'.diagnostic-panel,.simulator-panel,.quote-form'\u001b[39m))\u001b[33m.\u001b[39mtoHaveCount(\u001b[35m0\u001b[39m)\u001b[33m;\u001b[39m\u001b[36mawait\u001b[39m expect(page\u001b[33m.\u001b[39mlocator(\u001b[32m'.tools-grid>article'\u001b[39m))\u001b[33m.\u001b[39mtoHaveCount(\u001b[35m3\u001b[39m)\u001b[33m;\u001b[39m}\n \u001b[90m 16 |\u001b[39m   \u001b[36mawait\u001b[39m images(page)\u001b[33m;\u001b[39mexpect(\u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39mlocator(\u001b[32m'img'\u001b[39m)\u001b[33m.\u001b[39mevaluateAll(list\u001b[33m=>\u001b[39mlist\u001b[33m.\u001b[39mevery(img\u001b[33m=>\u001b[39mimg\u001b[33m.\u001b[39mcomplete\u001b[33m&&\u001b[39mimg\u001b[33m.\u001b[39mnaturalWidth\u001b[33m>\u001b[39m\u001b[35m0\u001b[39m)))\u001b[33m.\u001b[39mtoBe(\u001b[36mtrue\u001b[39m)\u001b[33m;\u001b[39mexpect(external)\u001b[33m.\u001b[39mtoEqual([])\u001b[33m;\u001b[39mexpect(errors)\u001b[33m.\u001b[39mtoEqual([])\u001b[33m;\u001b[39m\u001b[36mawait\u001b[39m expect(page\u001b[33m.\u001b[39mlocator(\u001b[32m'a[href*=\"wa.me\"],a[href^=\"mailto:\"]'\u001b[39m))\u001b[33m.\u001b[39mtoHaveCount(\u001b[35m0\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m 17 |\u001b[39m })\u001b[33m;\u001b[39m"
+                  },
+                  "errors": [
+                    {
+                      "location": {
+                        "file": "D:\\Work\\Curitiba-Proyect\\tests\\e2e.spec.js",
+                        "column": 255,
+                        "line": 14
+                      },
+                      "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mpage\u001b[39m\u001b[2m).\u001b[22mtoHaveTitle\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m)\u001b[22m failed\n\nExpected pattern: \u001b[32m/Tecnologia/\u001b[39m\nReceived string:  \u001b[31m\"Loop Avante — Sites, sistemas e aplicativos para negócios\"\u001b[39m\nTimeout: 7000ms\n\nCall log:\n\u001b[2m  - Expect \"toHaveTitle\" with timeout 7000ms\u001b[22m\n\u001b[2m    17 × locator resolved to <html lang=\"pt-BR\" data-theme=\"dark\">…</html>\u001b[22m\n\u001b[2m       - unexpected value \"Loop Avante — Sites, sistemas e aplicativos para negócios\"\u001b[22m\n\n\n  12 |   const errors=[],external=[];page.on('pageerror',error=>errors.push(error.message));page.on('console',message=>{if(message.type()==='error')errors.push(message.text());});page.on('request',req=>{if(!['127.0.0.1','localhost'].includes(new URL(req.url()).hostname))external.push(req.url());});\n  13 |   const htmlResponse=await request.get(path);expect(htmlResponse.status()).toBe(200);const html=await htmlResponse.text();expect(html).toContain(`lang=\"${language==='pt'?'pt-BR':'es'}\"`);expect(html).toContain('data-theme=\"dark\"');expect(html).toContain(title);\n> 14 |   await page.goto(path);await expect(page).toHaveURL(new RegExp(path+'$'));await expect(page.locator('html')).toHaveAttribute('lang',language==='pt'?'pt-BR':'es');await expect(page.locator('html')).toHaveAttribute('data-theme','dark');await expect(page).toHaveTitle(new RegExp(title));await expect(page.locator('h1')).toHaveCount(1);await expect(page.locator('h1')).toBeVisible();await expect(page.locator('meta[property=\"og:locale\"]')).toHaveAttribute('content',language==='pt'?'pt_BR':'es_ES');\n     |                                                                                                                                                                                                                                                               ^\n  15 |   if(key!=='home'){await expect(page.locator('.breadcrumbs')).toBeVisible();await expect(page.locator('.hero')).toHaveCount(0);}else{await expect(page.locator('.diagnostic-panel,.simulator-panel,.quote-form')).toHaveCount(0);await expect(page.locator('.tools-grid>article')).toHaveCount(3);}\n  16 |   await images(page);expect(await page.locator('img').evaluateAll(list=>list.every(img=>img.complete&&img.naturalWidth>0))).toBe(true);expect(external).toEqual([]);expect(errors).toEqual([]);await expect(page.locator('a[href*=\"wa.me\"],a[href^=\"mailto:\"]')).toHaveCount(0);\n  17 | });\n    at D:\\Work\\Curitiba-Proyect\\tests\\e2e.spec.js:14:255"
+                    }
+                  ],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-11-14T14:26:56.834Z",
+                  "annotations": [],
+                  "attachments": [
+                    {
+                      "name": "screenshot",
+                      "contentType": "image/png",
+                      "path": "D:\\Work\\Curitiba-Proyect\\test-results\\e2e-Direct-independent-doc-76042-rk-default-and-local-assets\\test-failed-1.png"
+                    },
+                    {
+                      "name": "error-context",
+                      "contentType": "text/markdown",
+                      "path": "D:\\Work\\Curitiba-Proyect\\test-results\\e2e-Direct-independent-doc-76042-rk-default-and-local-assets\\error-context.md"
+                    },
+                    {
+                      "name": "trace",
+                      "contentType": "application/zip",
+                      "path": "D:\\Work\\Curitiba-Proyect\\test-results\\e2e-Direct-independent-doc-76042-rk-default-and-local-assets\\trace.zip"
+                    }
+                  ],
+                  "errorLocation": {
+                    "file": "D:\\Work\\Curitiba-Proyect\\tests\\e2e.spec.js",
+                    "column": 255,
+                    "line": 14
+                  }
+                }
+              ],
+              "status": "unexpected"
+            }
+          ],
+          "id": "616cc0f313d283bb66d2-a346f4d69250189e865d",
+          "file": "e2e.spec.js",
+          "line": 11,
+          "column": 117
+        },
+        {
+          "title": "Direct /es/: independent document, locale, metadata, dark default and local assets",
+          "ok": false,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 45000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 1,
+                  "parallelIndex": 0,
+                  "status": "failed",
+                  "duration": 8754,
+                  "error": {
+                    "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mpage\u001b[39m\u001b[2m).\u001b[22mtoHaveTitle\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m)\u001b[22m failed\n\nExpected pattern: \u001b[32m/Tecnología/\u001b[39m\nReceived string:  \u001b[31m\"Loop Avante — Sitios, sistemas y aplicaciones para negocios\"\u001b[39m\nTimeout: 7000ms\n\nCall log:\n\u001b[2m  - Expect \"toHaveTitle\" with timeout 7000ms\u001b[22m\n\u001b[2m    17 × locator resolved to <html lang=\"es\" data-theme=\"dark\">…</html>\u001b[22m\n\u001b[2m       - unexpected value \"Loop Avante — Sitios, sistemas y aplicaciones para negocios\"\u001b[22m\n",
+                    "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mpage\u001b[39m\u001b[2m).\u001b[22mtoHaveTitle\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m)\u001b[22m failed\n\nExpected pattern: \u001b[32m/Tecnología/\u001b[39m\nReceived string:  \u001b[31m\"Loop Avante — Sitios, sistemas y aplicaciones para negocios\"\u001b[39m\nTimeout: 7000ms\n\nCall log:\n\u001b[2m  - Expect \"toHaveTitle\" with timeout 7000ms\u001b[22m\n\u001b[2m    17 × locator resolved to <html lang=\"es\" data-theme=\"dark\">…</html>\u001b[22m\n\u001b[2m       - unexpected value \"Loop Avante — Sitios, sistemas y aplicaciones para negocios\"\u001b[22m\n\n    at D:\\Work\\Curitiba-Proyect\\tests\\e2e.spec.js:14:255",
+                    "location": {
+                      "file": "D:\\Work\\Curitiba-Proyect\\tests\\e2e.spec.js",
+                      "column": 255,
+                      "line": 14
+                    },
+                    "snippet": " \u001b[90m 12 |\u001b[39m   \u001b[36mconst\u001b[39m errors\u001b[33m=\u001b[39m[]\u001b[33m,\u001b[39mexternal\u001b[33m=\u001b[39m[]\u001b[33m;\u001b[39mpage\u001b[33m.\u001b[39mon(\u001b[32m'pageerror'\u001b[39m\u001b[33m,\u001b[39merror\u001b[33m=>\u001b[39merrors\u001b[33m.\u001b[39mpush(error\u001b[33m.\u001b[39mmessage))\u001b[33m;\u001b[39mpage\u001b[33m.\u001b[39mon(\u001b[32m'console'\u001b[39m\u001b[33m,\u001b[39mmessage\u001b[33m=>\u001b[39m{\u001b[36mif\u001b[39m(message\u001b[33m.\u001b[39mtype()\u001b[33m===\u001b[39m\u001b[32m'error'\u001b[39m)errors\u001b[33m.\u001b[39mpush(message\u001b[33m.\u001b[39mtext())\u001b[33m;\u001b[39m})\u001b[33m;\u001b[39mpage\u001b[33m.\u001b[39mon(\u001b[32m'request'\u001b[39m\u001b[33m,\u001b[39mreq\u001b[33m=>\u001b[39m{\u001b[36mif\u001b[39m(\u001b[33m!\u001b[39m[\u001b[32m'127.0.0.1'\u001b[39m\u001b[33m,\u001b[39m\u001b[32m'localhost'\u001b[39m]\u001b[33m.\u001b[39mincludes(\u001b[36mnew\u001b[39m \u001b[33mURL\u001b[39m(req\u001b[33m.\u001b[39murl())\u001b[33m.\u001b[39mhostname))external\u001b[33m.\u001b[39mpush(req\u001b[33m.\u001b[39murl())\u001b[33m;\u001b[39m})\u001b[33m;\u001b[39m\n \u001b[90m 13 |\u001b[39m   \u001b[36mconst\u001b[39m htmlResponse\u001b[33m=\u001b[39m\u001b[36mawait\u001b[39m request\u001b[33m.\u001b[39mget(path)\u001b[33m;\u001b[39mexpect(htmlResponse\u001b[33m.\u001b[39mstatus())\u001b[33m.\u001b[39mtoBe(\u001b[35m200\u001b[39m)\u001b[33m;\u001b[39m\u001b[36mconst\u001b[39m html\u001b[33m=\u001b[39m\u001b[36mawait\u001b[39m htmlResponse\u001b[33m.\u001b[39mtext()\u001b[33m;\u001b[39mexpect(html)\u001b[33m.\u001b[39mtoContain(\u001b[32m`lang=\"${language==='pt'?'pt-BR':'es'}\"`\u001b[39m)\u001b[33m;\u001b[39mexpect(html)\u001b[33m.\u001b[39mtoContain(\u001b[32m'data-theme=\"dark\"'\u001b[39m)\u001b[33m;\u001b[39mexpect(html)\u001b[33m.\u001b[39mtoContain(title)\u001b[33m;\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 14 |\u001b[39m   \u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39mgoto(path)\u001b[33m;\u001b[39m\u001b[36mawait\u001b[39m expect(page)\u001b[33m.\u001b[39mtoHaveURL(\u001b[36mnew\u001b[39m \u001b[33mRegExp\u001b[39m(path\u001b[33m+\u001b[39m\u001b[32m'$'\u001b[39m))\u001b[33m;\u001b[39m\u001b[36mawait\u001b[39m expect(page\u001b[33m.\u001b[39mlocator(\u001b[32m'html'\u001b[39m))\u001b[33m.\u001b[39mtoHaveAttribute(\u001b[32m'lang'\u001b[39m\u001b[33m,\u001b[39mlanguage\u001b[33m===\u001b[39m\u001b[32m'pt'\u001b[39m\u001b[33m?\u001b[39m\u001b[32m'pt-BR'\u001b[39m\u001b[33m:\u001b[39m\u001b[32m'es'\u001b[39m)\u001b[33m;\u001b[39m\u001b[36mawait\u001b[39m expect(page\u001b[33m.\u001b[39mlocator(\u001b[32m'html'\u001b[39m))\u001b[33m.\u001b[39mtoHaveAttribute(\u001b[32m'data-theme'\u001b[39m\u001b[33m,\u001b[39m\u001b[32m'dark'\u001b[39m)\u001b[33m;\u001b[39m\u001b[36mawait\u001b[39m expect(page)\u001b[33m.\u001b[39mtoHaveTitle(\u001b[36mnew\u001b[39m \u001b[33mRegExp\u001b[39m(title))\u001b[33m;\u001b[39m\u001b[36mawait\u001b[39m expect(page\u001b[33m.\u001b[39mlocator(\u001b[32m'h1'\u001b[39m))\u001b[33m.\u001b[39mtoHaveCount(\u001b[35m1\u001b[39m)\u001b[33m;\u001b[39m\u001b[36mawait\u001b[39m expect(page\u001b[33m.\u001b[39mlocator(\u001b[32m'h1'\u001b[39m))\u001b[33m.\u001b[39mtoBeVisible()\u001b[33m;\u001b[39m\u001b[36mawait\u001b[39m expect(page\u001b[33m.\u001b[39mlocator(\u001b[32m'meta[property=\"og:locale\"]'\u001b[39m))\u001b[33m.\u001b[39mtoHaveAttribute(\u001b[32m'content'\u001b[39m\u001b[33m,\u001b[39mlanguage\u001b[33m===\u001b[39m\u001b[32m'pt'\u001b[39m\u001b[33m?\u001b[39m\u001b[32m'pt_BR'\u001b[39m\u001b[33m:\u001b[39m\u001b[32m'es_ES'\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m    |\u001b[39m                                                                                                                                                                                                                                                               \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 15 |\u001b[39m   \u001b[36mif\u001b[39m(key\u001b[33m!==\u001b[39m\u001b[32m'home'\u001b[39m){\u001b[36mawait\u001b[39m expect(page\u001b[33m.\u001b[39mlocator(\u001b[32m'.breadcrumbs'\u001b[39m))\u001b[33m.\u001b[39mtoBeVisible()\u001b[33m;\u001b[39m\u001b[36mawait\u001b[39m expect(page\u001b[33m.\u001b[39mlocator(\u001b[32m'.hero'\u001b[39m))\u001b[33m.\u001b[39mtoHaveCount(\u001b[35m0\u001b[39m)\u001b[33m;\u001b[39m}\u001b[36melse\u001b[39m{\u001b[36mawait\u001b[39m expect(page\u001b[33m.\u001b[39mlocator(\u001b[32m'.diagnostic-panel,.simulator-panel,.quote-form'\u001b[39m))\u001b[33m.\u001b[39mtoHaveCount(\u001b[35m0\u001b[39m)\u001b[33m;\u001b[39m\u001b[36mawait\u001b[39m expect(page\u001b[33m.\u001b[39mlocator(\u001b[32m'.tools-grid>article'\u001b[39m))\u001b[33m.\u001b[39mtoHaveCount(\u001b[35m3\u001b[39m)\u001b[33m;\u001b[39m}\n \u001b[90m 16 |\u001b[39m   \u001b[36mawait\u001b[39m images(page)\u001b[33m;\u001b[39mexpect(\u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39mlocator(\u001b[32m'img'\u001b[39m)\u001b[33m.\u001b[39mevaluateAll(list\u001b[33m=>\u001b[39mlist\u001b[33m.\u001b[39mevery(img\u001b[33m=>\u001b[39mimg\u001b[33m.\u001b[39mcomplete\u001b[33m&&\u001b[39mimg\u001b[33m.\u001b[39mnaturalWidth\u001b[33m>\u001b[39m\u001b[35m0\u001b[39m)))\u001b[33m.\u001b[39mtoBe(\u001b[36mtrue\u001b[39m)\u001b[33m;\u001b[39mexpect(external)\u001b[33m.\u001b[39mtoEqual([])\u001b[33m;\u001b[39mexpect(errors)\u001b[33m.\u001b[39mtoEqual([])\u001b[33m;\u001b[39m\u001b[36mawait\u001b[39m expect(page\u001b[33m.\u001b[39mlocator(\u001b[32m'a[href*=\"wa.me\"],a[href^=\"mailto:\"]'\u001b[39m))\u001b[33m.\u001b[39mtoHaveCount(\u001b[35m0\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m 17 |\u001b[39m })\u001b[33m;\u001b[39m"
+                  },
+                  "errors": [
+                    {
+                      "location": {
+                        "file": "D:\\Work\\Curitiba-Proyect\\tests\\e2e.spec.js",
+                        "column": 255,
+                        "line": 14
+                      },
+                      "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mpage\u001b[39m\u001b[2m).\u001b[22mtoHaveTitle\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m)\u001b[22m failed\n\nExpected pattern: \u001b[32m/Tecnología/\u001b[39m\nReceived string:  \u001b[31m\"Loop Avante — Sitios, sistemas y aplicaciones para negocios\"\u001b[39m\nTimeout: 7000ms\n\nCall log:\n\u001b[2m  - Expect \"toHaveTitle\" with timeout 7000ms\u001b[22m\n\u001b[2m    17 × locator resolved to <html lang=\"es\" data-theme=\"dark\">…</html>\u001b[22m\n\u001b[2m       - unexpected value \"Loop Avante — Sitios, sistemas y aplicaciones para negocios\"\u001b[22m\n\n\n  12 |   const errors=[],external=[];page.on('pageerror',error=>errors.push(error.message));page.on('console',message=>{if(message.type()==='error')errors.push(message.text());});page.on('request',req=>{if(!['127.0.0.1','localhost'].includes(new URL(req.url()).hostname))external.push(req.url());});\n  13 |   const htmlResponse=await request.get(path);expect(htmlResponse.status()).toBe(200);const html=await htmlResponse.text();expect(html).toContain(`lang=\"${language==='pt'?'pt-BR':'es'}\"`);expect(html).toContain('data-theme=\"dark\"');expect(html).toContain(title);\n> 14 |   await page.goto(path);await expect(page).toHaveURL(new RegExp(path+'$'));await expect(page.locator('html')).toHaveAttribute('lang',language==='pt'?'pt-BR':'es');await expect(page.locator('html')).toHaveAttribute('data-theme','dark');await expect(page).toHaveTitle(new RegExp(title));await expect(page.locator('h1')).toHaveCount(1);await expect(page.locator('h1')).toBeVisible();await expect(page.locator('meta[property=\"og:locale\"]')).toHaveAttribute('content',language==='pt'?'pt_BR':'es_ES');\n     |                                                                                                                                                                                                                                                               ^\n  15 |   if(key!=='home'){await expect(page.locator('.breadcrumbs')).toBeVisible();await expect(page.locator('.hero')).toHaveCount(0);}else{await expect(page.locator('.diagnostic-panel,.simulator-panel,.quote-form')).toHaveCount(0);await expect(page.locator('.tools-grid>article')).toHaveCount(3);}\n  16 |   await images(page);expect(await page.locator('img').evaluateAll(list=>list.every(img=>img.complete&&img.naturalWidth>0))).toBe(true);expect(external).toEqual([]);expect(errors).toEqual([]);await expect(page.locator('a[href*=\"wa.me\"],a[href^=\"mailto:\"]')).toHaveCount(0);\n  17 | });\n    at D:\\Work\\Curitiba-Proyect\\tests\\e2e.spec.js:14:255"
+                    }
+                  ],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-11-14T14:27:08.113Z",
+                  "annotations": [],
+                  "attachments": [
+                    {
+                      "name": "screenshot",
+                      "contentType": "image/png",
+                      "path": "D:\\Work\\Curitiba-Proyect\\test-results\\e2e-Direct-es-independent--0a8b8-rk-default-and-local-assets\\test-failed-1.png"
+                    },
+                    {
+                      "name": "error-context",
+                      "contentType": "text/markdown",
+                      "path": "D:\\Work\\Curitiba-Proyect\\test-results\\e2e-Direct-es-independent--0a8b8-rk-default-and-local-assets\\error-context.md"
+                    },
+                    {
+                      "name": "trace",
+                      "contentType": "application/zip",
+                      "path": "D:\\Work\\Curitiba-Proyect\\test-results\\e2e-Direct-es-independent--0a8b8-rk-default-and-local-assets\\trace.zip"
+                    }
+                  ],
+                  "errorLocation": {
+                    "file": "D:\\Work\\Curitiba-Proyect\\tests\\e2e.spec.js",
+                    "column": 255,
+                    "line": 14
+                  }
+                }
+              ],
+              "status": "unexpected"
+            }
+          ],
+          "id": "616cc0f313d283bb66d2-96a68cdaf65697896523",
+          "file": "e2e.spec.js",
+          "line": 11,
+          "column": 117
+        },
+        {
+          "title": "Direct /projetos/: independent document, locale, metadata, dark default and local assets",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 45000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 2,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 1869,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-11-14T14:27:18.477Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "616cc0f313d283bb66d2-454a0f7ce2247d05db6c",
+          "file": "e2e.spec.js",
+          "line": 11,
+          "column": 117
+        },
+        {
+          "title": "Direct /es/projetos/: independent document, locale, metadata, dark default and local assets",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 45000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 2,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 1254,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-11-14T14:27:20.779Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "616cc0f313d283bb66d2-a7cefb5215c605e9f163",
+          "file": "e2e.spec.js",
+          "line": 11,
+          "column": 117
+        },
+        {
+          "title": "Direct /diagnostico/: independent document, locale, metadata, dark default and local assets",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 45000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 2,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 1367,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-11-14T14:27:22.057Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "616cc0f313d283bb66d2-50ad30d88e9f75b137c3",
+          "file": "e2e.spec.js",
+          "line": 11,
+          "column": 117
+        },
+        {
+          "title": "Direct /es/diagnostico/: independent document, locale, metadata, dark default and local assets",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 45000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 2,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 1352,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-11-14T14:27:23.458Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "616cc0f313d283bb66d2-bc1b481794a9e5dfcd0f",
+          "file": "e2e.spec.js",
+          "line": 11,
+          "column": 117
+        },
+        {
+          "title": "Direct /simulador/: independent document, locale, metadata, dark default and local assets",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 45000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 2,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 1269,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-11-14T14:27:24.841Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "616cc0f313d283bb66d2-53048f6ff7fc798ffe9b",
+          "file": "e2e.spec.js",
+          "line": 11,
+          "column": 117
+        },
+        {
+          "title": "Direct /es/simulador/: independent document, locale, metadata, dark default and local assets",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 45000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 2,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 1134,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-11-14T14:27:26.134Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "616cc0f313d283bb66d2-0f94330681de85d1a60a",
+          "file": "e2e.spec.js",
+          "line": 11,
+          "column": 117
+        },
+        {
+          "title": "Direct /orcamento/: independent document, locale, metadata, dark default and local assets",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 45000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 2,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 1212,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-11-14T14:27:27.290Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "616cc0f313d283bb66d2-7ffab396e424368e7ad9",
+          "file": "e2e.spec.js",
+          "line": 11,
+          "column": 117
+        },
+        {
+          "title": "Direct /es/orcamento/: independent document, locale, metadata, dark default and local assets",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 45000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 2,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 1161,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-11-14T14:27:28.539Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "616cc0f313d283bb66d2-56cfa798bc69b860e118",
+          "file": "e2e.spec.js",
+          "line": 11,
+          "column": 117
+        },
+        {
+          "title": "Services transfer across documents, reload and backward/forward without losing newer choices",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 45000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 2,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 4329,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-11-14T14:27:29.721Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "616cc0f313d283bb66d2-70ed5db2e7ef7c99b1fc",
+          "file": "e2e.spec.js",
+          "line": 19,
+          "column": 1
+        },
+        {
+          "title": "Diagnostic validates and transfers anonymous answers, services and localized recommendations to the quote",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 45000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 2,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 4431,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-11-14T14:27:34.075Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "616cc0f313d283bb66d2-ef8c87fe8653bab59b72",
+          "file": "e2e.spec.js",
+          "line": 25,
+          "column": 1
+        },
+        {
+          "title": "Completed diagnostic state survives an in-place locale switch and returns valid optimization priorities",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 45000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 2,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 2173,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-11-14T14:27:38.528Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "616cc0f313d283bb66d2-82e0e1d22cc28b974dff",
+          "file": "e2e.spec.js",
+          "line": 31,
+          "column": 1
+        },
+        {
+          "title": "Simulator validates arithmetic, fractional limits, zero and persists its illustrative context",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 45000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 2,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 2948,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-11-14T14:27:40.718Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "616cc0f313d283bb66d2-9c67fbe6afd290967b01",
+          "file": "e2e.spec.js",
+          "line": 35,
+          "column": 1
+        },
+        {
+          "title": "Quote totals, optional contact validation, locale history, real clipboard/download and private fields",
+          "ok": false,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 45000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 2,
+                  "parallelIndex": 0,
+                  "status": "failed",
+                  "duration": 10401,
+                  "error": {
+                    "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mlocator\u001b[39m\u001b[2m).\u001b[22mtoContainText\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m)\u001b[22m failed\n\nLocator: locator('.generated-brief pre')\nExpected substring: \u001b[32m\"Sitios web y landing pages\"\u001b[39m\nTimeout: 7000ms\nError: element(s) not found\n\nCall log:\n\u001b[2m  - Expect \"toContainText\" locator('.generated-brief pre') with timeout 7000ms\u001b[22m\n\u001b[2m  - waiting for locator('.generated-brief pre')\u001b[22m\n",
+                    "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mlocator\u001b[39m\u001b[2m).\u001b[22mtoContainText\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m)\u001b[22m failed\n\nLocator: locator('.generated-brief pre')\nExpected substring: \u001b[32m\"Sitios web y landing pages\"\u001b[39m\nTimeout: 7000ms\nError: element(s) not found\n\nCall log:\n\u001b[2m  - Expect \"toContainText\" locator('.generated-brief pre') with timeout 7000ms\u001b[22m\n\u001b[2m  - waiting for locator('.generated-brief pre')\u001b[22m\n\n    at D:\\Work\\Curitiba-Proyect\\tests\\e2e.spec.js:41:353",
+                    "location": {
+                      "file": "D:\\Work\\Curitiba-Proyect\\tests\\e2e.spec.js",
+                      "column": 353,
+                      "line": 41
+                    },
+                    "snippet": " \u001b[90m 39 |\u001b[39m test(\u001b[32m'Quote totals, optional contact validation, locale history, real clipboard/download and private fields'\u001b[39m\u001b[33m,\u001b[39m\u001b[36masync\u001b[39m({page\u001b[33m,\u001b[39mcontext})\u001b[33m=>\u001b[39m{\n \u001b[90m 40 |\u001b[39m   \u001b[36mawait\u001b[39m context\u001b[33m.\u001b[39mgrantPermissions([\u001b[32m'clipboard-read'\u001b[39m\u001b[33m,\u001b[39m\u001b[32m'clipboard-write'\u001b[39m])\u001b[33m;\u001b[39m\u001b[36mconst\u001b[39m outgoing\u001b[33m=\u001b[39m[]\u001b[33m;\u001b[39mpage\u001b[33m.\u001b[39mon(\u001b[32m'request'\u001b[39m\u001b[33m,\u001b[39mrequest\u001b[33m=>\u001b[39m{\u001b[36mif\u001b[39m([\u001b[32m'POST'\u001b[39m\u001b[33m,\u001b[39m\u001b[32m'PUT'\u001b[39m\u001b[33m,\u001b[39m\u001b[32m'PATCH'\u001b[39m]\u001b[33m.\u001b[39mincludes(request\u001b[33m.\u001b[39mmethod()))outgoing\u001b[33m.\u001b[39mpush(request\u001b[33m.\u001b[39murl())\u001b[33m;\u001b[39m})\u001b[33m;\u001b[39m\u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39mgoto(\u001b[32m'/orcamento/'\u001b[39m)\u001b[33m;\u001b[39m\u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39mgetByRole(\u001b[32m'button'\u001b[39m\u001b[33m,\u001b[39m{name\u001b[33m:\u001b[39m\u001b[32m'Gerar resumo do projeto'\u001b[39m})\u001b[33m.\u001b[39mclick()\u001b[33m;\u001b[39m\u001b[36mawait\u001b[39m expect(page\u001b[33m.\u001b[39mlocator(\u001b[32m'#quote-errors'\u001b[39m))\u001b[33m.\u001b[39mtoContainText(\u001b[32m'Selecione ao menos'\u001b[39m)\u001b[33m;\u001b[39m\u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39mlocator(\u001b[32m'.quote-solution'\u001b[39m)\u001b[33m.\u001b[39mnth(\u001b[35m0\u001b[39m)\u001b[33m.\u001b[39mclick()\u001b[33m;\u001b[39m\u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39mlocator(\u001b[32m'.quote-solution'\u001b[39m)\u001b[33m.\u001b[39mnth(\u001b[35m1\u001b[39m)\u001b[33m.\u001b[39mclick()\u001b[33m;\u001b[39m\u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39mlocator(\u001b[32m'#project-description'\u001b[39m)\u001b[33m.\u001b[39mfill(\u001b[32m'Texto livre de teste sobre um projeto institucional acessível.'\u001b[39m)\u001b[33m;\u001b[39m\u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39mlocator(\u001b[32m'.feature-checkboxes input'\u001b[39m)\u001b[33m.\u001b[39mfirst()\u001b[33m.\u001b[39mcheck()\u001b[33m;\u001b[39m\u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39mlocator(\u001b[32m'.budget-planner summary'\u001b[39m)\u001b[33m.\u001b[39mclick()\u001b[33m;\u001b[39m\u001b[36mfor\u001b[39m(\u001b[36mconst\u001b[39m[id\u001b[33m,\u001b[39mvalue]\u001b[36mof\u001b[39m [[\u001b[32m'web-initial'\u001b[39m\u001b[33m,\u001b[39m\u001b[32m'1000'\u001b[39m]\u001b[33m,\u001b[39m[\u001b[32m'web-monthly'\u001b[39m\u001b[33m,\u001b[39m\u001b[32m'100'\u001b[39m]\u001b[33m,\u001b[39m[\u001b[32m'systems-initial'\u001b[39m\u001b[33m,\u001b[39m\u001b[32m'2000'\u001b[39m]\u001b[33m,\u001b[39m[\u001b[32m'systems-monthly'\u001b[39m\u001b[33m,\u001b[39m\u001b[32m'50'\u001b[39m]])\u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39mlocator(\u001b[32m'#budget-'\u001b[39m\u001b[33m+\u001b[39mid)\u001b[33m.\u001b[39mfill(value)\u001b[33m;\u001b[39m\u001b[36mawait\u001b[39m expect(page\u001b[33m.\u001b[39mgetByTestId(\u001b[32m'budget-initial-total'\u001b[39m))\u001b[33m.\u001b[39mtoContainText(\u001b[32m'3.000,00'\u001b[39m)\u001b[33m;\u001b[39m\u001b[36mawait\u001b[39m expect(page\u001b[33m.\u001b[39mgetByTestId(\u001b[32m'budget-monthly-total'\u001b[39m))\u001b[33m.\u001b[39mtoContainText(\u001b[32m'150,00'\u001b[39m)\u001b[33m;\u001b[39m\u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39mlocator(\u001b[32m'#project-deadline'\u001b[39m)\u001b[33m.\u001b[39mselectOption(\u001b[32m'deadline2'\u001b[39m)\u001b[33m;\u001b[39m\u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39mlocator(\u001b[32m'.voluntary-contact summary'\u001b[39m)\u001b[33m.\u001b[39mclick()\u001b[33m;\u001b[39m\u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39mlocator(\u001b[32m'#quote-name'\u001b[39m)\u001b[33m.\u001b[39mfill(\u001b[32m'Nome reservado teste'\u001b[39m)\u001b[33m;\u001b[39m\u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39mlocator(\u001b[32m'#quote-contact'\u001b[39m)\u001b[33m.\u001b[39mfill(\u001b[32m'incompleto'\u001b[39m)\u001b[33m;\u001b[39m\u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39mgetByRole(\u001b[32m'button'\u001b[39m\u001b[33m,\u001b[39m{name\u001b[33m:\u001b[39m\u001b[32m'Gerar resumo do projeto'\u001b[39m})\u001b[33m.\u001b[39mclick()\u001b[33m;\u001b[39m\u001b[36mawait\u001b[39m expect(page\u001b[33m.\u001b[39mlocator(\u001b[32m'#quote-errors'\u001b[39m))\u001b[33m.\u001b[39mtoContainText(\u001b[32m'e-mail ou telefone válido'\u001b[39m)\u001b[33m;\u001b[39m\u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39mlocator(\u001b[32m'#quote-contact'\u001b[39m)\u001b[33m.\u001b[39mfill(\u001b[32m'teste@site.test'\u001b[39m)\u001b[33m;\u001b[39m\u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39mgetByRole(\u001b[32m'button'\u001b[39m\u001b[33m,\u001b[39m{name\u001b[33m:\u001b[39m\u001b[32m'Gerar resumo do projeto'\u001b[39m})\u001b[33m.\u001b[39mclick()\u001b[33m;\u001b[39m\u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39mgetByRole(\u001b[32m'button'\u001b[39m\u001b[33m,\u001b[39m{name\u001b[33m:\u001b[39m\u001b[32m'Copiar resumo'\u001b[39m\u001b[33m,\u001b[39mexact\u001b[33m:\u001b[39m\u001b[36mtrue\u001b[39m})\u001b[33m.\u001b[39mclick()\u001b[33m;\u001b[39m\u001b[36mawait\u001b[39m expect(page\u001b[33m.\u001b[39mlocator(\u001b[32m'.generated-brief [role=\"status\"]'\u001b[39m))\u001b[33m.\u001b[39mtoHaveText(\u001b[32m'Resumo copiado.'\u001b[39m)\u001b[33m;\u001b[39mexpect(\u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39mevaluate(()\u001b[33m=>\u001b[39mnavigator\u001b[33m.\u001b[39mclipboard\u001b[33m.\u001b[39mreadText()))\u001b[33m.\u001b[39mtoContain(\u001b[32m'3.000,00'\u001b[39m)\u001b[33m;\u001b[39m\u001b[36mconst\u001b[39m pending\u001b[33m=\u001b[39mpage\u001b[33m.\u001b[39mwaitForEvent(\u001b[32m'download'\u001b[39m)\u001b[33m;\u001b[39m\u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39mgetByRole(\u001b[32m'button'\u001b[39m\u001b[33m,\u001b[39m{name\u001b[33m:\u001b[39m\u001b[32m'Baixar resumo (.txt)'\u001b[39m\u001b[33m,\u001b[39mexact\u001b[33m:\u001b[39m\u001b[36mtrue\u001b[39m})\u001b[33m.\u001b[39mclick()\u001b[33m;\u001b[39m\u001b[36mconst\u001b[39m download\u001b[33m=\u001b[39m\u001b[36mawait\u001b[39m pending\u001b[33m;\u001b[39mexpect(download\u001b[33m.\u001b[39msuggestedFilename())\u001b[33m.\u001b[39mtoBe(\u001b[32m'loop-avante-briefing-pt.txt'\u001b[39m)\u001b[33m;\u001b[39mexpect(\u001b[36mawait\u001b[39m readFile(\u001b[36mawait\u001b[39m download\u001b[33m.\u001b[39mpath()\u001b[33m,\u001b[39m\u001b[32m'utf8'\u001b[39m))\u001b[33m.\u001b[39mtoContain(\u001b[32m'1 a 3 meses'\u001b[39m)\u001b[33m;\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 41 |\u001b[39m   \u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39mgetByRole(\u001b[32m'button'\u001b[39m\u001b[33m,\u001b[39m{name\u001b[33m:\u001b[39m\u001b[32m'Español'\u001b[39m\u001b[33m,\u001b[39mexact\u001b[33m:\u001b[39m\u001b[36mtrue\u001b[39m})\u001b[33m.\u001b[39mclick()\u001b[33m;\u001b[39m\u001b[36mawait\u001b[39m expect(page\u001b[33m.\u001b[39mlocator(\u001b[32m'#quote-name'\u001b[39m))\u001b[33m.\u001b[39mtoHaveValue(\u001b[32m'Nome reservado teste'\u001b[39m)\u001b[33m;\u001b[39m\u001b[36mawait\u001b[39m expect(page\u001b[33m.\u001b[39mlocator(\u001b[32m'#quote-contact'\u001b[39m))\u001b[33m.\u001b[39mtoHaveValue(\u001b[32m'teste@site.test'\u001b[39m)\u001b[33m;\u001b[39m\u001b[36mawait\u001b[39m expect(page\u001b[33m.\u001b[39mlocator(\u001b[32m'#project-description'\u001b[39m))\u001b[33m.\u001b[39mtoHaveValue(\u001b[35m/Texto livre/\u001b[39m)\u001b[33m;\u001b[39m\u001b[36mawait\u001b[39m expect(page\u001b[33m.\u001b[39mlocator(\u001b[32m'.generated-brief pre'\u001b[39m))\u001b[33m.\u001b[39mtoContainText(\u001b[32m'Sitios web y landing pages'\u001b[39m)\u001b[33m;\u001b[39m\u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39mgoBack()\u001b[33m;\u001b[39m\u001b[36mawait\u001b[39m expect(page\u001b[33m.\u001b[39mlocator(\u001b[32m'html'\u001b[39m))\u001b[33m.\u001b[39mtoHaveAttribute(\u001b[32m'lang'\u001b[39m\u001b[33m,\u001b[39m\u001b[32m'pt-BR'\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m    |\u001b[39m                                                                                                                                                                                                                                                                                                                                                                 \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 42 |\u001b[39m   \u001b[36mconst\u001b[39m stored\u001b[33m=\u001b[39m\u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39mevaluate(()\u001b[33m=>\u001b[39m\u001b[33mJSON\u001b[39m\u001b[33m.\u001b[39mstringify({\u001b[33m...\u001b[39mlocalStorage\u001b[33m,\u001b[39m\u001b[33m...\u001b[39msessionStorage}))\u001b[33m;\u001b[39mexpect(stored)\u001b[33m.\u001b[39mnot\u001b[33m.\u001b[39mtoContain(\u001b[32m'Nome reservado'\u001b[39m)\u001b[33m;\u001b[39mexpect(stored)\u001b[33m.\u001b[39mnot\u001b[33m.\u001b[39mtoContain(\u001b[32m'teste@site.test'\u001b[39m)\u001b[33m;\u001b[39mexpect(stored)\u001b[33m.\u001b[39mnot\u001b[33m.\u001b[39mtoContain(\u001b[32m'Texto livre'\u001b[39m)\u001b[33m;\u001b[39mexpect(outgoing)\u001b[33m.\u001b[39mtoEqual([])\u001b[33m;\u001b[39m\u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39mreload()\u001b[33m;\u001b[39m\u001b[36mawait\u001b[39m expect(page\u001b[33m.\u001b[39mlocator(\u001b[32m'.quote-solution input:checked'\u001b[39m))\u001b[33m.\u001b[39mtoHaveCount(\u001b[35m2\u001b[39m)\u001b[33m;\u001b[39m\u001b[36mawait\u001b[39m expect(page\u001b[33m.\u001b[39mgetByTestId(\u001b[32m'budget-initial-total'\u001b[39m))\u001b[33m.\u001b[39mtoContainText(\u001b[32m'3.000,00'\u001b[39m)\u001b[33m;\u001b[39m\u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39mlocator(\u001b[32m'.voluntary-contact summary'\u001b[39m)\u001b[33m.\u001b[39mclick()\u001b[33m;\u001b[39m\u001b[36mawait\u001b[39m expect(page\u001b[33m.\u001b[39mlocator(\u001b[32m'#quote-name'\u001b[39m))\u001b[33m.\u001b[39mtoHaveValue(\u001b[32m''\u001b[39m)\u001b[33m;\u001b[39m\u001b[36mawait\u001b[39m expect(page\u001b[33m.\u001b[39mlocator(\u001b[32m'#project-description'\u001b[39m))\u001b[33m.\u001b[39mtoHaveValue(\u001b[32m''\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m 43 |\u001b[39m })\u001b[33m;\u001b[39m\n \u001b[90m 44 |\u001b[39m"
+                  },
+                  "errors": [
+                    {
+                      "location": {
+                        "file": "D:\\Work\\Curitiba-Proyect\\tests\\e2e.spec.js",
+                        "column": 353,
+                        "line": 41
+                      },
+                      "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mlocator\u001b[39m\u001b[2m).\u001b[22mtoContainText\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m)\u001b[22m failed\n\nLocator: locator('.generated-brief pre')\nExpected substring: \u001b[32m\"Sitios web y landing pages\"\u001b[39m\nTimeout: 7000ms\nError: element(s) not found\n\nCall log:\n\u001b[2m  - Expect \"toContainText\" locator('.generated-brief pre') with timeout 7000ms\u001b[22m\n\u001b[2m  - waiting for locator('.generated-brief pre')\u001b[22m\n\n\n  39 | test('Quote totals, optional contact validation, locale history, real clipboard/download and private fields',async({page,context})=>{\n  40 |   await context.grantPermissions(['clipboard-read','clipboard-write']);const outgoing=[];page.on('request',request=>{if(['POST','PUT','PATCH'].includes(request.method()))outgoing.push(request.url());});await page.goto('/orcamento/');await page.getByRole('button',{name:'Gerar resumo do projeto'}).click();await expect(page.locator('#quote-errors')).toContainText('Selecione ao menos');await page.locator('.quote-solution').nth(0).click();await page.locator('.quote-solution').nth(1).click();await page.locator('#project-description').fill('Texto livre de teste sobre um projeto institucional acessível.');await page.locator('.feature-checkboxes input').first().check();await page.locator('.budget-planner summary').click();for(const[id,value]of [['web-initial','1000'],['web-monthly','100'],['systems-initial','2000'],['systems-monthly','50']])await page.locator('#budget-'+id).fill(value);await expect(page.getByTestId('budget-initial-total')).toContainText('3.000,00');await expect(page.getByTestId('budget-monthly-total')).toContainText('150,00');await page.locator('#project-deadline').selectOption('deadline2');await page.locator('.voluntary-contact summary').click();await page.locator('#quote-name').fill('Nome reservado teste');await page.locator('#quote-contact').fill('incompleto');await page.getByRole('button',{name:'Gerar resumo do projeto'}).click();await expect(page.locator('#quote-errors')).toContainText('e-mail ou telefone válido');await page.locator('#quote-contact').fill('teste@site.test');await page.getByRole('button',{name:'Gerar resumo do projeto'}).click();await page.getByRole('button',{name:'Copiar resumo',exact:true}).click();await expect(page.locator('.generated-brief [role=\"status\"]')).toHaveText('Resumo copiado.');expect(await page.evaluate(()=>navigator.clipboard.readText())).toContain('3.000,00');const pending=page.waitForEvent('download');await page.getByRole('button',{name:'Baixar resumo (.txt)',exact:true}).click();const download=await pending;expect(download.suggestedFilename()).toBe('loop-avante-briefing-pt.txt');expect(await readFile(await download.path(),'utf8')).toContain('1 a 3 meses');\n> 41 |   await page.getByRole('button',{name:'Español',exact:true}).click();await expect(page.locator('#quote-name')).toHaveValue('Nome reservado teste');await expect(page.locator('#quote-contact')).toHaveValue('teste@site.test');await expect(page.locator('#project-description')).toHaveValue(/Texto livre/);await expect(page.locator('.generated-brief pre')).toContainText('Sitios web y landing pages');await page.goBack();await expect(page.locator('html')).toHaveAttribute('lang','pt-BR');\n     |                                                                                                                                                                                                                                                                                                                                                                 ^\n  42 |   const stored=await page.evaluate(()=>JSON.stringify({...localStorage,...sessionStorage}));expect(stored).not.toContain('Nome reservado');expect(stored).not.toContain('teste@site.test');expect(stored).not.toContain('Texto livre');expect(outgoing).toEqual([]);await page.reload();await expect(page.locator('.quote-solution input:checked')).toHaveCount(2);await expect(page.getByTestId('budget-initial-total')).toContainText('3.000,00');await page.locator('.voluntary-contact summary').click();await expect(page.locator('#quote-name')).toHaveValue('');await expect(page.locator('#project-description')).toHaveValue('');\n  43 | });\n  44 |\n    at D:\\Work\\Curitiba-Proyect\\tests\\e2e.spec.js:41:353"
+                    }
+                  ],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-11-14T14:27:43.685Z",
+                  "annotations": [],
+                  "attachments": [
+                    {
+                      "name": "screenshot",
+                      "contentType": "image/png",
+                      "path": "D:\\Work\\Curitiba-Proyect\\test-results\\e2e-Quote-totals-optional--fcddd-download-and-private-fields\\test-failed-2.png"
+                    },
+                    {
+                      "name": "screenshot",
+                      "contentType": "image/png",
+                      "path": "D:\\Work\\Curitiba-Proyect\\test-results\\e2e-Quote-totals-optional--fcddd-download-and-private-fields\\test-failed-1.png"
+                    },
+                    {
+                      "name": "error-context",
+                      "contentType": "text/markdown",
+                      "path": "D:\\Work\\Curitiba-Proyect\\test-results\\e2e-Quote-totals-optional--fcddd-download-and-private-fields\\error-context.md"
+                    },
+                    {
+                      "name": "trace",
+                      "contentType": "application/zip",
+                      "path": "D:\\Work\\Curitiba-Proyect\\test-results\\e2e-Quote-totals-optional--fcddd-download-and-private-fields\\trace.zip"
+                    }
+                  ],
+                  "errorLocation": {
+                    "file": "D:\\Work\\Curitiba-Proyect\\tests\\e2e.spec.js",
+                    "column": 353,
+                    "line": 41
+                  }
+                }
+              ],
+              "status": "unexpected"
+            }
+          ],
+          "id": "616cc0f313d283bb66d2-5c0300561752df72b8e1",
+          "file": "e2e.spec.js",
+          "line": 39,
+          "column": 1
+        },
+        {
+          "title": "App CTA transfers access request without inventing a store link or download",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 45000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [],
+              "status": "skipped"
+            }
+          ],
+          "id": "616cc0f313d283bb66d2-fead8effb8219c932de6",
+          "file": "e2e.spec.js",
+          "line": 45,
+          "column": 1
+        },
+        {
+          "title": "Mobile menu, Escape, page navigation and cross-page anchors work with history",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 45000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [],
+              "status": "skipped"
+            }
+          ],
+          "id": "616cc0f313d283bb66d2-4ea846505d423c810415",
+          "file": "e2e.spec.js",
+          "line": 49,
+          "column": 1
+        },
+        {
+          "title": "Corrupted anonymous session data is rejected without crashing forms or recommendations",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 45000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [],
+              "status": "skipped"
+            }
+          ],
+          "id": "616cc0f313d283bb66d2-4f59b2292e96f94e3723",
+          "file": "e2e.spec.js",
+          "line": 53,
+          "column": 1
+        },
+        {
+          "title": "Unknown pages return HTTP 404 with localized UI; trailing slash redirects preserve the route",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 45000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [],
+              "status": "skipped"
+            }
+          ],
+          "id": "616cc0f313d283bb66d2-4f32c5d130481dd26011",
+          "file": "e2e.spec.js",
+          "line": 57,
+          "column": 1
+        },
+        {
+          "title": "Visual 390px: all five pages, PT dark and ES light, no overflow or missing images",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 45000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [],
+              "status": "skipped"
+            }
+          ],
+          "id": "616cc0f313d283bb66d2-d4f0721c9a349b688a2a",
+          "file": "e2e.spec.js",
+          "line": 62,
+          "column": 35
+        },
+        {
+          "title": "Visual 768px: all five pages, PT dark and ES light, no overflow or missing images",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 45000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [],
+              "status": "skipped"
+            }
+          ],
+          "id": "616cc0f313d283bb66d2-1a460c5ae3ed4df2f744",
+          "file": "e2e.spec.js",
+          "line": 62,
+          "column": 35
+        },
+        {
+          "title": "Visual 1440px: all five pages, PT dark and ES light, no overflow or missing images",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 45000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [],
+              "status": "skipped"
+            }
+          ],
+          "id": "616cc0f313d283bb66d2-08020a76645a712fa07b",
+          "file": "e2e.spec.js",
+          "line": 62,
+          "column": 35
+        },
+        {
+          "title": "Accessibility home: PT dark/light desktop and ES dark/light mobile",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 45000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [],
+              "status": "skipped"
+            }
+          ],
+          "id": "616cc0f313d283bb66d2-8805a2dfa651b7bab5b1",
+          "file": "e2e.spec.js",
+          "line": 68,
+          "column": 31
+        },
+        {
+          "title": "Accessibility projects: PT dark/light desktop and ES dark/light mobile",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 45000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [],
+              "status": "skipped"
+            }
+          ],
+          "id": "616cc0f313d283bb66d2-bd846b82cf14e5ca56f8",
+          "file": "e2e.spec.js",
+          "line": 68,
+          "column": 31
+        },
+        {
+          "title": "Accessibility diagnostic: PT dark/light desktop and ES dark/light mobile",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 45000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [],
+              "status": "skipped"
+            }
+          ],
+          "id": "616cc0f313d283bb66d2-2b73aceef93c67c0ce67",
+          "file": "e2e.spec.js",
+          "line": 68,
+          "column": 31
+        },
+        {
+          "title": "Accessibility simulator: PT dark/light desktop and ES dark/light mobile",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 45000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [],
+              "status": "skipped"
+            }
+          ],
+          "id": "616cc0f313d283bb66d2-def69007e78948ecc748",
+          "file": "e2e.spec.js",
+          "line": 68,
+          "column": 31
+        },
+        {
+          "title": "Accessibility quote: PT dark/light desktop and ES dark/light mobile",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 45000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [],
+              "status": "skipped"
+            }
+          ],
+          "id": "616cc0f313d283bb66d2-116e45b65e9893605cf8",
+          "file": "e2e.spec.js",
+          "line": 68,
+          "column": 31
+        },
+        {
+          "title": "Diagnostic result and generated briefing are accessible and keep declared answers in the tab session only",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 45000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [],
+              "status": "skipped"
+            }
+          ],
+          "id": "616cc0f313d283bb66d2-e95fa254ddde3e0c3eb6",
+          "file": "e2e.spec.js",
+          "line": 72,
+          "column": 1
+        }
+      ]
+    }
+  ],
+  "errors": [
+    {
+      "message": "\u001b[31mTesting stopped early after 3 maximum allowed failures.\u001b[39m"
+    }
+  ],
+  "stats": {
+    "startTime": "2026-11-14T14:26:53.319Z",
+    "duration": 61790.779,
+    "expected": 12,
+    "skipped": 13,
+    "unexpected": 3,
+    "flaky": 0
+  }
+}

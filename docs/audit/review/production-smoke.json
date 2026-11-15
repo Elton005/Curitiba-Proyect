@@ -1,0 +1,216 @@
+{
+  "date": "2026-11-14",
+  "environment": "Local Microsoft Edge headless, without network/CPU throttling. Lab samples, not field Core Web Vitals; no field INP measurement.",
+  "pages": [
+    {
+      "path": "/",
+      "status": 200,
+      "errors": [],
+      "title": "Loop Avante — Sites, sistemas e aplicativos para negócios",
+      "lang": "pt-BR",
+      "theme": "dark",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "h1Count": 1,
+      "fcp": 756,
+      "lcp": 756,
+      "cls": 0,
+      "loadedScripts": [
+        "/assets/main-Bx3ewwqd.js"
+      ]
+    },
+    {
+      "path": "/es/",
+      "status": 200,
+      "errors": [],
+      "title": "Loop Avante — Sitios, sistemas y aplicaciones para negocios",
+      "lang": "es",
+      "theme": "dark",
+      "width": 390,
+      "scrollWidth": 390,
+      "h1Count": 1,
+      "fcp": 272,
+      "lcp": 272,
+      "cls": 0,
+      "loadedScripts": [
+        "/assets/main-Bx3ewwqd.js"
+      ]
+    },
+    {
+      "path": "/projetos/",
+      "status": 200,
+      "errors": [],
+      "title": "Projetos — La Huella Escrita e Yoel Dis Castillo | Loop Avante",
+      "lang": "pt-BR",
+      "theme": "dark",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "h1Count": 1,
+      "fcp": 176,
+      "lcp": 192,
+      "cls": 0,
+      "loadedScripts": [
+        "/assets/main-Bx3ewwqd.js"
+      ]
+    },
+    {
+      "path": "/es/projetos/",
+      "status": 200,
+      "errors": [],
+      "title": "Proyectos — La Huella Escrita y Yoel Dis Castillo | Loop Avante",
+      "lang": "es",
+      "theme": "dark",
+      "width": 390,
+      "scrollWidth": 390,
+      "h1Count": 1,
+      "fcp": 148,
+      "lcp": 164,
+      "cls": 0,
+      "loadedScripts": [
+        "/assets/main-Bx3ewwqd.js"
+      ]
+    },
+    {
+      "path": "/diagnostico/",
+      "status": 200,
+      "errors": [],
+      "title": "Loop Diagnóstico Digital — Entenda suas prioridades",
+      "lang": "pt-BR",
+      "theme": "dark",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "h1Count": 1,
+      "fcp": 188,
+      "lcp": 188,
+      "cls": 0,
+      "loadedScripts": [
+        "/assets/main-Bx3ewwqd.js",
+        "/assets/DigitalDiagnostic-BBUYJ0pI.js"
+      ]
+    },
+    {
+      "path": "/es/diagnostico/",
+      "status": 200,
+      "errors": [],
+      "title": "Loop Diagnóstico Digital — Entiende tus prioridades",
+      "lang": "es",
+      "theme": "dark",
+      "width": 390,
+      "scrollWidth": 390,
+      "h1Count": 1,
+      "fcp": 140,
+      "lcp": 140,
+      "cls": 0,
+      "loadedScripts": [
+        "/assets/main-Bx3ewwqd.js",
+        "/assets/DigitalDiagnostic-BBUYJ0pI.js"
+      ]
+    },
+    {
+      "path": "/simulador/",
+      "status": 200,
+      "errors": [],
+      "title": "Simulador de Potencial Digital | Loop Avante",
+      "lang": "pt-BR",
+      "theme": "dark",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "h1Count": 1,
+      "fcp": 188,
+      "lcp": 188,
+      "cls": 0,
+      "loadedScripts": [
+        "/assets/main-Bx3ewwqd.js",
+        "/assets/PotentialSimulator-BOS5tMLT.js"
+      ]
+    },
+    {
+      "path": "/es/simulador/",
+      "status": 200,
+      "errors": [],
+      "title": "Simulador de Potencial Digital | Loop Avante",
+      "lang": "es",
+      "theme": "dark",
+      "width": 390,
+      "scrollWidth": 390,
+      "h1Count": 1,
+      "fcp": 188,
+      "lcp": 188,
+      "cls": 0,
+      "loadedScripts": [
+        "/assets/main-Bx3ewwqd.js",
+        "/assets/PotentialSimulator-BOS5tMLT.js"
+      ]
+    },
+    {
+      "path": "/orcamento/",
+      "status": 200,
+      "errors": [],
+      "title": "Orçamento e briefing do seu projeto | Loop Avante",
+      "lang": "pt-BR",
+      "theme": "dark",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "h1Count": 1,
+      "fcp": 284,
+      "lcp": 284,
+      "cls": 0,
+      "loadedScripts": [
+        "/assets/main-Bx3ewwqd.js",
+        "/assets/QuoteBuilder-zFmcYduG.js"
+      ]
+    },
+    {
+      "path": "/es/orcamento/",
+      "status": 200,
+      "errors": [],
+      "title": "Presupuesto y briefing de tu proyecto | Loop Avante",
+      "lang": "es",
+      "theme": "dark",
+      "width": 390,
+      "scrollWidth": 390,
+      "h1Count": 1,
+      "fcp": 148,
+      "lcp": 148,
+      "cls": 0,
+      "loadedScripts": [
+        "/assets/main-Bx3ewwqd.js",
+        "/assets/QuoteBuilder-zFmcYduG.js"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "path": "/robots.txt",
+      "status": 200
+    },
+    {
+      "path": "/favicon.svg",
+      "status": 200
+    },
+    {
+      "path": "/media/og-loop-pt.png",
+      "status": 200
+    },
+    {
+      "path": "/media/og-loop-es.png",
+      "status": 200
+    },
+    {
+      "path": "/fonts/plus-jakarta-sans-latin.woff2",
+      "status": 200
+    },
+    {
+      "path": "/promo/",
+      "status": 200
+    },
+    {
+      "path": "/caminho-inexistente",
+      "status": 404
+    },
+    {
+      "path": "/es/ruta-inexistente",
+      "status": 404
+    }
+  ]
+}

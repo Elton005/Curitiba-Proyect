@@ -1,0 +1,122 @@
+[
+  {
+    "project": "huella",
+    "id": "books",
+    "sourceUrl": "https://www.lahuellaescrita.com/biblioteca.html",
+    "status": 200,
+    "capturedAt": "2026-11-15T04:57:01.839Z",
+    "title": "Biblioteca | La Huella Escrita - Libros de Junior Osmany Coronel",
+    "headings": [
+      "Biblioteca",
+      "Cuentos para Crecer Despacito",
+      "¿Por qué soy así?",
+      "Rigor académico, visión humana.",
+      "Accede a contenido exclusivo",
+      "Tu Perfil"
+    ],
+    "images": [
+      {
+        "alt": "La Huella Escrita",
+        "loaded": true
+      },
+      {
+        "alt": "Biblioteca de Junior Osmany Coronel Durán",
+        "loaded": true
+      },
+      {
+        "alt": "Cuentos para Crecer Despacito",
+        "loaded": true
+      }
+    ]
+  },
+  {
+    "project": "huella",
+    "id": "resources",
+    "sourceUrl": "https://www.lahuellaescrita.com/recursos.html",
+    "status": 200,
+    "capturedAt": "2026-11-15T04:57:04.857Z",
+    "title": "Recursos para Escritores | La Huella Escrita",
+    "headings": [
+      "Recursos para escritores",
+      "5 Tips para vencer el bloqueo del escritor",
+      "5 Tips para vencer el bloqueo del escritor",
+      "Herramientas digitales esenciales",
+      "Herramientas digitales esenciales",
+      "Técnica Pomodoro para escritores",
+      "Técnica Pomodoro para escritores",
+      "Accede a contenido exclusivo"
+    ],
+    "images": [
+      {
+        "alt": "La Huella Escrita",
+        "loaded": true
+      },
+      {
+        "alt": "Recursos para escritores",
+        "loaded": true
+      },
+      {
+        "alt": "5 Tips para vencer el bloqueo del escritor",
+        "loaded": true
+      },
+      {
+        "alt": "Herramientas digitales esenciales",
+        "loaded": true
+      },
+      {
+        "alt": "Técnica Pomodoro para escritores",
+        "loaded": true
+      },
+      {
+        "alt": "Recurso ampliado",
+        "loaded": false
+      }
+    ]
+  },
+  {
+    "project": "yoeldis",
+    "id": "books",
+    "sourceUrl": "https://www.yoeldiscastillo.com/libros.html",
+    "status": 200,
+    "capturedAt": "2026-11-15T04:57:10.659Z",
+    "title": "Mis Libros | Yoeldis Castillo Quiala - Desarrollo Personal y Psicología",
+    "headings": [
+      "Tu Viaje Comienza Aquí",
+      "¿Por qué soy así?",
+      "PRÓLOGO / EXTRACTO",
+      "El Lenguaje Extraverbal",
+      "Junior Osmany Coronel Durán",
+      "Bienvenido de vuelta",
+      "Crea tu cuenta",
+      "ELTON OLIVARES"
+    ],
+    "images": [
+      {
+        "alt": "¿Por qué soy así?",
+        "loaded": true
+      }
+    ]
+  },
+  {
+    "project": "yoeldis",
+    "id": "articles",
+    "sourceUrl": "https://www.yoeldiscastillo.com/articulos.html",
+    "status": 200,
+    "capturedAt": "2026-11-15T04:57:13.525Z",
+    "title": "Artículos y Recursos | Yoeldis Castillo Quiala",
+    "headings": [
+      "Reflexiones y Recursos",
+      "Las 8 Dimensiones del Ser Humano",
+      "El Autoconocimiento: El Primer Paso hacia la Transformación",
+      "Bienvenido de vuelta",
+      "Crea tu cuenta",
+      "ELTON OLIVARES"
+    ],
+    "images": [
+      {
+        "alt": "El Autoconocimiento: El Primer Paso hacia la Transformación",
+        "loaded": true
+      }
+    ]
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "verifiedAt": "2026-11-14",
+  "results": [
+    {
+      "url": "https://www.lahuellaescrita.com/",
+      "status": 200,
+      "finalUrl": "https://www.lahuellaescrita.com/",
+      "ok": true
+    },
+    {
+      "url": "https://www.yoeldiscastillo.com/",
+      "status": 200,
+      "finalUrl": "https://www.yoeldiscastillo.com/",
+      "ok": true
+    },
+    {
+      "url": "https://cetic.br/pt/tics/pesquisa/2025/empresas/B13A/expandido/",
+      "status": 200,
+      "finalUrl": "https://cetic.br/pt/tics/pesquisa/2025/empresas/B13A/expandido/",
+      "ok": true
+    },
+    {
+      "url": "https://cetic.br/pt/tics/pesquisa/2025/empresas/B13B/expandido/",
+      "status": 200,
+      "finalUrl": "https://cetic.br/pt/tics/pesquisa/2025/empresas/B13B/expandido/",
+      "ok": true
+    },
+    {
+      "url": "https://cetic.br/pt/tics/pesquisa/2025/empresas/B6/expandido/",
+      "status": 200,
+      "finalUrl": "https://cetic.br/pt/tics/pesquisa/2025/empresas/B6/expandido/",
+      "ok": true
+    },
+    {
+      "url": "https://cetic.br/pt/tics/pesquisa/2025/empresas/G3/expandido/",
+      "status": 200,
+      "finalUrl": "https://cetic.br/pt/tics/pesquisa/2025/empresas/G3/expandido/",
+      "ok": true
+    },
+    {
+      "url": "https://cetic.br/media/analises/TIC-Empresas-2025-lancamento.pdf",
+      "status": 200,
+      "finalUrl": "https://cetic.br/media/analises/TIC-Empresas-2025-lancamento.pdf",
+      "ok": true
+    }
+  ]
+}

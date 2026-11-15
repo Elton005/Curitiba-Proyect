@@ -1,0 +1,75 @@
+{
+  "apk": "D:\\Work\\Curitiba-Proyect\\mobile\\dist\\apk\\loop-avante-2.0.0-portfolio-premium-release-arm-universal.apk",
+  "images": [
+    {
+      "source": "huella-books-192.webp",
+      "apkEntry": "res/uT.webp",
+      "bytes": 3432
+    },
+    {
+      "source": "huella-books-720.webp",
+      "apkEntry": "res/iC.webp",
+      "bytes": 42134
+    },
+    {
+      "source": "huella-hero-192.webp",
+      "apkEntry": "res/EJ.webp",
+      "bytes": 2588
+    },
+    {
+      "source": "huella-hero-720.webp",
+      "apkEntry": "res/BN.webp",
+      "bytes": 22918
+    },
+    {
+      "source": "huella-resources-192.webp",
+      "apkEntry": "res/T-.webp",
+      "bytes": 2716
+    },
+    {
+      "source": "huella-resources-720.webp",
+      "apkEntry": "res/q7.webp",
+      "bytes": 28216
+    },
+    {
+      "source": "yoeldis-articles-192.webp",
+      "apkEntry": "res/fo.webp",
+      "bytes": 2330
+    },
+    {
+      "source": "yoeldis-articles-720.webp",
+      "apkEntry": "res/gE.webp",
+      "bytes": 21936
+    },
+    {
+      "source": "yoeldis-books-192.webp",
+      "apkEntry": "res/zg.webp",
+      "bytes": 1886
+    },
+    {
+      "source": "yoeldis-books-720.webp",
+      "apkEntry": "res/Jn.webp",
+      "bytes": 21986
+    },
+    {
+      "source": "yoeldis-hero-192.webp",
+      "apkEntry": "res/0j.webp",
+      "bytes": 3752
+    },
+    {
+      "source": "yoeldis-hero-720.webp",
+      "apkEntry": "res/Xx.webp",
+      "bytes": 29618
+    }
+  ],
+  "imageBytes": 183512,
+  "obsoleteImages": [],
+  "bundleBytes": 2621824,
+  "bundleContent": {
+    "Yoeldis Castillo": true,
+    "ProjectGallery": true,
+    "UpcomingProduct": true,
+    "Cuentos Mágicos": true,
+    "cuentos-magicos": true
+  }
+}

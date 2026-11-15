@@ -1,0 +1,10 @@
+{
+  "command": "npm run test:e2e",
+  "startTime": "2026-11-14T17:52:00.981Z",
+  "duration": 427139.405,
+  "expected": 65,
+  "skipped": 0,
+  "unexpected": 0,
+  "flaky": 0,
+  "errors": []
+}

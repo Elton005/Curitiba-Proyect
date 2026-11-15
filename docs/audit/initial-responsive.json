@@ -1,0 +1,215 @@
+[
+  {
+    "width": 360,
+    "status": 200,
+    "errors": [],
+    "scroll": 360,
+    "viewport": 360,
+    "overflow": [
+      {
+        "tag": "DIV",
+        "className": "orbit orbit-one",
+        "left": -31,
+        "right": 405
+      },
+      {
+        "tag": "DIV",
+        "className": "orbit orbit-two",
+        "left": -19,
+        "right": 377
+      },
+      {
+        "tag": "svg",
+        "className": "",
+        "left": 192,
+        "right": 568
+      },
+      {
+        "tag": "path",
+        "className": "",
+        "left": 209,
+        "right": 551
+      }
+    ],
+    "missing": []
+  },
+  {
+    "width": 390,
+    "status": 200,
+    "errors": [],
+    "scroll": 390,
+    "viewport": 390,
+    "overflow": [
+      {
+        "tag": "DIV",
+        "className": "orbit orbit-one",
+        "left": -29,
+        "right": 433
+      },
+      {
+        "tag": "DIV",
+        "className": "orbit orbit-two",
+        "left": -18,
+        "right": 406
+      },
+      {
+        "tag": "svg",
+        "className": "",
+        "left": 190,
+        "right": 600
+      },
+      {
+        "tag": "path",
+        "className": "",
+        "left": 209,
+        "right": 581
+      }
+    ],
+    "missing": []
+  },
+  {
+    "width": 430,
+    "status": 200,
+    "errors": [],
+    "scroll": 430,
+    "viewport": 430,
+    "overflow": [
+      {
+        "tag": "DIV",
+        "className": "orbit orbit-one",
+        "left": -13,
+        "right": 466
+      },
+      {
+        "tag": "DIV",
+        "className": "orbit orbit-two",
+        "left": -21,
+        "right": 449
+      },
+      {
+        "tag": "DIV",
+        "className": "solution-web-art",
+        "left": 297,
+        "right": 431
+      },
+      {
+        "tag": "svg",
+        "className": "",
+        "left": 224,
+        "right": 636
+      },
+      {
+        "tag": "path",
+        "className": "",
+        "left": 243,
+        "right": 617
+      }
+    ],
+    "missing": []
+  },
+  {
+    "width": 768,
+    "status": 200,
+    "errors": [],
+    "scroll": 768,
+    "viewport": 768,
+    "overflow": [
+      {
+        "tag": "DIV",
+        "className": "orbit orbit-one",
+        "left": 351,
+        "right": 808
+      },
+      {
+        "tag": "DIV",
+        "className": "orbit orbit-two",
+        "left": 352,
+        "right": 784
+      },
+      {
+        "tag": "svg",
+        "className": "",
+        "left": 321,
+        "right": 881
+      },
+      {
+        "tag": "path",
+        "className": "",
+        "left": 346,
+        "right": 856
+      }
+    ],
+    "missing": []
+  },
+  {
+    "width": 1024,
+    "status": 200,
+    "errors": [],
+    "scroll": 1024,
+    "viewport": 1024,
+    "overflow": [
+      {
+        "tag": "DIV",
+        "className": "orbit orbit-one",
+        "left": 500,
+        "right": 1080
+      },
+      {
+        "tag": "DIV",
+        "className": "orbit orbit-two",
+        "left": 495,
+        "right": 1056
+      },
+      {
+        "tag": "svg",
+        "className": "",
+        "left": 577,
+        "right": 1137
+      },
+      {
+        "tag": "path",
+        "className": "",
+        "left": 602,
+        "right": 1112
+      }
+    ],
+    "missing": []
+  },
+  {
+    "width": 1440,
+    "status": 200,
+    "errors": [],
+    "scroll": 1440,
+    "viewport": 1440,
+    "overflow": [
+      {
+        "tag": "DIV",
+        "className": "orbit orbit-one",
+        "left": 722,
+        "right": 1451
+      },
+      {
+        "tag": "svg",
+        "className": "",
+        "left": 945,
+        "right": 1505
+      },
+      {
+        "tag": "path",
+        "className": "",
+        "left": 970,
+        "right": 1480
+      }
+    ],
+    "missing": []
+  },
+  {
+    "width": 1920,
+    "status": 200,
+    "errors": [],
+    "scroll": 1920,
+    "viewport": 1920,
+    "overflow": [],
+    "missing": []
+  }
+]

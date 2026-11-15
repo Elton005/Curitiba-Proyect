@@ -1,0 +1,75 @@
+@font-face {
+  font-family: "Plus Jakarta Sans";
+  font-style: normal;
+  font-weight: 400 800;
+  font-display: swap;
+  src: url("/fonts/plus-jakarta-sans-latin.woff2") format("woff2");
+}
+:root {
+  color-scheme: light;
+  --night: #11172d;
+  --green-main: #078e69;
+  --green-accent: #13a97c;
+  --cream: #fffaf1;
+  --bg: #fffaf1;
+  --surface: #ffffff;
+  --surface-soft: #f1f3ec;
+  --surface-green: #e7f1e9;
+  --text: #11172d;
+  --muted: #596575;
+  --accent: #087353;
+  --accent-hover: #066349;
+  --on-accent: #fff;
+  --border: #dce1d8;
+  --border-strong: #b6c3b9;
+  --danger: #ac3030;
+  --focus: #087d5d;
+  --font:
+    "Plus Jakarta Sans", system-ui, -apple-system, BlinkMacSystemFont,
+    "Segoe UI", sans-serif;
+  --text-xs: 0.75rem;
+  --text-sm: 0.875rem;
+  --text-base: 1rem;
+  --text-lg: 1.125rem;
+  --radius-sm: 6px;
+  --radius: 12px;
+  --radius-lg: 20px;
+  --radius-xl: 28px;
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 24px;
+  --space-6: 32px;
+  --space-7: 48px;
+  --space-8: 64px;
+  --space-9: 96px;
+  --shadow-soft: 0 12px 40px #11172d08;
+  --shadow-device: 0 28px 55px #11172d22;
+  --content: 1280px;
+  --header-height: 84px;
+  --section-space: 112px;
+  --transition: 180ms ease;
+  /* Media query thresholds: compact 430px, mobile 767px, tablet 1023px, nav 1180px. CSS custom properties cannot be used in media conditions. */
+  --breakpoint-compact: 430px;
+  --breakpoint-mobile: 767px;
+  --breakpoint-tablet: 1023px;
+  --breakpoint-nav: 1180px;
+}
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --bg: #101629;
+  --surface: #182036;
+  --surface-soft: #1b2638;
+  --surface-green: #16382f;
+  --text: #f8f5ed;
+  --muted: #b6c0cf;
+  --accent: #78d8b1;
+  --accent-hover: #9ce7c7;
+  --on-accent: #0c2b22;
+  --border: #334054;
+  --border-strong: #59687a;
+  --danger: #ffaaa2;
+  --focus: #a0f1cf;
+  --shadow-soft: 0 12px 40px #0002;
+}

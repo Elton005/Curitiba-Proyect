@@ -1,0 +1,752 @@
+{
+  "date": "2026-11-14",
+  "environment": "Local Microsoft Edge headless, without network/CPU throttling. Lab samples, not field Core Web Vitals; no field INP measurement.",
+  "pages": [
+    {
+      "path": "/inteligencia/",
+      "status": 200,
+      "errors": [],
+      "title": "Inteligência Digital | Loop Avante",
+      "lang": "pt-BR",
+      "theme": "dark",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "h1Count": 1,
+      "fcp": 1156,
+      "lcp": 1156,
+      "cls": 0,
+      "loadedScripts": [
+        "/assets/main-Bji8B6DS.js",
+        "/assets/IntelligenceHome-CwxHyXV7.js",
+        "/assets/AnalyticsUI-CEfZjWjU.js",
+        "/assets/market-CKCpMV7u.js"
+      ]
+    },
+    {
+      "path": "/es/inteligencia/",
+      "status": 200,
+      "errors": [],
+      "title": "Inteligencia Digital | Loop Avante",
+      "lang": "es",
+      "theme": "dark",
+      "width": 390,
+      "scrollWidth": 390,
+      "h1Count": 1,
+      "fcp": 372,
+      "lcp": 372,
+      "cls": 0,
+      "loadedScripts": [
+        "/assets/main-Bji8B6DS.js",
+        "/assets/IntelligenceHome-CwxHyXV7.js",
+        "/assets/AnalyticsUI-CEfZjWjU.js",
+        "/assets/market-CKCpMV7u.js"
+      ]
+    },
+    {
+      "path": "/inteligencia/mercado/",
+      "status": 200,
+      "errors": [],
+      "title": "Explorador de mercado digital | Loop Avante",
+      "lang": "pt-BR",
+      "theme": "dark",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "h1Count": 1,
+      "fcp": 376,
+      "lcp": 376,
+      "cls": 0,
+      "loadedScripts": [
+        "/assets/main-Bji8B6DS.js",
+        "/assets/MarketExplorer-EE0mV6DU.js",
+        "/assets/useAnalytics-ChVVgVxI.js",
+        "/assets/market-CKCpMV7u.js",
+        "/assets/AnalyticsUI-CEfZjWjU.js"
+      ]
+    },
+    {
+      "path": "/es/inteligencia/mercado/",
+      "status": 200,
+      "errors": [],
+      "title": "Explorador de mercado digital | Loop Avante",
+      "lang": "es",
+      "theme": "dark",
+      "width": 390,
+      "scrollWidth": 390,
+      "h1Count": 1,
+      "fcp": 400,
+      "lcp": 400,
+      "cls": 0,
+      "loadedScripts": [
+        "/assets/main-Bji8B6DS.js",
+        "/assets/MarketExplorer-EE0mV6DU.js",
+        "/assets/useAnalytics-ChVVgVxI.js",
+        "/assets/market-CKCpMV7u.js",
+        "/assets/AnalyticsUI-CEfZjWjU.js"
+      ]
+    },
+    {
+      "path": "/inteligencia/produtividade/",
+      "status": 200,
+      "errors": [],
+      "title": "Simulador de produtividade | Loop Avante",
+      "lang": "pt-BR",
+      "theme": "dark",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "h1Count": 1,
+      "fcp": 428,
+      "lcp": 428,
+      "cls": 0,
+      "loadedScripts": [
+        "/assets/main-Bji8B6DS.js",
+        "/assets/ProductivityPage-YHv42D9C.js",
+        "/assets/useAnalytics-ChVVgVxI.js",
+        "/assets/market-CKCpMV7u.js",
+        "/assets/AnalyticsUI-CEfZjWjU.js"
+      ]
+    },
+    {
+      "path": "/es/inteligencia/produtividade/",
+      "status": 200,
+      "errors": [],
+      "title": "Simulador de productividad | Loop Avante",
+      "lang": "es",
+      "theme": "dark",
+      "width": 390,
+      "scrollWidth": 390,
+      "h1Count": 1,
+      "fcp": 348,
+      "lcp": 348,
+      "cls": 0,
+      "loadedScripts": [
+        "/assets/main-Bji8B6DS.js",
+        "/assets/ProductivityPage-YHv42D9C.js",
+        "/assets/useAnalytics-ChVVgVxI.js",
+        "/assets/market-CKCpMV7u.js",
+        "/assets/AnalyticsUI-CEfZjWjU.js"
+      ]
+    },
+    {
+      "path": "/inteligencia/investimento/",
+      "status": 200,
+      "errors": [],
+      "title": "Planejador de investimento digital | Loop Avante",
+      "lang": "pt-BR",
+      "theme": "dark",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "h1Count": 1,
+      "fcp": 368,
+      "lcp": 368,
+      "cls": 0,
+      "loadedScripts": [
+        "/assets/main-Bji8B6DS.js",
+        "/assets/InvestmentPage-Bl8CBIHs.js",
+        "/assets/useAnalytics-ChVVgVxI.js",
+        "/assets/market-CKCpMV7u.js",
+        "/assets/AnalyticsUI-CEfZjWjU.js"
+      ]
+    },
+    {
+      "path": "/es/inteligencia/investimento/",
+      "status": 200,
+      "errors": [],
+      "title": "Planificador de inversión digital | Loop Avante",
+      "lang": "es",
+      "theme": "dark",
+      "width": 390,
+      "scrollWidth": 390,
+      "h1Count": 1,
+      "fcp": 376,
+      "lcp": 376,
+      "cls": 0,
+      "loadedScripts": [
+        "/assets/main-Bji8B6DS.js",
+        "/assets/InvestmentPage-Bl8CBIHs.js",
+        "/assets/useAnalytics-ChVVgVxI.js",
+        "/assets/market-CKCpMV7u.js",
+        "/assets/AnalyticsUI-CEfZjWjU.js"
+      ]
+    },
+    {
+      "path": "/inteligencia/setores/",
+      "status": 200,
+      "errors": [],
+      "title": "Inteligência por setor | Loop Avante",
+      "lang": "pt-BR",
+      "theme": "dark",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "h1Count": 1,
+      "fcp": 324,
+      "lcp": 324,
+      "cls": 0,
+      "loadedScripts": [
+        "/assets/main-Bji8B6DS.js",
+        "/assets/SectorsPage-B9pAHy-q.js",
+        "/assets/useAnalytics-ChVVgVxI.js",
+        "/assets/market-CKCpMV7u.js",
+        "/assets/AnalyticsUI-CEfZjWjU.js"
+      ]
+    },
+    {
+      "path": "/es/inteligencia/setores/",
+      "status": 200,
+      "errors": [],
+      "title": "Inteligencia por sector | Loop Avante",
+      "lang": "es",
+      "theme": "dark",
+      "width": 390,
+      "scrollWidth": 390,
+      "h1Count": 1,
+      "fcp": 336,
+      "lcp": 336,
+      "cls": 0,
+      "loadedScripts": [
+        "/assets/main-Bji8B6DS.js",
+        "/assets/SectorsPage-B9pAHy-q.js",
+        "/assets/useAnalytics-ChVVgVxI.js",
+        "/assets/market-CKCpMV7u.js",
+        "/assets/AnalyticsUI-CEfZjWjU.js"
+      ]
+    },
+    {
+      "path": "/inteligencia/relatorio/",
+      "status": 200,
+      "errors": [],
+      "title": "Relatório de inteligência digital | Loop Avante",
+      "lang": "pt-BR",
+      "theme": "dark",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "h1Count": 1,
+      "fcp": 312,
+      "lcp": 312,
+      "cls": 0,
+      "loadedScripts": [
+        "/assets/main-Bji8B6DS.js",
+        "/assets/ReportPage-D4z71IZr.js",
+        "/assets/useAnalytics-ChVVgVxI.js",
+        "/assets/market-CKCpMV7u.js",
+        "/assets/intelligenceReport-BL5IYEek.js",
+        "/assets/AnalyticsUI-CEfZjWjU.js"
+      ]
+    },
+    {
+      "path": "/es/inteligencia/relatorio/",
+      "status": 200,
+      "errors": [],
+      "title": "Informe de inteligencia digital | Loop Avante",
+      "lang": "es",
+      "theme": "dark",
+      "width": 390,
+      "scrollWidth": 390,
+      "h1Count": 1,
+      "fcp": 360,
+      "lcp": 360,
+      "cls": 0,
+      "loadedScripts": [
+        "/assets/main-Bji8B6DS.js",
+        "/assets/ReportPage-D4z71IZr.js",
+        "/assets/useAnalytics-ChVVgVxI.js",
+        "/assets/market-CKCpMV7u.js",
+        "/assets/intelligenceReport-BL5IYEek.js",
+        "/assets/AnalyticsUI-CEfZjWjU.js"
+      ]
+    },
+    {
+      "path": "/",
+      "status": 200,
+      "errors": [],
+      "title": "Loop Avante — Sites, sistemas e aplicativos para negócios",
+      "lang": "pt-BR",
+      "theme": "dark",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "h1Count": 1,
+      "fcp": 864,
+      "lcp": 864,
+      "cls": 0,
+      "loadedScripts": [
+        "/assets/main-Bji8B6DS.js"
+      ]
+    },
+    {
+      "path": "/es/",
+      "status": 200,
+      "errors": [],
+      "title": "Loop Avante — Sitios, sistemas y aplicaciones para negocios",
+      "lang": "es",
+      "theme": "dark",
+      "width": 390,
+      "scrollWidth": 390,
+      "h1Count": 1,
+      "fcp": 552,
+      "lcp": 552,
+      "cls": 0,
+      "loadedScripts": [
+        "/assets/main-Bji8B6DS.js"
+      ]
+    },
+    {
+      "path": "/projetos/",
+      "status": 200,
+      "errors": [],
+      "title": "Projetos — La Huella Escrita e Yoel Dis Castillo | Loop Avante",
+      "lang": "pt-BR",
+      "theme": "dark",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "h1Count": 1,
+      "fcp": 344,
+      "lcp": 360,
+      "cls": 0,
+      "loadedScripts": [
+        "/assets/main-Bji8B6DS.js"
+      ]
+    },
+    {
+      "path": "/es/projetos/",
+      "status": 200,
+      "errors": [],
+      "title": "Proyectos — La Huella Escrita y Yoel Dis Castillo | Loop Avante",
+      "lang": "es",
+      "theme": "dark",
+      "width": 390,
+      "scrollWidth": 390,
+      "h1Count": 1,
+      "fcp": 264,
+      "lcp": 300,
+      "cls": 0,
+      "loadedScripts": [
+        "/assets/main-Bji8B6DS.js"
+      ]
+    },
+    {
+      "path": "/diagnostico/",
+      "status": 200,
+      "errors": [],
+      "title": "Loop Diagnóstico Digital — Entenda suas prioridades",
+      "lang": "pt-BR",
+      "theme": "dark",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "h1Count": 1,
+      "fcp": 260,
+      "lcp": 260,
+      "cls": 0,
+      "loadedScripts": [
+        "/assets/main-Bji8B6DS.js",
+        "/assets/DigitalDiagnostic-DnjhSmUm.js"
+      ]
+    },
+    {
+      "path": "/es/diagnostico/",
+      "status": 200,
+      "errors": [],
+      "title": "Loop Diagnóstico Digital — Entiende tus prioridades",
+      "lang": "es",
+      "theme": "dark",
+      "width": 390,
+      "scrollWidth": 390,
+      "h1Count": 1,
+      "fcp": 672,
+      "lcp": 672,
+      "cls": 0,
+      "loadedScripts": [
+        "/assets/main-Bji8B6DS.js",
+        "/assets/DigitalDiagnostic-DnjhSmUm.js"
+      ]
+    },
+    {
+      "path": "/simulador/",
+      "status": 200,
+      "errors": [],
+      "title": "Simulador de Potencial Digital | Loop Avante",
+      "lang": "pt-BR",
+      "theme": "dark",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "h1Count": 1,
+      "fcp": 376,
+      "lcp": 376,
+      "cls": 0,
+      "loadedScripts": [
+        "/assets/main-Bji8B6DS.js",
+        "/assets/PotentialSimulator-DFxKrY5s.js",
+        "/assets/useAnalytics-ChVVgVxI.js",
+        "/assets/market-CKCpMV7u.js",
+        "/assets/AnalyticsUI-CEfZjWjU.js"
+      ]
+    },
+    {
+      "path": "/es/simulador/",
+      "status": 200,
+      "errors": [],
+      "title": "Simulador de Potencial Digital | Loop Avante",
+      "lang": "es",
+      "theme": "dark",
+      "width": 390,
+      "scrollWidth": 390,
+      "h1Count": 1,
+      "fcp": 384,
+      "lcp": 384,
+      "cls": 0,
+      "loadedScripts": [
+        "/assets/main-Bji8B6DS.js",
+        "/assets/PotentialSimulator-DFxKrY5s.js",
+        "/assets/useAnalytics-ChVVgVxI.js",
+        "/assets/market-CKCpMV7u.js",
+        "/assets/AnalyticsUI-CEfZjWjU.js"
+      ]
+    },
+    {
+      "path": "/orcamento/",
+      "status": 200,
+      "errors": [],
+      "title": "Orçamento e briefing do seu projeto | Loop Avante",
+      "lang": "pt-BR",
+      "theme": "dark",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "h1Count": 1,
+      "fcp": 576,
+      "lcp": 576,
+      "cls": 0,
+      "loadedScripts": [
+        "/assets/main-Bji8B6DS.js",
+        "/assets/QuoteBuilder-MrFMN0do.js",
+        "/assets/useAnalytics-ChVVgVxI.js",
+        "/assets/market-CKCpMV7u.js",
+        "/assets/intelligenceReport-BL5IYEek.js"
+      ]
+    },
+    {
+      "path": "/es/orcamento/",
+      "status": 200,
+      "errors": [],
+      "title": "Presupuesto y briefing de tu proyecto | Loop Avante",
+      "lang": "es",
+      "theme": "dark",
+      "width": 390,
+      "scrollWidth": 390,
+      "h1Count": 1,
+      "fcp": 296,
+      "lcp": 296,
+      "cls": 0,
+      "loadedScripts": [
+        "/assets/main-Bji8B6DS.js",
+        "/assets/QuoteBuilder-MrFMN0do.js",
+        "/assets/useAnalytics-ChVVgVxI.js",
+        "/assets/market-CKCpMV7u.js",
+        "/assets/intelligenceReport-BL5IYEek.js"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "path": "/robots.txt",
+      "status": 200
+    },
+    {
+      "path": "/favicon.svg",
+      "status": 200
+    },
+    {
+      "path": "/media/og-loop-pt.png",
+      "status": 200
+    },
+    {
+      "path": "/media/og-loop-es.png",
+      "status": 200
+    },
+    {
+      "path": "/fonts/plus-jakarta-sans-latin.woff2",
+      "status": 200
+    },
+    {
+      "path": "/promo/",
+      "status": 200
+    },
+    {
+      "path": "/caminho-inexistente",
+      "status": 404
+    },
+    {
+      "path": "/es/ruta-inexistente",
+      "status": 404
+    }
+  ],
+  "links": [
+    {
+      "link": "/inteligencia/#conteudo",
+      "status": 200,
+      "hashOk": true
+    },
+    {
+      "link": "/#inicio",
+      "status": 200,
+      "hashOk": true
+    },
+    {
+      "link": "/#solucoes",
+      "status": 200,
+      "hashOk": true
+    },
+    {
+      "link": "/inteligencia/",
+      "status": 200,
+      "hashOk": true
+    },
+    {
+      "link": "/projetos/",
+      "status": 200,
+      "hashOk": true
+    },
+    {
+      "link": "/#aplicativo",
+      "status": 200,
+      "hashOk": true
+    },
+    {
+      "link": "/diagnostico/",
+      "status": 200,
+      "hashOk": true
+    },
+    {
+      "link": "/#contato",
+      "status": 200,
+      "hashOk": true
+    },
+    {
+      "link": "/orcamento/",
+      "status": 200,
+      "hashOk": true
+    },
+    {
+      "link": "/",
+      "status": 200,
+      "hashOk": true
+    },
+    {
+      "link": "/inteligencia/mercado/",
+      "status": 200,
+      "hashOk": true
+    },
+    {
+      "link": "/simulador/",
+      "status": 200,
+      "hashOk": true
+    },
+    {
+      "link": "/inteligencia/produtividade/",
+      "status": 200,
+      "hashOk": true
+    },
+    {
+      "link": "/inteligencia/investimento/",
+      "status": 200,
+      "hashOk": true
+    },
+    {
+      "link": "/inteligencia/setores/",
+      "status": 200,
+      "hashOk": true
+    },
+    {
+      "link": "/inteligencia/relatorio/",
+      "status": 200,
+      "hashOk": true
+    },
+    {
+      "link": "/inteligencia/#int-tools",
+      "status": 200,
+      "hashOk": true
+    },
+    {
+      "link": "/es/inteligencia/#conteudo",
+      "status": 200,
+      "hashOk": true
+    },
+    {
+      "link": "/es/#inicio",
+      "status": 200,
+      "hashOk": true
+    },
+    {
+      "link": "/es/#solucoes",
+      "status": 200,
+      "hashOk": true
+    },
+    {
+      "link": "/es/inteligencia/",
+      "status": 200,
+      "hashOk": true
+    },
+    {
+      "link": "/es/projetos/",
+      "status": 200,
+      "hashOk": true
+    },
+    {
+      "link": "/es/#aplicativo",
+      "status": 200,
+      "hashOk": true
+    },
+    {
+      "link": "/es/diagnostico/",
+      "status": 200,
+      "hashOk": true
+    },
+    {
+      "link": "/es/#contato",
+      "status": 200,
+      "hashOk": true
+    },
+    {
+      "link": "/es/orcamento/",
+      "status": 200,
+      "hashOk": true
+    },
+    {
+      "link": "/es/",
+      "status": 200,
+      "hashOk": true
+    },
+    {
+      "link": "/es/inteligencia/mercado/",
+      "status": 200,
+      "hashOk": true
+    },
+    {
+      "link": "/es/simulador/",
+      "status": 200,
+      "hashOk": true
+    },
+    {
+      "link": "/es/inteligencia/produtividade/",
+      "status": 200,
+      "hashOk": true
+    },
+    {
+      "link": "/es/inteligencia/investimento/",
+      "status": 200,
+      "hashOk": true
+    },
+    {
+      "link": "/es/inteligencia/setores/",
+      "status": 200,
+      "hashOk": true
+    },
+    {
+      "link": "/es/inteligencia/relatorio/",
+      "status": 200,
+      "hashOk": true
+    },
+    {
+      "link": "/es/inteligencia/#int-tools",
+      "status": 200,
+      "hashOk": true
+    },
+    {
+      "link": "/inteligencia/mercado/#conteudo",
+      "status": 200,
+      "hashOk": true
+    },
+    {
+      "link": "/es/inteligencia/mercado/#conteudo",
+      "status": 200,
+      "hashOk": true
+    },
+    {
+      "link": "/inteligencia/produtividade/#conteudo",
+      "status": 200,
+      "hashOk": true
+    },
+    {
+      "link": "/es/inteligencia/produtividade/#conteudo",
+      "status": 200,
+      "hashOk": true
+    },
+    {
+      "link": "/inteligencia/investimento/#conteudo",
+      "status": 200,
+      "hashOk": true
+    },
+    {
+      "link": "/es/inteligencia/investimento/#conteudo",
+      "status": 200,
+      "hashOk": true
+    },
+    {
+      "link": "/inteligencia/setores/#conteudo",
+      "status": 200,
+      "hashOk": true
+    },
+    {
+      "link": "/es/inteligencia/setores/#conteudo",
+      "status": 200,
+      "hashOk": true
+    },
+    {
+      "link": "/inteligencia/relatorio/#conteudo",
+      "status": 200,
+      "hashOk": true
+    },
+    {
+      "link": "/es/inteligencia/relatorio/#conteudo",
+      "status": 200,
+      "hashOk": true
+    },
+    {
+      "link": "/#conteudo",
+      "status": 200,
+      "hashOk": true
+    },
+    {
+      "link": "/es/#conteudo",
+      "status": 200,
+      "hashOk": true
+    },
+    {
+      "link": "/projetos/#conteudo",
+      "status": 200,
+      "hashOk": true
+    },
+    {
+      "link": "/es/projetos/#conteudo",
+      "status": 200,
+      "hashOk": true
+    },
+    {
+      "link": "/diagnostico/#conteudo",
+      "status": 200,
+      "hashOk": true
+    },
+    {
+      "link": "/es/diagnostico/#conteudo",
+      "status": 200,
+      "hashOk": true
+    },
+    {
+      "link": "/simulador/#conteudo",
+      "status": 200,
+      "hashOk": true
+    },
+    {
+      "link": "/es/simulador/#conteudo",
+      "status": 200,
+      "hashOk": true
+    },
+    {
+      "link": "/orcamento/#conteudo",
+      "status": 200,
+      "hashOk": true
+    },
+    {
+      "link": "/es/orcamento/#conteudo",
+      "status": 200,
+      "hashOk": true
+    }
+  ]
+}

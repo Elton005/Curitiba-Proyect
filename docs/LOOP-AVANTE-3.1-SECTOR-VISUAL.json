@@ -1,0 +1,258 @@
+{
+  "results": [
+    {
+      "key": "sectors",
+      "width": 360,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "sectors",
+      "width": 360,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "sectors",
+      "width": 360,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "sectors",
+      "width": 360,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "sectors",
+      "width": 390,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "sectors",
+      "width": 390,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "sectors",
+      "width": 390,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "sectors",
+      "width": 390,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "sectors",
+      "width": 430,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "sectors",
+      "width": 430,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "sectors",
+      "width": 430,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "sectors",
+      "width": 430,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "sectors",
+      "width": 768,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "sectors",
+      "width": 768,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "sectors",
+      "width": 768,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "sectors",
+      "width": 768,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "sectors",
+      "width": 1024,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "sectors",
+      "width": 1024,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "sectors",
+      "width": 1024,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "sectors",
+      "width": 1024,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "sectors",
+      "width": 1440,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "sectors",
+      "width": 1440,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "sectors",
+      "width": 1440,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "sectors",
+      "width": 1440,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "sectors",
+      "width": 1920,
+      "language": "pt",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "sectors",
+      "width": 1920,
+      "language": "pt",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "sectors",
+      "width": 1920,
+      "language": "es",
+      "theme": "dark",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    },
+    {
+      "key": "sectors",
+      "width": 1920,
+      "language": "es",
+      "theme": "light",
+      "status": 200,
+      "overflow": false,
+      "failedModule": 0
+    }
+  ],
+  "errors": [],
+  "violations": []
+}
