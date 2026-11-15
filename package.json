@@ -1,0 +1,28 @@
+{
+  "name": "curitiba-proyect",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "node --test tests/*.test.mjs",
+    "test:e2e": "playwright test",
+    "assets:brand": "node scripts/create-brand-assets.mjs",
+    "qa:responsive": "playwright test --grep Visual",
+    "format": "prettier --write src scripts tests playwright.config.js vite.config.js index.html es/index.html 404.html assets/css/site.css projetos diagnostico simulador orcamento es/projetos es/diagnostico es/simulador es/orcamento es/404.html",
+    "pages": "node scripts/create-pages.mjs",
+    "prebuild": "node scripts/create-pages.mjs"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "devDependencies": {
+    "@axe-core/playwright": "^4.14.0",
+    "@playwright/test": "^1.65.1",
+    "prettier": "^3.10.1",
+    "vite": "^7.2.2"
+  }
+}
