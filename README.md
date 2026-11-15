@@ -1,2 +1,0 @@
-# Curitiba-Proyect
-Primeros pasos
